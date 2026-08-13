@@ -1,0 +1,16 @@
+window,subject,object,weight,dominant_cameo,dominant_polarity,top_verb
+buildup_mar,ISRAEL,IRAN,1,material_conflict,negative,attack
+buildup_mar,TRUMP,IRAN,1,verbal_conflict,negative,threaten
+buildup_apr,ARAGHCHI,USA,3,verbal_conflict,negative,denounce
+buildup_apr,TRUMP,IRAN,1,verbal_conflict,negative,threaten
+climax_w1,ISRAEL,IRAN,4,material_conflict,negative,attack
+climax_w1,IRAN,ISRAEL,3,material_conflict,negative,attack
+climax_w2,IRAN,ISRAEL,1,material_conflict,negative,attack
+climax_w2,TRUMP,IRAN,1,verbal_conflict,negative,warn
+aftermath_jun-jul,ISRAEL,IRAN,15,material_conflict,negative,attack
+aftermath_jun-jul,TRUMP,IRAN,2,material_conflict,negative,bomb
+aftermath_jun-jul,USA,IRAN,2,material_conflict,negative,attack
+aftermath_jun-jul,IRAN,ISRAEL,1,material_conflict,negative,attack
+aftermath_jun-jul,IRAN,USA,1,material_conflict,negative,attack
+aftermath_aug,USA,IRAN,1,material_conflict,negative,attack
+aftermath_aug,USA,ISRAEL,1,verbal_cooperation,positive,support

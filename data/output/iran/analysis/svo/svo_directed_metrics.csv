@@ -1,0 +1,7 @@
+window,n_actors,n_edges,density,reciprocity,triad_003,triad_012,triad_102,triad_021D,triad_021U,triad_021C,triad_111D,triad_111U,triad_030T,triad_030C,triad_201,triad_120D,triad_120U,triad_120C,triad_210,triad_300
+buildup_mar,3,2,0.3333,0.0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+buildup_apr,4,2,0.1667,0.0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+climax_w1,2,2,1.0,1.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+climax_w2,3,2,0.3333,0.0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+aftermath_jun-jul,5,7,0.35,0.5714,2,2,0,0,0,1,2,2,0,0,0,0,0,0,1,0
+aftermath_aug,3,2,0.3333,0.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0

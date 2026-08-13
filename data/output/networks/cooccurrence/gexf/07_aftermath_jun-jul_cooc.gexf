@@ -1,0 +1,2124 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2026-08-13">
+    <creator>NetworkX 3.6.1</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="edge">
+      <attribute id="6" title="weight_normalized" type="double" />
+      <attribute id="7" title="n_sources" type="long" />
+      <attribute id="8" title="top_source" type="string" />
+      <attribute id="9" title="polarity" type="string" />
+    </attributes>
+    <attributes mode="static" class="node">
+      <attribute id="0" title="bipartite" type="long" />
+      <attribute id="1" title="node_type" type="string" />
+      <attribute id="2" title="entity_type" type="string" />
+      <attribute id="3" title="degree" type="long" />
+      <attribute id="4" title="total_weight" type="long" />
+      <attribute id="5" title="total_weight_norm" type="double" />
+    </attributes>
+    <nodes>
+      <node id="ARAGHCHI" label="ARAGHCHI">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="actor" />
+          <attvalue for="2" value="PERSON" />
+          <attvalue for="3" value="5" />
+          <attvalue for="4" value="96" />
+          <attvalue for="5" value="0.1721" />
+        </attvalues>
+      </node>
+      <node id="BAHRAIN" label="BAHRAIN">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="actor" />
+          <attvalue for="2" value="GPE" />
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="8" />
+          <attvalue for="5" value="0.0144" />
+        </attvalues>
+      </node>
+      <node id="BIDEN" label="BIDEN">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="actor" />
+          <attvalue for="2" value="PERSON" />
+          <attvalue for="3" value="5" />
+          <attvalue for="4" value="42" />
+          <attvalue for="5" value="0.0753" />
+        </attvalues>
+      </node>
+      <node id="CHINA" label="CHINA">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="actor" />
+          <attvalue for="2" value="GPE" />
+          <attvalue for="3" value="5" />
+          <attvalue for="4" value="135" />
+          <attvalue for="5" value="0.242" />
+        </attvalues>
+      </node>
+      <node id="DEMOCRATS" label="DEMOCRATS">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="actor" />
+          <attvalue for="2" value="ORG" />
+          <attvalue for="3" value="5" />
+          <attvalue for="4" value="147" />
+          <attvalue for="5" value="0.2635" />
+        </attvalues>
+      </node>
+      <node id="EU" label="EU">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="actor" />
+          <attvalue for="2" value="ORG" />
+          <attvalue for="3" value="5" />
+          <attvalue for="4" value="111" />
+          <attvalue for="5" value="0.1989" />
+        </attvalues>
+      </node>
+      <node id="FRANCE" label="FRANCE">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="actor" />
+          <attvalue for="2" value="GPE" />
+          <attvalue for="3" value="5" />
+          <attvalue for="4" value="91" />
+          <attvalue for="5" value="0.163" />
+        </attvalues>
+      </node>
+      <node id="GAZA" label="GAZA">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="actor" />
+          <attvalue for="2" value="GPE" />
+          <attvalue for="3" value="5" />
+          <attvalue for="4" value="207" />
+          <attvalue for="5" value="0.371" />
+        </attvalues>
+      </node>
+      <node id="GERMANY" label="GERMANY">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="actor" />
+          <attvalue for="2" value="GPE" />
+          <attvalue for="3" value="4" />
+          <attvalue for="4" value="48" />
+          <attvalue for="5" value="0.086" />
+        </attvalues>
+      </node>
+      <node id="GROSSI" label="GROSSI">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="actor" />
+          <attvalue for="2" value="PERSON" />
+          <attvalue for="3" value="5" />
+          <attvalue for="4" value="166" />
+          <attvalue for="5" value="0.2976" />
+        </attvalues>
+      </node>
+      <node id="GULF_STATES" label="GULF_STATES">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="actor" />
+          <attvalue for="2" value="GPE" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+        </attvalues>
+      </node>
+      <node id="HAMAS" label="HAMAS">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="actor" />
+          <attvalue for="2" value="ORG" />
+          <attvalue for="3" value="5" />
+          <attvalue for="4" value="199" />
+          <attvalue for="5" value="0.3566" />
+        </attvalues>
+      </node>
+      <node id="HEGSETH" label="HEGSETH">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="actor" />
+          <attvalue for="2" value="PERSON" />
+          <attvalue for="3" value="5" />
+          <attvalue for="4" value="242" />
+          <attvalue for="5" value="0.4336" />
+        </attvalues>
+      </node>
+      <node id="HEZBOLLAH" label="HEZBOLLAH">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="actor" />
+          <attvalue for="2" value="ORG" />
+          <attvalue for="3" value="5" />
+          <attvalue for="4" value="72" />
+          <attvalue for="5" value="0.1289" />
+        </attvalues>
+      </node>
+      <node id="HOUTHIS" label="HOUTHIS">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="actor" />
+          <attvalue for="2" value="ORG" />
+          <attvalue for="3" value="5" />
+          <attvalue for="4" value="42" />
+          <attvalue for="5" value="0.0753" />
+        </attvalues>
+      </node>
+      <node id="IAEA" label="IAEA">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="actor" />
+          <attvalue for="2" value="ORG" />
+          <attvalue for="3" value="5" />
+          <attvalue for="4" value="309" />
+          <attvalue for="5" value="0.5537" />
+        </attvalues>
+      </node>
+      <node id="IRAN" label="IRAN">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="actor" />
+          <attvalue for="2" value="GPE" />
+          <attvalue for="3" value="5" />
+          <attvalue for="4" value="6643" />
+          <attvalue for="5" value="11.905" />
+        </attvalues>
+      </node>
+      <node id="IRAQ" label="IRAQ">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="actor" />
+          <attvalue for="2" value="GPE" />
+          <attvalue for="3" value="5" />
+          <attvalue for="4" value="97" />
+          <attvalue for="5" value="0.1738" />
+        </attvalues>
+      </node>
+      <node id="ISRAEL" label="ISRAEL">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="actor" />
+          <attvalue for="2" value="GPE" />
+          <attvalue for="3" value="5" />
+          <attvalue for="4" value="2393" />
+          <attvalue for="5" value="4.2884" />
+        </attvalues>
+      </node>
+      <node id="KHAMENEI" label="KHAMENEI">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="actor" />
+          <attvalue for="2" value="PERSON" />
+          <attvalue for="3" value="5" />
+          <attvalue for="4" value="193" />
+          <attvalue for="5" value="0.346" />
+        </attvalues>
+      </node>
+      <node id="LEBANON" label="LEBANON">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="actor" />
+          <attvalue for="2" value="GPE" />
+          <attvalue for="3" value="5" />
+          <attvalue for="4" value="79" />
+          <attvalue for="5" value="0.1415" />
+        </attvalues>
+      </node>
+      <node id="NATO" label="NATO">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="actor" />
+          <attvalue for="2" value="ORG" />
+          <attvalue for="3" value="5" />
+          <attvalue for="4" value="143" />
+          <attvalue for="5" value="0.2563" />
+        </attvalues>
+      </node>
+      <node id="NETANYAHU" label="NETANYAHU">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="actor" />
+          <attvalue for="2" value="PERSON" />
+          <attvalue for="3" value="5" />
+          <attvalue for="4" value="389" />
+          <attvalue for="5" value="0.6972" />
+        </attvalues>
+      </node>
+      <node id="OBAMA" label="OBAMA">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="actor" />
+          <attvalue for="2" value="PERSON" />
+          <attvalue for="3" value="5" />
+          <attvalue for="4" value="132" />
+          <attvalue for="5" value="0.2366" />
+        </attvalues>
+      </node>
+      <node id="OMAN" label="OMAN">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="actor" />
+          <attvalue for="2" value="GPE" />
+          <attvalue for="3" value="3" />
+          <attvalue for="4" value="21" />
+          <attvalue for="5" value="0.0377" />
+        </attvalues>
+      </node>
+      <node id="PEZESHKIAN" label="PEZESHKIAN">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="actor" />
+          <attvalue for="2" value="PERSON" />
+          <attvalue for="3" value="5" />
+          <attvalue for="4" value="30" />
+          <attvalue for="5" value="0.0538" />
+        </attvalues>
+      </node>
+      <node id="PUTIN" label="PUTIN">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="actor" />
+          <attvalue for="2" value="PERSON" />
+          <attvalue for="3" value="5" />
+          <attvalue for="4" value="59" />
+          <attvalue for="5" value="0.1058" />
+        </attvalues>
+      </node>
+      <node id="QATAR" label="QATAR">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="actor" />
+          <attvalue for="2" value="GPE" />
+          <attvalue for="3" value="5" />
+          <attvalue for="4" value="128" />
+          <attvalue for="5" value="0.2293" />
+        </attvalues>
+      </node>
+      <node id="REPUBLICANS" label="REPUBLICANS">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="actor" />
+          <attvalue for="2" value="ORG" />
+          <attvalue for="3" value="5" />
+          <attvalue for="4" value="109" />
+          <attvalue for="5" value="0.1953" />
+        </attvalues>
+      </node>
+      <node id="RUBIO" label="RUBIO">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="actor" />
+          <attvalue for="2" value="PERSON" />
+          <attvalue for="3" value="5" />
+          <attvalue for="4" value="119" />
+          <attvalue for="5" value="0.2133" />
+        </attvalues>
+      </node>
+      <node id="RUSSIA" label="RUSSIA">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="actor" />
+          <attvalue for="2" value="GPE" />
+          <attvalue for="3" value="5" />
+          <attvalue for="4" value="275" />
+          <attvalue for="5" value="0.4928" />
+        </attvalues>
+      </node>
+      <node id="SAUDI_ARABIA" label="SAUDI_ARABIA">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="actor" />
+          <attvalue for="2" value="GPE" />
+          <attvalue for="3" value="5" />
+          <attvalue for="4" value="50" />
+          <attvalue for="5" value="0.0896" />
+        </attvalues>
+      </node>
+      <node id="SYRIA" label="SYRIA">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="actor" />
+          <attvalue for="2" value="GPE" />
+          <attvalue for="3" value="5" />
+          <attvalue for="4" value="66" />
+          <attvalue for="5" value="0.1183" />
+        </attvalues>
+      </node>
+      <node id="TRUMP" label="TRUMP">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="actor" />
+          <attvalue for="2" value="PERSON" />
+          <attvalue for="3" value="5" />
+          <attvalue for="4" value="2829" />
+          <attvalue for="5" value="5.0699" />
+        </attvalues>
+      </node>
+      <node id="UAE" label="UAE">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="actor" />
+          <attvalue for="2" value="GPE" />
+          <attvalue for="3" value="4" />
+          <attvalue for="4" value="29" />
+          <attvalue for="5" value="0.052" />
+        </attvalues>
+      </node>
+      <node id="UK" label="UK">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="actor" />
+          <attvalue for="2" value="GPE" />
+          <attvalue for="3" value="5" />
+          <attvalue for="4" value="61" />
+          <attvalue for="5" value="0.1094" />
+        </attvalues>
+      </node>
+      <node id="UKRAINE" label="UKRAINE">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="actor" />
+          <attvalue for="2" value="GPE" />
+          <attvalue for="3" value="5" />
+          <attvalue for="4" value="180" />
+          <attvalue for="5" value="0.3225" />
+        </attvalues>
+      </node>
+      <node id="UN_SECURITY_COUNCIL" label="UN_SECURITY_COUNCIL">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="actor" />
+          <attvalue for="2" value="ORG" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0" />
+        </attvalues>
+      </node>
+      <node id="USA" label="USA">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="actor" />
+          <attvalue for="2" value="GPE" />
+          <attvalue for="3" value="5" />
+          <attvalue for="4" value="3671" />
+          <attvalue for="5" value="6.5788" />
+        </attvalues>
+      </node>
+      <node id="US_CONGRESS" label="US_CONGRESS">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="actor" />
+          <attvalue for="2" value="ORG" />
+          <attvalue for="3" value="5" />
+          <attvalue for="4" value="127" />
+          <attvalue for="5" value="0.2276" />
+        </attvalues>
+      </node>
+      <node id="US_SENATE" label="US_SENATE">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="actor" />
+          <attvalue for="2" value="ORG" />
+          <attvalue for="3" value="5" />
+          <attvalue for="4" value="36" />
+          <attvalue for="5" value="0.0645" />
+        </attvalues>
+      </node>
+      <node id="VANCE" label="VANCE">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="actor" />
+          <attvalue for="2" value="PERSON" />
+          <attvalue for="3" value="3" />
+          <attvalue for="4" value="28" />
+          <attvalue for="5" value="0.0501" />
+        </attvalues>
+      </node>
+      <node id="WITKOFF" label="WITKOFF">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="actor" />
+          <attvalue for="2" value="PERSON" />
+          <attvalue for="3" value="5" />
+          <attvalue for="4" value="31" />
+          <attvalue for="5" value="0.0557" />
+        </attvalues>
+      </node>
+      <node id="YEMEN" label="YEMEN">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="actor" />
+          <attvalue for="2" value="GPE" />
+          <attvalue for="3" value="5" />
+          <attvalue for="4" value="35" />
+          <attvalue for="5" value="0.0628" />
+        </attvalues>
+      </node>
+      <node id="military_action" label="military_action">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="concept" />
+          <attvalue for="2" value="CONCEPT" />
+          <attvalue for="3" value="42" />
+          <attvalue for="4" value="8337" />
+          <attvalue for="5" value="14.9406" />
+        </attvalues>
+      </node>
+      <node id="nuclear_program" label="nuclear_program">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="concept" />
+          <attvalue for="2" value="CONCEPT" />
+          <attvalue for="3" value="42" />
+          <attvalue for="4" value="5454" />
+          <attvalue for="5" value="9.7743" />
+        </attvalues>
+      </node>
+      <node id="deterrence" label="deterrence">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="concept" />
+          <attvalue for="2" value="CONCEPT" />
+          <attvalue for="3" value="39" />
+          <attvalue for="4" value="1226" />
+          <attvalue for="5" value="2.1971" />
+        </attvalues>
+      </node>
+      <node id="diplomacy" label="diplomacy">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="concept" />
+          <attvalue for="2" value="CONCEPT" />
+          <attvalue for="3" value="40" />
+          <attvalue for="4" value="2981" />
+          <attvalue for="5" value="5.3422" />
+        </attvalues>
+      </node>
+      <node id="strike_claims" label="strike_claims">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="concept" />
+          <attvalue for="2" value="CONCEPT" />
+          <attvalue for="3" value="38" />
+          <attvalue for="4" value="1870" />
+          <attvalue for="5" value="3.3517" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="ARAGHCHI" target="nuclear_program" id="0" weight="33">
+        <attvalues>
+          <attvalue for="6" value="0.0591" />
+          <attvalue for="7" value="9" />
+          <attvalue for="8" value="Telegraph Herald (Dubuque, IA)" />
+          <attvalue for="9" value="neutral" />
+        </attvalues>
+      </edge>
+      <edge source="ARAGHCHI" target="military_action" id="1" weight="30">
+        <attvalues>
+          <attvalue for="6" value="0.0538" />
+          <attvalue for="7" value="8" />
+          <attvalue for="8" value="The New York Times" />
+          <attvalue for="9" value="negative" />
+        </attvalues>
+      </edge>
+      <edge source="ARAGHCHI" target="diplomacy" id="2" weight="25">
+        <attvalues>
+          <attvalue for="6" value="0.0448" />
+          <attvalue for="7" value="6" />
+          <attvalue for="8" value="The New York Times" />
+          <attvalue for="9" value="positive" />
+        </attvalues>
+      </edge>
+      <edge source="ARAGHCHI" target="strike_claims" id="3" weight="6">
+        <attvalues>
+          <attvalue for="6" value="0.0108" />
+          <attvalue for="7" value="2" />
+          <attvalue for="8" value="TheHill.com" />
+          <attvalue for="9" value="neutral" />
+        </attvalues>
+      </edge>
+      <edge source="ARAGHCHI" target="deterrence" id="4" weight="2">
+        <attvalues>
+          <attvalue for="6" value="0.0036" />
+          <attvalue for="7" value="1" />
+          <attvalue for="8" value="TheHill.com" />
+          <attvalue for="9" value="negative" />
+        </attvalues>
+      </edge>
+      <edge source="BAHRAIN" target="nuclear_program" id="5" weight="2">
+        <attvalues>
+          <attvalue for="6" value="0.0036" />
+          <attvalue for="7" value="1" />
+          <attvalue for="8" value="The New York Times" />
+          <attvalue for="9" value="neutral" />
+        </attvalues>
+      </edge>
+      <edge source="BAHRAIN" target="military_action" id="6" weight="6">
+        <attvalues>
+          <attvalue for="6" value="0.0108" />
+          <attvalue for="7" value="3" />
+          <attvalue for="8" value="The New York Times" />
+          <attvalue for="9" value="negative" />
+        </attvalues>
+      </edge>
+      <edge source="BIDEN" target="diplomacy" id="7" weight="5">
+        <attvalues>
+          <attvalue for="6" value="0.009" />
+          <attvalue for="7" value="3" />
+          <attvalue for="8" value="TheHill.com" />
+          <attvalue for="9" value="positive" />
+        </attvalues>
+      </edge>
+      <edge source="BIDEN" target="nuclear_program" id="8" weight="9">
+        <attvalues>
+          <attvalue for="6" value="0.0161" />
+          <attvalue for="7" value="5" />
+          <attvalue for="8" value="The New York Times" />
+          <attvalue for="9" value="neutral" />
+        </attvalues>
+      </edge>
+      <edge source="BIDEN" target="military_action" id="9" weight="15">
+        <attvalues>
+          <attvalue for="6" value="0.0269" />
+          <attvalue for="7" value="7" />
+          <attvalue for="8" value="The New York Times" />
+          <attvalue for="9" value="negative" />
+        </attvalues>
+      </edge>
+      <edge source="BIDEN" target="strike_claims" id="10" weight="4">
+        <attvalues>
+          <attvalue for="6" value="0.0072" />
+          <attvalue for="7" value="3" />
+          <attvalue for="8" value="The New York Times" />
+          <attvalue for="9" value="neutral" />
+        </attvalues>
+      </edge>
+      <edge source="BIDEN" target="deterrence" id="11" weight="9">
+        <attvalues>
+          <attvalue for="6" value="0.0161" />
+          <attvalue for="7" value="5" />
+          <attvalue for="8" value="The New York Times" />
+          <attvalue for="9" value="negative" />
+        </attvalues>
+      </edge>
+      <edge source="CHINA" target="diplomacy" id="12" weight="40">
+        <attvalues>
+          <attvalue for="6" value="0.0717" />
+          <attvalue for="7" value="11" />
+          <attvalue for="8" value="The New York Times" />
+          <attvalue for="9" value="positive" />
+        </attvalues>
+      </edge>
+      <edge source="CHINA" target="nuclear_program" id="13" weight="21">
+        <attvalues>
+          <attvalue for="6" value="0.0376" />
+          <attvalue for="7" value="9" />
+          <attvalue for="8" value="The New York Times" />
+          <attvalue for="9" value="neutral" />
+        </attvalues>
+      </edge>
+      <edge source="CHINA" target="deterrence" id="14" weight="26">
+        <attvalues>
+          <attvalue for="6" value="0.0466" />
+          <attvalue for="7" value="13" />
+          <attvalue for="8" value="The New York Times" />
+          <attvalue for="9" value="negative" />
+        </attvalues>
+      </edge>
+      <edge source="CHINA" target="military_action" id="15" weight="44">
+        <attvalues>
+          <attvalue for="6" value="0.0789" />
+          <attvalue for="7" value="11" />
+          <attvalue for="8" value="The New York Times" />
+          <attvalue for="9" value="negative" />
+        </attvalues>
+      </edge>
+      <edge source="CHINA" target="strike_claims" id="16" weight="4">
+        <attvalues>
+          <attvalue for="6" value="0.0072" />
+          <attvalue for="7" value="2" />
+          <attvalue for="8" value="TheHill.com" />
+          <attvalue for="9" value="neutral" />
+        </attvalues>
+      </edge>
+      <edge source="DEMOCRATS" target="deterrence" id="17" weight="11">
+        <attvalues>
+          <attvalue for="6" value="0.0197" />
+          <attvalue for="7" value="6" />
+          <attvalue for="8" value="TheHill.com" />
+          <attvalue for="9" value="negative" />
+        </attvalues>
+      </edge>
+      <edge source="DEMOCRATS" target="military_action" id="18" weight="89">
+        <attvalues>
+          <attvalue for="6" value="0.1595" />
+          <attvalue for="7" value="16" />
+          <attvalue for="8" value="The New York Times" />
+          <attvalue for="9" value="negative" />
+        </attvalues>
+      </edge>
+      <edge source="DEMOCRATS" target="strike_claims" id="19" weight="16">
+        <attvalues>
+          <attvalue for="6" value="0.0287" />
+          <attvalue for="7" value="5" />
+          <attvalue for="8" value="TheHill.com" />
+          <attvalue for="9" value="neutral" />
+        </attvalues>
+      </edge>
+      <edge source="DEMOCRATS" target="nuclear_program" id="20" weight="25">
+        <attvalues>
+          <attvalue for="6" value="0.0448" />
+          <attvalue for="7" value="9" />
+          <attvalue for="8" value="TheHill.com" />
+          <attvalue for="9" value="neutral" />
+        </attvalues>
+      </edge>
+      <edge source="DEMOCRATS" target="diplomacy" id="21" weight="6">
+        <attvalues>
+          <attvalue for="6" value="0.0108" />
+          <attvalue for="7" value="3" />
+          <attvalue for="8" value="TheHill.com" />
+          <attvalue for="9" value="positive" />
+        </attvalues>
+      </edge>
+      <edge source="EU" target="military_action" id="22" weight="22">
+        <attvalues>
+          <attvalue for="6" value="0.0394" />
+          <attvalue for="7" value="6" />
+          <attvalue for="8" value="The New York Times" />
+          <attvalue for="9" value="negative" />
+        </attvalues>
+      </edge>
+      <edge source="EU" target="diplomacy" id="23" weight="47">
+        <attvalues>
+          <attvalue for="6" value="0.0842" />
+          <attvalue for="7" value="7" />
+          <attvalue for="8" value="The New York Times" />
+          <attvalue for="9" value="positive" />
+        </attvalues>
+      </edge>
+      <edge source="EU" target="nuclear_program" id="24" weight="28">
+        <attvalues>
+          <attvalue for="6" value="0.0502" />
+          <attvalue for="7" value="8" />
+          <attvalue for="8" value="The New York Times" />
+          <attvalue for="9" value="neutral" />
+        </attvalues>
+      </edge>
+      <edge source="EU" target="strike_claims" id="25" weight="2">
+        <attvalues>
+          <attvalue for="6" value="0.0036" />
+          <attvalue for="7" value="2" />
+          <attvalue for="8" value="Tribune-Review (Greensburg, PA)" />
+          <attvalue for="9" value="neutral" />
+        </attvalues>
+      </edge>
+      <edge source="EU" target="deterrence" id="26" weight="12">
+        <attvalues>
+          <attvalue for="6" value="0.0215" />
+          <attvalue for="7" value="5" />
+          <attvalue for="8" value="The New York Times" />
+          <attvalue for="9" value="negative" />
+        </attvalues>
+      </edge>
+      <edge source="FRANCE" target="military_action" id="27" weight="14">
+        <attvalues>
+          <attvalue for="6" value="0.0251" />
+          <attvalue for="7" value="9" />
+          <attvalue for="8" value="The New York Times" />
+          <attvalue for="9" value="negative" />
+        </attvalues>
+      </edge>
+      <edge source="FRANCE" target="nuclear_program" id="28" weight="37">
+        <attvalues>
+          <attvalue for="6" value="0.0663" />
+          <attvalue for="7" value="14" />
+          <attvalue for="8" value="The New York Times" />
+          <attvalue for="9" value="neutral" />
+        </attvalues>
+      </edge>
+      <edge source="FRANCE" target="deterrence" id="29" weight="12">
+        <attvalues>
+          <attvalue for="6" value="0.0215" />
+          <attvalue for="7" value="4" />
+          <attvalue for="8" value="The New York Times" />
+          <attvalue for="9" value="negative" />
+        </attvalues>
+      </edge>
+      <edge source="FRANCE" target="diplomacy" id="30" weight="21">
+        <attvalues>
+          <attvalue for="6" value="0.0376" />
+          <attvalue for="7" value="5" />
+          <attvalue for="8" value="The New York Times" />
+          <attvalue for="9" value="positive" />
+        </attvalues>
+      </edge>
+      <edge source="FRANCE" target="strike_claims" id="31" weight="7">
+        <attvalues>
+          <attvalue for="6" value="0.0125" />
+          <attvalue for="7" value="5" />
+          <attvalue for="8" value="TheHill.com" />
+          <attvalue for="9" value="neutral" />
+        </attvalues>
+      </edge>
+      <edge source="GAZA" target="military_action" id="32" weight="78">
+        <attvalues>
+          <attvalue for="6" value="0.1398" />
+          <attvalue for="7" value="17" />
+          <attvalue for="8" value="The New York Times" />
+          <attvalue for="9" value="negative" />
+        </attvalues>
+      </edge>
+      <edge source="GAZA" target="diplomacy" id="33" weight="85">
+        <attvalues>
+          <attvalue for="6" value="0.1523" />
+          <attvalue for="7" value="12" />
+          <attvalue for="8" value="The New York Times" />
+          <attvalue for="9" value="positive" />
+        </attvalues>
+      </edge>
+      <edge source="GAZA" target="strike_claims" id="34" weight="19">
+        <attvalues>
+          <attvalue for="6" value="0.0341" />
+          <attvalue for="7" value="8" />
+          <attvalue for="8" value="The New York Times" />
+          <attvalue for="9" value="neutral" />
+        </attvalues>
+      </edge>
+      <edge source="GAZA" target="deterrence" id="35" weight="10">
+        <attvalues>
+          <attvalue for="6" value="0.0179" />
+          <attvalue for="7" value="6" />
+          <attvalue for="8" value="The New York Times" />
+          <attvalue for="9" value="negative" />
+        </attvalues>
+      </edge>
+      <edge source="GAZA" target="nuclear_program" id="36" weight="15">
+        <attvalues>
+          <attvalue for="6" value="0.0269" />
+          <attvalue for="7" value="4" />
+          <attvalue for="8" value="The New York Times" />
+          <attvalue for="9" value="neutral" />
+        </attvalues>
+      </edge>
+      <edge source="GERMANY" target="military_action" id="37" weight="10">
+        <attvalues>
+          <attvalue for="6" value="0.0179" />
+          <attvalue for="7" value="7" />
+          <attvalue for="8" value="St. Louis Post-Dispatch (Missouri)" />
+          <attvalue for="9" value="negative" />
+        </attvalues>
+      </edge>
+      <edge source="GERMANY" target="nuclear_program" id="38" weight="21">
+        <attvalues>
+          <attvalue for="6" value="0.0376" />
+          <attvalue for="7" value="6" />
+          <attvalue for="8" value="The New York Times" />
+          <attvalue for="9" value="neutral" />
+        </attvalues>
+      </edge>
+      <edge source="GERMANY" target="diplomacy" id="39" weight="13">
+        <attvalues>
+          <attvalue for="6" value="0.0233" />
+          <attvalue for="7" value="3" />
+          <attvalue for="8" value="The New York Times" />
+          <attvalue for="9" value="positive" />
+        </attvalues>
+      </edge>
+      <edge source="GERMANY" target="deterrence" id="40" weight="4">
+        <attvalues>
+          <attvalue for="6" value="0.0072" />
+          <attvalue for="7" value="1" />
+          <attvalue for="8" value="The New York Times" />
+          <attvalue for="9" value="negative" />
+        </attvalues>
+      </edge>
+      <edge source="GROSSI" target="strike_claims" id="41" weight="17">
+        <attvalues>
+          <attvalue for="6" value="0.0305" />
+          <attvalue for="7" value="8" />
+          <attvalue for="8" value="The New York Times" />
+          <attvalue for="9" value="neutral" />
+        </attvalues>
+      </edge>
+      <edge source="GROSSI" target="nuclear_program" id="42" weight="89">
+        <attvalues>
+          <attvalue for="6" value="0.1595" />
+          <attvalue for="7" value="11" />
+          <attvalue for="8" value="The New York Times" />
+          <attvalue for="9" value="neutral" />
+        </attvalues>
+      </edge>
+      <edge source="GROSSI" target="military_action" id="43" weight="53">
+        <attvalues>
+          <attvalue for="6" value="0.095" />
+          <attvalue for="7" value="9" />
+          <attvalue for="8" value="The New York Times" />
+          <attvalue for="9" value="negative" />
+        </attvalues>
+      </edge>
+      <edge source="GROSSI" target="deterrence" id="44" weight="3">
+        <attvalues>
+          <attvalue for="6" value="0.0054" />
+          <attvalue for="7" value="2" />
+          <attvalue for="8" value="The New York Times" />
+          <attvalue for="9" value="negative" />
+        </attvalues>
+      </edge>
+      <edge source="GROSSI" target="diplomacy" id="45" weight="4">
+        <attvalues>
+          <attvalue for="6" value="0.0072" />
+          <attvalue for="7" value="4" />
+          <attvalue for="8" value="Telegraph Herald (Dubuque, IA)" />
+          <attvalue for="9" value="positive" />
+        </attvalues>
+      </edge>
+      <edge source="HAMAS" target="diplomacy" id="46" weight="83">
+        <attvalues>
+          <attvalue for="6" value="0.1487" />
+          <attvalue for="7" value="9" />
+          <attvalue for="8" value="The New York Times" />
+          <attvalue for="9" value="positive" />
+        </attvalues>
+      </edge>
+      <edge source="HAMAS" target="strike_claims" id="47" weight="18">
+        <attvalues>
+          <attvalue for="6" value="0.0323" />
+          <attvalue for="7" value="8" />
+          <attvalue for="8" value="The New York Times" />
+          <attvalue for="9" value="neutral" />
+        </attvalues>
+      </edge>
+      <edge source="HAMAS" target="military_action" id="48" weight="83">
+        <attvalues>
+          <attvalue for="6" value="0.1487" />
+          <attvalue for="7" value="17" />
+          <attvalue for="8" value="The New York Times" />
+          <attvalue for="9" value="negative" />
+        </attvalues>
+      </edge>
+      <edge source="HAMAS" target="deterrence" id="49" weight="9">
+        <attvalues>
+          <attvalue for="6" value="0.0161" />
+          <attvalue for="7" value="6" />
+          <attvalue for="8" value="St. Louis Post-Dispatch (Missouri)" />
+          <attvalue for="9" value="negative" />
+        </attvalues>
+      </edge>
+      <edge source="HAMAS" target="nuclear_program" id="50" weight="6">
+        <attvalues>
+          <attvalue for="6" value="0.0108" />
+          <attvalue for="7" value="3" />
+          <attvalue for="8" value="The New York Times" />
+          <attvalue for="9" value="neutral" />
+        </attvalues>
+      </edge>
+      <edge source="HEGSETH" target="strike_claims" id="51" weight="46">
+        <attvalues>
+          <attvalue for="6" value="0.0824" />
+          <attvalue for="7" value="12" />
+          <attvalue for="8" value="TheHill.com" />
+          <attvalue for="9" value="neutral" />
+        </attvalues>
+      </edge>
+      <edge source="HEGSETH" target="nuclear_program" id="52" weight="72">
+        <attvalues>
+          <attvalue for="6" value="0.129" />
+          <attvalue for="7" value="12" />
+          <attvalue for="8" value="TheHill.com" />
+          <attvalue for="9" value="neutral" />
+        </attvalues>
+      </edge>
+      <edge source="HEGSETH" target="military_action" id="53" weight="114">
+        <attvalues>
+          <attvalue for="6" value="0.2043" />
+          <attvalue for="7" value="16" />
+          <attvalue for="8" value="TheHill.com" />
+          <attvalue for="9" value="negative" />
+        </attvalues>
+      </edge>
+      <edge source="HEGSETH" target="diplomacy" id="54" weight="1">
+        <attvalues>
+          <attvalue for="6" value="0.0018" />
+          <attvalue for="7" value="1" />
+          <attvalue for="8" value="USA Today Online" />
+          <attvalue for="9" value="positive" />
+        </attvalues>
+      </edge>
+      <edge source="HEGSETH" target="deterrence" id="55" weight="9">
+        <attvalues>
+          <attvalue for="6" value="0.0161" />
+          <attvalue for="7" value="4" />
+          <attvalue for="8" value="The New York Times" />
+          <attvalue for="9" value="negative" />
+        </attvalues>
+      </edge>
+      <edge source="HEZBOLLAH" target="deterrence" id="56" weight="15">
+        <attvalues>
+          <attvalue for="6" value="0.0269" />
+          <attvalue for="7" value="6" />
+          <attvalue for="8" value="The New York Times" />
+          <attvalue for="9" value="negative" />
+        </attvalues>
+      </edge>
+      <edge source="HEZBOLLAH" target="military_action" id="57" weight="35">
+        <attvalues>
+          <attvalue for="6" value="0.0627" />
+          <attvalue for="7" value="6" />
+          <attvalue for="8" value="The New York Times" />
+          <attvalue for="9" value="negative" />
+        </attvalues>
+      </edge>
+      <edge source="HEZBOLLAH" target="strike_claims" id="58" weight="8">
+        <attvalues>
+          <attvalue for="6" value="0.0143" />
+          <attvalue for="7" value="5" />
+          <attvalue for="8" value="The New York Times" />
+          <attvalue for="9" value="neutral" />
+        </attvalues>
+      </edge>
+      <edge source="HEZBOLLAH" target="nuclear_program" id="59" weight="7">
+        <attvalues>
+          <attvalue for="6" value="0.0125" />
+          <attvalue for="7" value="4" />
+          <attvalue for="8" value="The New York Times" />
+          <attvalue for="9" value="neutral" />
+        </attvalues>
+      </edge>
+      <edge source="HEZBOLLAH" target="diplomacy" id="60" weight="7">
+        <attvalues>
+          <attvalue for="6" value="0.0125" />
+          <attvalue for="7" value="2" />
+          <attvalue for="8" value="The New York Times" />
+          <attvalue for="9" value="positive" />
+        </attvalues>
+      </edge>
+      <edge source="HOUTHIS" target="military_action" id="61" weight="22">
+        <attvalues>
+          <attvalue for="6" value="0.0394" />
+          <attvalue for="7" value="5" />
+          <attvalue for="8" value="The New York Times" />
+          <attvalue for="9" value="negative" />
+        </attvalues>
+      </edge>
+      <edge source="HOUTHIS" target="deterrence" id="62" weight="7">
+        <attvalues>
+          <attvalue for="6" value="0.0125" />
+          <attvalue for="7" value="6" />
+          <attvalue for="8" value="St. Louis Post-Dispatch (Missouri)" />
+          <attvalue for="9" value="negative" />
+        </attvalues>
+      </edge>
+      <edge source="HOUTHIS" target="strike_claims" id="63" weight="5">
+        <attvalues>
+          <attvalue for="6" value="0.009" />
+          <attvalue for="7" value="4" />
+          <attvalue for="8" value="TheHill.com" />
+          <attvalue for="9" value="neutral" />
+        </attvalues>
+      </edge>
+      <edge source="HOUTHIS" target="nuclear_program" id="64" weight="5">
+        <attvalues>
+          <attvalue for="6" value="0.009" />
+          <attvalue for="7" value="3" />
+          <attvalue for="8" value="The New York Times" />
+          <attvalue for="9" value="neutral" />
+        </attvalues>
+      </edge>
+      <edge source="HOUTHIS" target="diplomacy" id="65" weight="3">
+        <attvalues>
+          <attvalue for="6" value="0.0054" />
+          <attvalue for="7" value="2" />
+          <attvalue for="8" value="The New York Times" />
+          <attvalue for="9" value="positive" />
+        </attvalues>
+      </edge>
+      <edge source="IAEA" target="nuclear_program" id="66" weight="199">
+        <attvalues>
+          <attvalue for="6" value="0.3566" />
+          <attvalue for="7" value="20" />
+          <attvalue for="8" value="The New York Times" />
+          <attvalue for="9" value="neutral" />
+        </attvalues>
+      </edge>
+      <edge source="IAEA" target="military_action" id="67" weight="74">
+        <attvalues>
+          <attvalue for="6" value="0.1326" />
+          <attvalue for="7" value="12" />
+          <attvalue for="8" value="The New York Times" />
+          <attvalue for="9" value="negative" />
+        </attvalues>
+      </edge>
+      <edge source="IAEA" target="deterrence" id="68" weight="5">
+        <attvalues>
+          <attvalue for="6" value="0.009" />
+          <attvalue for="7" value="2" />
+          <attvalue for="8" value="The New York Times" />
+          <attvalue for="9" value="negative" />
+        </attvalues>
+      </edge>
+      <edge source="IAEA" target="strike_claims" id="69" weight="21">
+        <attvalues>
+          <attvalue for="6" value="0.0376" />
+          <attvalue for="7" value="4" />
+          <attvalue for="8" value="The New York Times" />
+          <attvalue for="9" value="neutral" />
+        </attvalues>
+      </edge>
+      <edge source="IAEA" target="diplomacy" id="70" weight="10">
+        <attvalues>
+          <attvalue for="6" value="0.0179" />
+          <attvalue for="7" value="6" />
+          <attvalue for="8" value="The New York Times" />
+          <attvalue for="9" value="positive" />
+        </attvalues>
+      </edge>
+      <edge source="IRAN" target="nuclear_program" id="71" weight="2241">
+        <attvalues>
+          <attvalue for="6" value="4.0161" />
+          <attvalue for="7" value="49" />
+          <attvalue for="8" value="The New York Times" />
+          <attvalue for="9" value="neutral" />
+        </attvalues>
+      </edge>
+      <edge source="IRAN" target="military_action" id="72" weight="2654">
+        <attvalues>
+          <attvalue for="6" value="4.7563" />
+          <attvalue for="7" value="50" />
+          <attvalue for="8" value="The New York Times" />
+          <attvalue for="9" value="negative" />
+        </attvalues>
+      </edge>
+      <edge source="IRAN" target="diplomacy" id="73" weight="786">
+        <attvalues>
+          <attvalue for="6" value="1.4086" />
+          <attvalue for="7" value="41" />
+          <attvalue for="8" value="The New York Times" />
+          <attvalue for="9" value="positive" />
+        </attvalues>
+      </edge>
+      <edge source="IRAN" target="deterrence" id="74" weight="338">
+        <attvalues>
+          <attvalue for="6" value="0.6057" />
+          <attvalue for="7" value="38" />
+          <attvalue for="8" value="The New York Times" />
+          <attvalue for="9" value="negative" />
+        </attvalues>
+      </edge>
+      <edge source="IRAN" target="strike_claims" id="75" weight="624">
+        <attvalues>
+          <attvalue for="6" value="1.1183" />
+          <attvalue for="7" value="37" />
+          <attvalue for="8" value="The New York Times" />
+          <attvalue for="9" value="neutral" />
+        </attvalues>
+      </edge>
+      <edge source="IRAQ" target="nuclear_program" id="76" weight="16">
+        <attvalues>
+          <attvalue for="6" value="0.0287" />
+          <attvalue for="7" value="6" />
+          <attvalue for="8" value="The New York Times" />
+          <attvalue for="9" value="neutral" />
+        </attvalues>
+      </edge>
+      <edge source="IRAQ" target="military_action" id="77" weight="54">
+        <attvalues>
+          <attvalue for="6" value="0.0968" />
+          <attvalue for="7" value="14" />
+          <attvalue for="8" value="The New York Times" />
+          <attvalue for="9" value="negative" />
+        </attvalues>
+      </edge>
+      <edge source="IRAQ" target="deterrence" id="78" weight="7">
+        <attvalues>
+          <attvalue for="6" value="0.0125" />
+          <attvalue for="7" value="5" />
+          <attvalue for="8" value="New York Daily News" />
+          <attvalue for="9" value="negative" />
+        </attvalues>
+      </edge>
+      <edge source="IRAQ" target="strike_claims" id="79" weight="13">
+        <attvalues>
+          <attvalue for="6" value="0.0233" />
+          <attvalue for="7" value="5" />
+          <attvalue for="8" value="The New York Times" />
+          <attvalue for="9" value="neutral" />
+        </attvalues>
+      </edge>
+      <edge source="IRAQ" target="diplomacy" id="80" weight="7">
+        <attvalues>
+          <attvalue for="6" value="0.0125" />
+          <attvalue for="7" value="2" />
+          <attvalue for="8" value="The New York Times" />
+          <attvalue for="9" value="positive" />
+        </attvalues>
+      </edge>
+      <edge source="ISRAEL" target="nuclear_program" id="81" weight="546">
+        <attvalues>
+          <attvalue for="6" value="0.9785" />
+          <attvalue for="7" value="42" />
+          <attvalue for="8" value="The New York Times" />
+          <attvalue for="9" value="neutral" />
+        </attvalues>
+      </edge>
+      <edge source="ISRAEL" target="military_action" id="82" weight="1086">
+        <attvalues>
+          <attvalue for="6" value="1.9462" />
+          <attvalue for="7" value="47" />
+          <attvalue for="8" value="The New York Times" />
+          <attvalue for="9" value="negative" />
+        </attvalues>
+      </edge>
+      <edge source="ISRAEL" target="diplomacy" id="83" weight="414">
+        <attvalues>
+          <attvalue for="6" value="0.7419" />
+          <attvalue for="7" value="31" />
+          <attvalue for="8" value="The New York Times" />
+          <attvalue for="9" value="positive" />
+        </attvalues>
+      </edge>
+      <edge source="ISRAEL" target="deterrence" id="84" weight="159">
+        <attvalues>
+          <attvalue for="6" value="0.2849" />
+          <attvalue for="7" value="29" />
+          <attvalue for="8" value="The New York Times" />
+          <attvalue for="9" value="negative" />
+        </attvalues>
+      </edge>
+      <edge source="ISRAEL" target="strike_claims" id="85" weight="188">
+        <attvalues>
+          <attvalue for="6" value="0.3369" />
+          <attvalue for="7" value="30" />
+          <attvalue for="8" value="The New York Times" />
+          <attvalue for="9" value="neutral" />
+        </attvalues>
+      </edge>
+      <edge source="KHAMENEI" target="military_action" id="86" weight="78">
+        <attvalues>
+          <attvalue for="6" value="0.1398" />
+          <attvalue for="7" value="12" />
+          <attvalue for="8" value="The New York Times" />
+          <attvalue for="9" value="negative" />
+        </attvalues>
+      </edge>
+      <edge source="KHAMENEI" target="diplomacy" id="87" weight="31">
+        <attvalues>
+          <attvalue for="6" value="0.0556" />
+          <attvalue for="7" value="7" />
+          <attvalue for="8" value="The New York Times" />
+          <attvalue for="9" value="positive" />
+        </attvalues>
+      </edge>
+      <edge source="KHAMENEI" target="nuclear_program" id="88" weight="51">
+        <attvalues>
+          <attvalue for="6" value="0.0914" />
+          <attvalue for="7" value="11" />
+          <attvalue for="8" value="The New York Times" />
+          <attvalue for="9" value="neutral" />
+        </attvalues>
+      </edge>
+      <edge source="KHAMENEI" target="strike_claims" id="89" weight="17">
+        <attvalues>
+          <attvalue for="6" value="0.0305" />
+          <attvalue for="7" value="7" />
+          <attvalue for="8" value="TheHill.com" />
+          <attvalue for="9" value="neutral" />
+        </attvalues>
+      </edge>
+      <edge source="KHAMENEI" target="deterrence" id="90" weight="16">
+        <attvalues>
+          <attvalue for="6" value="0.0287" />
+          <attvalue for="7" value="6" />
+          <attvalue for="8" value="The New York Times" />
+          <attvalue for="9" value="negative" />
+        </attvalues>
+      </edge>
+      <edge source="LEBANON" target="deterrence" id="91" weight="10">
+        <attvalues>
+          <attvalue for="6" value="0.0179" />
+          <attvalue for="7" value="3" />
+          <attvalue for="8" value="The New York Times" />
+          <attvalue for="9" value="negative" />
+        </attvalues>
+      </edge>
+      <edge source="LEBANON" target="military_action" id="92" weight="39">
+        <attvalues>
+          <attvalue for="6" value="0.0699" />
+          <attvalue for="7" value="9" />
+          <attvalue for="8" value="The New York Times" />
+          <attvalue for="9" value="negative" />
+        </attvalues>
+      </edge>
+      <edge source="LEBANON" target="nuclear_program" id="93" weight="10">
+        <attvalues>
+          <attvalue for="6" value="0.0179" />
+          <attvalue for="7" value="2" />
+          <attvalue for="8" value="The New York Times" />
+          <attvalue for="9" value="neutral" />
+        </attvalues>
+      </edge>
+      <edge source="LEBANON" target="strike_claims" id="94" weight="12">
+        <attvalues>
+          <attvalue for="6" value="0.0215" />
+          <attvalue for="7" value="5" />
+          <attvalue for="8" value="The New York Times" />
+          <attvalue for="9" value="neutral" />
+        </attvalues>
+      </edge>
+      <edge source="LEBANON" target="diplomacy" id="95" weight="8">
+        <attvalues>
+          <attvalue for="6" value="0.0143" />
+          <attvalue for="7" value="1" />
+          <attvalue for="8" value="The New York Times" />
+          <attvalue for="9" value="positive" />
+        </attvalues>
+      </edge>
+      <edge source="NATO" target="military_action" id="96" weight="66">
+        <attvalues>
+          <attvalue for="6" value="0.1183" />
+          <attvalue for="7" value="20" />
+          <attvalue for="8" value="The New York Times" />
+          <attvalue for="9" value="negative" />
+        </attvalues>
+      </edge>
+      <edge source="NATO" target="diplomacy" id="97" weight="18">
+        <attvalues>
+          <attvalue for="6" value="0.0323" />
+          <attvalue for="7" value="9" />
+          <attvalue for="8" value="The New York Times" />
+          <attvalue for="9" value="positive" />
+        </attvalues>
+      </edge>
+      <edge source="NATO" target="deterrence" id="98" weight="7">
+        <attvalues>
+          <attvalue for="6" value="0.0125" />
+          <attvalue for="7" value="5" />
+          <attvalue for="8" value="TheHill.com" />
+          <attvalue for="9" value="negative" />
+        </attvalues>
+      </edge>
+      <edge source="NATO" target="nuclear_program" id="99" weight="30">
+        <attvalues>
+          <attvalue for="6" value="0.0538" />
+          <attvalue for="7" value="10" />
+          <attvalue for="8" value="The New York Times" />
+          <attvalue for="9" value="neutral" />
+        </attvalues>
+      </edge>
+      <edge source="NATO" target="strike_claims" id="100" weight="22">
+        <attvalues>
+          <attvalue for="6" value="0.0394" />
+          <attvalue for="7" value="11" />
+          <attvalue for="8" value="TheHill.com" />
+          <attvalue for="9" value="neutral" />
+        </attvalues>
+      </edge>
+      <edge source="NETANYAHU" target="military_action" id="101" weight="169">
+        <attvalues>
+          <attvalue for="6" value="0.3029" />
+          <attvalue for="7" value="20" />
+          <attvalue for="8" value="The New York Times" />
+          <attvalue for="9" value="negative" />
+        </attvalues>
+      </edge>
+      <edge source="NETANYAHU" target="strike_claims" id="102" weight="30">
+        <attvalues>
+          <attvalue for="6" value="0.0538" />
+          <attvalue for="7" value="11" />
+          <attvalue for="8" value="The New York Times" />
+          <attvalue for="9" value="neutral" />
+        </attvalues>
+      </edge>
+      <edge source="NETANYAHU" target="diplomacy" id="103" weight="100">
+        <attvalues>
+          <attvalue for="6" value="0.1792" />
+          <attvalue for="7" value="13" />
+          <attvalue for="8" value="The New York Times" />
+          <attvalue for="9" value="positive" />
+        </attvalues>
+      </edge>
+      <edge source="NETANYAHU" target="nuclear_program" id="104" weight="57">
+        <attvalues>
+          <attvalue for="6" value="0.1022" />
+          <attvalue for="7" value="11" />
+          <attvalue for="8" value="The New York Times" />
+          <attvalue for="9" value="neutral" />
+        </attvalues>
+      </edge>
+      <edge source="NETANYAHU" target="deterrence" id="105" weight="33">
+        <attvalues>
+          <attvalue for="6" value="0.0591" />
+          <attvalue for="7" value="9" />
+          <attvalue for="8" value="The New York Times" />
+          <attvalue for="9" value="negative" />
+        </attvalues>
+      </edge>
+      <edge source="OBAMA" target="diplomacy" id="106" weight="57">
+        <attvalues>
+          <attvalue for="6" value="0.1022" />
+          <attvalue for="7" value="15" />
+          <attvalue for="8" value="The New York Times" />
+          <attvalue for="9" value="positive" />
+        </attvalues>
+      </edge>
+      <edge source="OBAMA" target="nuclear_program" id="107" weight="34">
+        <attvalues>
+          <attvalue for="6" value="0.0609" />
+          <attvalue for="7" value="10" />
+          <attvalue for="8" value="The New York Times" />
+          <attvalue for="9" value="neutral" />
+        </attvalues>
+      </edge>
+      <edge source="OBAMA" target="military_action" id="108" weight="33">
+        <attvalues>
+          <attvalue for="6" value="0.0591" />
+          <attvalue for="7" value="12" />
+          <attvalue for="8" value="TheHill.com" />
+          <attvalue for="9" value="negative" />
+        </attvalues>
+      </edge>
+      <edge source="OBAMA" target="strike_claims" id="109" weight="5">
+        <attvalues>
+          <attvalue for="6" value="0.009" />
+          <attvalue for="7" value="4" />
+          <attvalue for="8" value="TheHill.com" />
+          <attvalue for="9" value="neutral" />
+        </attvalues>
+      </edge>
+      <edge source="OBAMA" target="deterrence" id="110" weight="3">
+        <attvalues>
+          <attvalue for="6" value="0.0054" />
+          <attvalue for="7" value="2" />
+          <attvalue for="8" value="The New York Times" />
+          <attvalue for="9" value="negative" />
+        </attvalues>
+      </edge>
+      <edge source="OMAN" target="military_action" id="111" weight="11">
+        <attvalues>
+          <attvalue for="6" value="0.0197" />
+          <attvalue for="7" value="7" />
+          <attvalue for="8" value="The New York Times" />
+          <attvalue for="9" value="negative" />
+        </attvalues>
+      </edge>
+      <edge source="OMAN" target="nuclear_program" id="112" weight="4">
+        <attvalues>
+          <attvalue for="6" value="0.0072" />
+          <attvalue for="7" value="3" />
+          <attvalue for="8" value="The New York Times" />
+          <attvalue for="9" value="neutral" />
+        </attvalues>
+      </edge>
+      <edge source="OMAN" target="diplomacy" id="113" weight="6">
+        <attvalues>
+          <attvalue for="6" value="0.0108" />
+          <attvalue for="7" value="5" />
+          <attvalue for="8" value="Telegraph Herald (Dubuque, IA)" />
+          <attvalue for="9" value="positive" />
+        </attvalues>
+      </edge>
+      <edge source="PEZESHKIAN" target="diplomacy" id="114" weight="11">
+        <attvalues>
+          <attvalue for="6" value="0.0197" />
+          <attvalue for="7" value="3" />
+          <attvalue for="8" value="The New York Times" />
+          <attvalue for="9" value="positive" />
+        </attvalues>
+      </edge>
+      <edge source="PEZESHKIAN" target="military_action" id="115" weight="10">
+        <attvalues>
+          <attvalue for="6" value="0.0179" />
+          <attvalue for="7" value="6" />
+          <attvalue for="8" value="The New York Times" />
+          <attvalue for="9" value="negative" />
+        </attvalues>
+      </edge>
+      <edge source="PEZESHKIAN" target="strike_claims" id="116" weight="5">
+        <attvalues>
+          <attvalue for="6" value="0.009" />
+          <attvalue for="7" value="3" />
+          <attvalue for="8" value="Telegraph Herald (Dubuque, IA)" />
+          <attvalue for="9" value="neutral" />
+        </attvalues>
+      </edge>
+      <edge source="PEZESHKIAN" target="nuclear_program" id="117" weight="3">
+        <attvalues>
+          <attvalue for="6" value="0.0054" />
+          <attvalue for="7" value="2" />
+          <attvalue for="8" value="Telegraph Herald (Dubuque, IA)" />
+          <attvalue for="9" value="neutral" />
+        </attvalues>
+      </edge>
+      <edge source="PEZESHKIAN" target="deterrence" id="118" weight="1">
+        <attvalues>
+          <attvalue for="6" value="0.0018" />
+          <attvalue for="7" value="1" />
+          <attvalue for="8" value="Telegraph Herald (Dubuque, IA)" />
+          <attvalue for="9" value="negative" />
+        </attvalues>
+      </edge>
+      <edge source="PUTIN" target="diplomacy" id="119" weight="20">
+        <attvalues>
+          <attvalue for="6" value="0.0358" />
+          <attvalue for="7" value="5" />
+          <attvalue for="8" value="The New York Times" />
+          <attvalue for="9" value="positive" />
+        </attvalues>
+      </edge>
+      <edge source="PUTIN" target="deterrence" id="120" weight="10">
+        <attvalues>
+          <attvalue for="6" value="0.0179" />
+          <attvalue for="7" value="4" />
+          <attvalue for="8" value="TheHill.com" />
+          <attvalue for="9" value="negative" />
+        </attvalues>
+      </edge>
+      <edge source="PUTIN" target="military_action" id="121" weight="19">
+        <attvalues>
+          <attvalue for="6" value="0.0341" />
+          <attvalue for="7" value="8" />
+          <attvalue for="8" value="The New York Times" />
+          <attvalue for="9" value="negative" />
+        </attvalues>
+      </edge>
+      <edge source="PUTIN" target="nuclear_program" id="122" weight="6">
+        <attvalues>
+          <attvalue for="6" value="0.0108" />
+          <attvalue for="7" value="5" />
+          <attvalue for="8" value="The New York Times" />
+          <attvalue for="9" value="neutral" />
+        </attvalues>
+      </edge>
+      <edge source="PUTIN" target="strike_claims" id="123" weight="4">
+        <attvalues>
+          <attvalue for="6" value="0.0072" />
+          <attvalue for="7" value="2" />
+          <attvalue for="8" value="TheHill.com" />
+          <attvalue for="9" value="neutral" />
+        </attvalues>
+      </edge>
+      <edge source="QATAR" target="military_action" id="124" weight="72">
+        <attvalues>
+          <attvalue for="6" value="0.129" />
+          <attvalue for="7" value="16" />
+          <attvalue for="8" value="The New York Times" />
+          <attvalue for="9" value="negative" />
+        </attvalues>
+      </edge>
+      <edge source="QATAR" target="diplomacy" id="125" weight="33">
+        <attvalues>
+          <attvalue for="6" value="0.0591" />
+          <attvalue for="7" value="10" />
+          <attvalue for="8" value="The New York Times" />
+          <attvalue for="9" value="positive" />
+        </attvalues>
+      </edge>
+      <edge source="QATAR" target="nuclear_program" id="126" weight="8">
+        <attvalues>
+          <attvalue for="6" value="0.0143" />
+          <attvalue for="7" value="6" />
+          <attvalue for="8" value="The New York Times" />
+          <attvalue for="9" value="neutral" />
+        </attvalues>
+      </edge>
+      <edge source="QATAR" target="deterrence" id="127" weight="9">
+        <attvalues>
+          <attvalue for="6" value="0.0161" />
+          <attvalue for="7" value="5" />
+          <attvalue for="8" value="The New York Times" />
+          <attvalue for="9" value="negative" />
+        </attvalues>
+      </edge>
+      <edge source="QATAR" target="strike_claims" id="128" weight="6">
+        <attvalues>
+          <attvalue for="6" value="0.0108" />
+          <attvalue for="7" value="3" />
+          <attvalue for="8" value="The New York Times" />
+          <attvalue for="9" value="neutral" />
+        </attvalues>
+      </edge>
+      <edge source="REPUBLICANS" target="military_action" id="129" weight="60">
+        <attvalues>
+          <attvalue for="6" value="0.1075" />
+          <attvalue for="7" value="14" />
+          <attvalue for="8" value="TheHill.com" />
+          <attvalue for="9" value="negative" />
+        </attvalues>
+      </edge>
+      <edge source="REPUBLICANS" target="nuclear_program" id="130" weight="17">
+        <attvalues>
+          <attvalue for="6" value="0.0305" />
+          <attvalue for="7" value="6" />
+          <attvalue for="8" value="The New York Times" />
+          <attvalue for="9" value="neutral" />
+        </attvalues>
+      </edge>
+      <edge source="REPUBLICANS" target="deterrence" id="131" weight="7">
+        <attvalues>
+          <attvalue for="6" value="0.0125" />
+          <attvalue for="7" value="4" />
+          <attvalue for="8" value="TheHill.com" />
+          <attvalue for="9" value="negative" />
+        </attvalues>
+      </edge>
+      <edge source="REPUBLICANS" target="strike_claims" id="132" weight="16">
+        <attvalues>
+          <attvalue for="6" value="0.0287" />
+          <attvalue for="7" value="7" />
+          <attvalue for="8" value="The New York Times" />
+          <attvalue for="9" value="neutral" />
+        </attvalues>
+      </edge>
+      <edge source="REPUBLICANS" target="diplomacy" id="133" weight="9">
+        <attvalues>
+          <attvalue for="6" value="0.0161" />
+          <attvalue for="7" value="5" />
+          <attvalue for="8" value="TheHill.com" />
+          <attvalue for="9" value="positive" />
+        </attvalues>
+      </edge>
+      <edge source="RUBIO" target="nuclear_program" id="134" weight="44">
+        <attvalues>
+          <attvalue for="6" value="0.0789" />
+          <attvalue for="7" value="9" />
+          <attvalue for="8" value="The New York Times" />
+          <attvalue for="9" value="neutral" />
+        </attvalues>
+      </edge>
+      <edge source="RUBIO" target="military_action" id="135" weight="32">
+        <attvalues>
+          <attvalue for="6" value="0.0573" />
+          <attvalue for="7" value="8" />
+          <attvalue for="8" value="The New York Times" />
+          <attvalue for="9" value="negative" />
+        </attvalues>
+      </edge>
+      <edge source="RUBIO" target="strike_claims" id="136" weight="28">
+        <attvalues>
+          <attvalue for="6" value="0.0502" />
+          <attvalue for="7" value="5" />
+          <attvalue for="8" value="The New York Times" />
+          <attvalue for="9" value="neutral" />
+        </attvalues>
+      </edge>
+      <edge source="RUBIO" target="deterrence" id="137" weight="5">
+        <attvalues>
+          <attvalue for="6" value="0.009" />
+          <attvalue for="7" value="4" />
+          <attvalue for="8" value="Financial Times (London, England)" />
+          <attvalue for="9" value="negative" />
+        </attvalues>
+      </edge>
+      <edge source="RUBIO" target="diplomacy" id="138" weight="10">
+        <attvalues>
+          <attvalue for="6" value="0.0179" />
+          <attvalue for="7" value="6" />
+          <attvalue for="8" value="The New York Times" />
+          <attvalue for="9" value="positive" />
+        </attvalues>
+      </edge>
+      <edge source="RUSSIA" target="nuclear_program" id="139" weight="48">
+        <attvalues>
+          <attvalue for="6" value="0.086" />
+          <attvalue for="7" value="13" />
+          <attvalue for="8" value="The New York Times" />
+          <attvalue for="9" value="neutral" />
+        </attvalues>
+      </edge>
+      <edge source="RUSSIA" target="military_action" id="140" weight="123">
+        <attvalues>
+          <attvalue for="6" value="0.2204" />
+          <attvalue for="7" value="16" />
+          <attvalue for="8" value="The New York Times" />
+          <attvalue for="9" value="negative" />
+        </attvalues>
+      </edge>
+      <edge source="RUSSIA" target="diplomacy" id="141" weight="61">
+        <attvalues>
+          <attvalue for="6" value="0.1093" />
+          <attvalue for="7" value="12" />
+          <attvalue for="8" value="The New York Times" />
+          <attvalue for="9" value="positive" />
+        </attvalues>
+      </edge>
+      <edge source="RUSSIA" target="deterrence" id="142" weight="31">
+        <attvalues>
+          <attvalue for="6" value="0.0556" />
+          <attvalue for="7" value="11" />
+          <attvalue for="8" value="The New York Times" />
+          <attvalue for="9" value="negative" />
+        </attvalues>
+      </edge>
+      <edge source="RUSSIA" target="strike_claims" id="143" weight="12">
+        <attvalues>
+          <attvalue for="6" value="0.0215" />
+          <attvalue for="7" value="8" />
+          <attvalue for="8" value="TheHill.com" />
+          <attvalue for="9" value="neutral" />
+        </attvalues>
+      </edge>
+      <edge source="SAUDI_ARABIA" target="nuclear_program" id="144" weight="9">
+        <attvalues>
+          <attvalue for="6" value="0.0161" />
+          <attvalue for="7" value="2" />
+          <attvalue for="8" value="The New York Times" />
+          <attvalue for="9" value="neutral" />
+        </attvalues>
+      </edge>
+      <edge source="SAUDI_ARABIA" target="deterrence" id="145" weight="4">
+        <attvalues>
+          <attvalue for="6" value="0.0072" />
+          <attvalue for="7" value="2" />
+          <attvalue for="8" value="The New York Times" />
+          <attvalue for="9" value="negative" />
+        </attvalues>
+      </edge>
+      <edge source="SAUDI_ARABIA" target="military_action" id="146" weight="22">
+        <attvalues>
+          <attvalue for="6" value="0.0394" />
+          <attvalue for="7" value="5" />
+          <attvalue for="8" value="The New York Times" />
+          <attvalue for="9" value="negative" />
+        </attvalues>
+      </edge>
+      <edge source="SAUDI_ARABIA" target="diplomacy" id="147" weight="11">
+        <attvalues>
+          <attvalue for="6" value="0.0197" />
+          <attvalue for="7" value="1" />
+          <attvalue for="8" value="The New York Times" />
+          <attvalue for="9" value="positive" />
+        </attvalues>
+      </edge>
+      <edge source="SAUDI_ARABIA" target="strike_claims" id="148" weight="4">
+        <attvalues>
+          <attvalue for="6" value="0.0072" />
+          <attvalue for="7" value="1" />
+          <attvalue for="8" value="The New York Times" />
+          <attvalue for="9" value="neutral" />
+        </attvalues>
+      </edge>
+      <edge source="SYRIA" target="diplomacy" id="149" weight="19">
+        <attvalues>
+          <attvalue for="6" value="0.0341" />
+          <attvalue for="7" value="4" />
+          <attvalue for="8" value="The New York Times" />
+          <attvalue for="9" value="positive" />
+        </attvalues>
+      </edge>
+      <edge source="SYRIA" target="military_action" id="150" weight="24">
+        <attvalues>
+          <attvalue for="6" value="0.043" />
+          <attvalue for="7" value="8" />
+          <attvalue for="8" value="The New York Times" />
+          <attvalue for="9" value="negative" />
+        </attvalues>
+      </edge>
+      <edge source="SYRIA" target="nuclear_program" id="151" weight="5">
+        <attvalues>
+          <attvalue for="6" value="0.009" />
+          <attvalue for="7" value="2" />
+          <attvalue for="8" value="The New York Times" />
+          <attvalue for="9" value="neutral" />
+        </attvalues>
+      </edge>
+      <edge source="SYRIA" target="deterrence" id="152" weight="10">
+        <attvalues>
+          <attvalue for="6" value="0.0179" />
+          <attvalue for="7" value="5" />
+          <attvalue for="8" value="The New York Times" />
+          <attvalue for="9" value="negative" />
+        </attvalues>
+      </edge>
+      <edge source="SYRIA" target="strike_claims" id="153" weight="8">
+        <attvalues>
+          <attvalue for="6" value="0.0143" />
+          <attvalue for="7" value="5" />
+          <attvalue for="8" value="The New York Times" />
+          <attvalue for="9" value="neutral" />
+        </attvalues>
+      </edge>
+      <edge source="TRUMP" target="diplomacy" id="154" weight="519">
+        <attvalues>
+          <attvalue for="6" value="0.9301" />
+          <attvalue for="7" value="38" />
+          <attvalue for="8" value="The New York Times" />
+          <attvalue for="9" value="positive" />
+        </attvalues>
+      </edge>
+      <edge source="TRUMP" target="nuclear_program" id="155" weight="621">
+        <attvalues>
+          <attvalue for="6" value="1.1129" />
+          <attvalue for="7" value="42" />
+          <attvalue for="8" value="The New York Times" />
+          <attvalue for="9" value="neutral" />
+        </attvalues>
+      </edge>
+      <edge source="TRUMP" target="military_action" id="156" weight="1152">
+        <attvalues>
+          <attvalue for="6" value="2.0645" />
+          <attvalue for="7" value="42" />
+          <attvalue for="8" value="The New York Times" />
+          <attvalue for="9" value="negative" />
+        </attvalues>
+      </edge>
+      <edge source="TRUMP" target="strike_claims" id="157" weight="366">
+        <attvalues>
+          <attvalue for="6" value="0.6559" />
+          <attvalue for="7" value="31" />
+          <attvalue for="8" value="The New York Times" />
+          <attvalue for="9" value="neutral" />
+        </attvalues>
+      </edge>
+      <edge source="TRUMP" target="deterrence" id="158" weight="171">
+        <attvalues>
+          <attvalue for="6" value="0.3065" />
+          <attvalue for="7" value="29" />
+          <attvalue for="8" value="The New York Times" />
+          <attvalue for="9" value="negative" />
+        </attvalues>
+      </edge>
+      <edge source="UAE" target="nuclear_program" id="159" weight="10">
+        <attvalues>
+          <attvalue for="6" value="0.0179" />
+          <attvalue for="7" value="6" />
+          <attvalue for="8" value="The New York Times" />
+          <attvalue for="9" value="neutral" />
+        </attvalues>
+      </edge>
+      <edge source="UAE" target="military_action" id="160" weight="13">
+        <attvalues>
+          <attvalue for="6" value="0.0233" />
+          <attvalue for="7" value="5" />
+          <attvalue for="8" value="The New York Times" />
+          <attvalue for="9" value="negative" />
+        </attvalues>
+      </edge>
+      <edge source="UAE" target="deterrence" id="161" weight="2">
+        <attvalues>
+          <attvalue for="6" value="0.0036" />
+          <attvalue for="7" value="1" />
+          <attvalue for="8" value="The New York Times" />
+          <attvalue for="9" value="negative" />
+        </attvalues>
+      </edge>
+      <edge source="UAE" target="diplomacy" id="162" weight="4">
+        <attvalues>
+          <attvalue for="6" value="0.0072" />
+          <attvalue for="7" value="3" />
+          <attvalue for="8" value="TheHill.com" />
+          <attvalue for="9" value="positive" />
+        </attvalues>
+      </edge>
+      <edge source="UK" target="military_action" id="163" weight="13">
+        <attvalues>
+          <attvalue for="6" value="0.0233" />
+          <attvalue for="7" value="6" />
+          <attvalue for="8" value="The New York Times" />
+          <attvalue for="9" value="negative" />
+        </attvalues>
+      </edge>
+      <edge source="UK" target="deterrence" id="164" weight="6">
+        <attvalues>
+          <attvalue for="6" value="0.0108" />
+          <attvalue for="7" value="1" />
+          <attvalue for="8" value="The New York Times" />
+          <attvalue for="9" value="negative" />
+        </attvalues>
+      </edge>
+      <edge source="UK" target="diplomacy" id="165" weight="16">
+        <attvalues>
+          <attvalue for="6" value="0.0287" />
+          <attvalue for="7" value="5" />
+          <attvalue for="8" value="The New York Times" />
+          <attvalue for="9" value="positive" />
+        </attvalues>
+      </edge>
+      <edge source="UK" target="nuclear_program" id="166" weight="25">
+        <attvalues>
+          <attvalue for="6" value="0.0448" />
+          <attvalue for="7" value="9" />
+          <attvalue for="8" value="The New York Times" />
+          <attvalue for="9" value="neutral" />
+        </attvalues>
+      </edge>
+      <edge source="UK" target="strike_claims" id="167" weight="1">
+        <attvalues>
+          <attvalue for="6" value="0.0018" />
+          <attvalue for="7" value="1" />
+          <attvalue for="8" value="thetimes.co.uk" />
+          <attvalue for="9" value="neutral" />
+        </attvalues>
+      </edge>
+      <edge source="UKRAINE" target="military_action" id="168" weight="97">
+        <attvalues>
+          <attvalue for="6" value="0.1738" />
+          <attvalue for="7" value="16" />
+          <attvalue for="8" value="The New York Times" />
+          <attvalue for="9" value="negative" />
+        </attvalues>
+      </edge>
+      <edge source="UKRAINE" target="diplomacy" id="169" weight="36">
+        <attvalues>
+          <attvalue for="6" value="0.0645" />
+          <attvalue for="7" value="9" />
+          <attvalue for="8" value="The New York Times" />
+          <attvalue for="9" value="positive" />
+        </attvalues>
+      </edge>
+      <edge source="UKRAINE" target="nuclear_program" id="170" weight="24">
+        <attvalues>
+          <attvalue for="6" value="0.043" />
+          <attvalue for="7" value="6" />
+          <attvalue for="8" value="The New York Times" />
+          <attvalue for="9" value="neutral" />
+        </attvalues>
+      </edge>
+      <edge source="UKRAINE" target="strike_claims" id="171" weight="9">
+        <attvalues>
+          <attvalue for="6" value="0.0161" />
+          <attvalue for="7" value="6" />
+          <attvalue for="8" value="The New York Times" />
+          <attvalue for="9" value="neutral" />
+        </attvalues>
+      </edge>
+      <edge source="UKRAINE" target="deterrence" id="172" weight="14">
+        <attvalues>
+          <attvalue for="6" value="0.0251" />
+          <attvalue for="7" value="8" />
+          <attvalue for="8" value="The New York Times" />
+          <attvalue for="9" value="negative" />
+        </attvalues>
+      </edge>
+      <edge source="USA" target="nuclear_program" id="173" weight="1032">
+        <attvalues>
+          <attvalue for="6" value="1.8495" />
+          <attvalue for="7" value="47" />
+          <attvalue for="8" value="The New York Times" />
+          <attvalue for="9" value="neutral" />
+        </attvalues>
+      </edge>
+      <edge source="USA" target="military_action" id="174" weight="1668">
+        <attvalues>
+          <attvalue for="6" value="2.9892" />
+          <attvalue for="7" value="49" />
+          <attvalue for="8" value="The New York Times" />
+          <attvalue for="9" value="negative" />
+        </attvalues>
+      </edge>
+      <edge source="USA" target="deterrence" id="175" weight="236">
+        <attvalues>
+          <attvalue for="6" value="0.4229" />
+          <attvalue for="7" value="34" />
+          <attvalue for="8" value="The New York Times" />
+          <attvalue for="9" value="negative" />
+        </attvalues>
+      </edge>
+      <edge source="USA" target="strike_claims" id="176" weight="314">
+        <attvalues>
+          <attvalue for="6" value="0.5627" />
+          <attvalue for="7" value="34" />
+          <attvalue for="8" value="The New York Times" />
+          <attvalue for="9" value="neutral" />
+        </attvalues>
+      </edge>
+      <edge source="USA" target="diplomacy" id="177" weight="421">
+        <attvalues>
+          <attvalue for="6" value="0.7545" />
+          <attvalue for="7" value="38" />
+          <attvalue for="8" value="The New York Times" />
+          <attvalue for="9" value="positive" />
+        </attvalues>
+      </edge>
+      <edge source="US_CONGRESS" target="military_action" id="178" weight="84">
+        <attvalues>
+          <attvalue for="6" value="0.1505" />
+          <attvalue for="7" value="20" />
+          <attvalue for="8" value="TheHill.com" />
+          <attvalue for="9" value="negative" />
+        </attvalues>
+      </edge>
+      <edge source="US_CONGRESS" target="nuclear_program" id="179" weight="24">
+        <attvalues>
+          <attvalue for="6" value="0.043" />
+          <attvalue for="7" value="14" />
+          <attvalue for="8" value="TheHill.com" />
+          <attvalue for="9" value="neutral" />
+        </attvalues>
+      </edge>
+      <edge source="US_CONGRESS" target="diplomacy" id="180" weight="8">
+        <attvalues>
+          <attvalue for="6" value="0.0143" />
+          <attvalue for="7" value="5" />
+          <attvalue for="8" value="TheHill.com" />
+          <attvalue for="9" value="positive" />
+        </attvalues>
+      </edge>
+      <edge source="US_CONGRESS" target="strike_claims" id="181" weight="6">
+        <attvalues>
+          <attvalue for="6" value="0.0108" />
+          <attvalue for="7" value="3" />
+          <attvalue for="8" value="TheHill.com" />
+          <attvalue for="9" value="neutral" />
+        </attvalues>
+      </edge>
+      <edge source="US_CONGRESS" target="deterrence" id="182" weight="5">
+        <attvalues>
+          <attvalue for="6" value="0.009" />
+          <attvalue for="7" value="2" />
+          <attvalue for="8" value="The New York Times" />
+          <attvalue for="9" value="negative" />
+        </attvalues>
+      </edge>
+      <edge source="US_SENATE" target="military_action" id="183" weight="21">
+        <attvalues>
+          <attvalue for="6" value="0.0376" />
+          <attvalue for="7" value="8" />
+          <attvalue for="8" value="TheHill.com" />
+          <attvalue for="9" value="negative" />
+        </attvalues>
+      </edge>
+      <edge source="US_SENATE" target="diplomacy" id="184" weight="8">
+        <attvalues>
+          <attvalue for="6" value="0.0143" />
+          <attvalue for="7" value="4" />
+          <attvalue for="8" value="TheHill.com" />
+          <attvalue for="9" value="positive" />
+        </attvalues>
+      </edge>
+      <edge source="US_SENATE" target="strike_claims" id="185" weight="4">
+        <attvalues>
+          <attvalue for="6" value="0.0072" />
+          <attvalue for="7" value="3" />
+          <attvalue for="8" value="The New York Times" />
+          <attvalue for="9" value="neutral" />
+        </attvalues>
+      </edge>
+      <edge source="US_SENATE" target="nuclear_program" id="186" weight="2">
+        <attvalues>
+          <attvalue for="6" value="0.0036" />
+          <attvalue for="7" value="2" />
+          <attvalue for="8" value="TheHill.com" />
+          <attvalue for="9" value="neutral" />
+        </attvalues>
+      </edge>
+      <edge source="US_SENATE" target="deterrence" id="187" weight="1">
+        <attvalues>
+          <attvalue for="6" value="0.0018" />
+          <attvalue for="7" value="1" />
+          <attvalue for="8" value="Tampa Bay Times" />
+          <attvalue for="9" value="negative" />
+        </attvalues>
+      </edge>
+      <edge source="VANCE" target="military_action" id="188" weight="20">
+        <attvalues>
+          <attvalue for="6" value="0.0358" />
+          <attvalue for="7" value="5" />
+          <attvalue for="8" value="The New York Times" />
+          <attvalue for="9" value="negative" />
+        </attvalues>
+      </edge>
+      <edge source="VANCE" target="nuclear_program" id="189" weight="7">
+        <attvalues>
+          <attvalue for="6" value="0.0125" />
+          <attvalue for="7" value="4" />
+          <attvalue for="8" value="TheHill.com" />
+          <attvalue for="9" value="neutral" />
+        </attvalues>
+      </edge>
+      <edge source="VANCE" target="strike_claims" id="190" weight="1">
+        <attvalues>
+          <attvalue for="6" value="0.0018" />
+          <attvalue for="7" value="1" />
+          <attvalue for="8" value="The Columbian (Vancouver, Washington)" />
+          <attvalue for="9" value="neutral" />
+        </attvalues>
+      </edge>
+      <edge source="WITKOFF" target="nuclear_program" id="191" weight="6">
+        <attvalues>
+          <attvalue for="6" value="0.0108" />
+          <attvalue for="7" value="3" />
+          <attvalue for="8" value="TheHill.com" />
+          <attvalue for="9" value="neutral" />
+        </attvalues>
+      </edge>
+      <edge source="WITKOFF" target="diplomacy" id="192" weight="17">
+        <attvalues>
+          <attvalue for="6" value="0.0305" />
+          <attvalue for="7" value="6" />
+          <attvalue for="8" value="TheHill.com" />
+          <attvalue for="9" value="positive" />
+        </attvalues>
+      </edge>
+      <edge source="WITKOFF" target="military_action" id="193" weight="6">
+        <attvalues>
+          <attvalue for="6" value="0.0108" />
+          <attvalue for="7" value="3" />
+          <attvalue for="8" value="TheHill.com" />
+          <attvalue for="9" value="negative" />
+        </attvalues>
+      </edge>
+      <edge source="WITKOFF" target="strike_claims" id="194" weight="1">
+        <attvalues>
+          <attvalue for="6" value="0.0018" />
+          <attvalue for="7" value="1" />
+          <attvalue for="8" value="Telegraph Herald (Dubuque, IA)" />
+          <attvalue for="9" value="neutral" />
+        </attvalues>
+      </edge>
+      <edge source="WITKOFF" target="deterrence" id="195" weight="1">
+        <attvalues>
+          <attvalue for="6" value="0.0018" />
+          <attvalue for="7" value="1" />
+          <attvalue for="8" value="TheHill.com" />
+          <attvalue for="9" value="negative" />
+        </attvalues>
+      </edge>
+      <edge source="YEMEN" target="military_action" id="196" weight="22">
+        <attvalues>
+          <attvalue for="6" value="0.0394" />
+          <attvalue for="7" value="6" />
+          <attvalue for="8" value="The New York Times" />
+          <attvalue for="9" value="negative" />
+        </attvalues>
+      </edge>
+      <edge source="YEMEN" target="nuclear_program" id="197" weight="5">
+        <attvalues>
+          <attvalue for="6" value="0.009" />
+          <attvalue for="7" value="1" />
+          <attvalue for="8" value="The New York Times" />
+          <attvalue for="9" value="neutral" />
+        </attvalues>
+      </edge>
+      <edge source="YEMEN" target="deterrence" id="198" weight="6">
+        <attvalues>
+          <attvalue for="6" value="0.0108" />
+          <attvalue for="7" value="4" />
+          <attvalue for="8" value="The New York Times" />
+          <attvalue for="9" value="negative" />
+        </attvalues>
+      </edge>
+      <edge source="YEMEN" target="strike_claims" id="199" weight="1">
+        <attvalues>
+          <attvalue for="6" value="0.0018" />
+          <attvalue for="7" value="1" />
+          <attvalue for="8" value="The New York Times" />
+          <attvalue for="9" value="neutral" />
+        </attvalues>
+      </edge>
+      <edge source="YEMEN" target="diplomacy" id="200" weight="1">
+        <attvalues>
+          <attvalue for="6" value="0.0018" />
+          <attvalue for="7" value="1" />
+          <attvalue for="8" value="The New York Times" />
+          <attvalue for="9" value="positive" />
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>

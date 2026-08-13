@@ -1,0 +1,47 @@
+# ============================================================================
+# Midnight Hammer pipeline dependencies
+#
+# REQUIRED ENVIRONMENT: install these into the project virtualenv `.venv311`
+# (Python 3.11) at the repository root. The notebooks' Jupyter kernel and
+# run_all.command both expect exactly that path — the pipeline does not run
+# on the system Python or any other venv.
+#
+#   python3.11 -m venv .venv311
+#   source .venv311/bin/activate        # Windows: .venv311\Scripts\activate
+#   pip install -r requirements.txt
+#   python -m spacy download en_core_web_trf
+#
+# Then select `.venv311` as the kernel in VS Code / Jupyter.
+# ============================================================================
+
+# RTF parsing (Nexis exports .rtf by default)
+striprtf>=0.0.26
+
+# Core NLP
+spacy>=3.7
+# After install, also run: python -m spacy download en_core_web_trf
+
+# Coreference resolution (notebook 03b); pulls in HuggingFace transformers +
+# datasets. First use downloads the f-coref model from the HF hub.
+fastcoref>=2.1
+
+# Data handling
+pandas>=2.0
+
+# Visualisation
+matplotlib>=3.8
+plotly>=5.0          # interactive volume curve (02_clean, step 10b)
+pyvis>=0.3           # interactive network previews (06_networks, step 7)
+
+# Network analysis
+networkx>=3.2
+
+# SVO extraction with CAMEO verb filter (notebook 05 step 7, src/verb_map.py)
+textacy>=0.13
+
+# Jupyter
+jupyter>=1.0
+ipykernel>=6.0
+
+# Utility (already in stdlib for Python 3.11+, listed for clarity)
+# json, re, pathlib, datetime, collections — no install needed

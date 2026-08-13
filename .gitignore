@@ -1,0 +1,16 @@
+# Corpora are licensed Nexis Uni material and are never redistributed.
+data/raw/**
+data/iran_raw/**
+data/interim/**
+
+# Derived outputs ARE published: figures, per-window CSVs, network exports.
+# One exception: the raw SVO triples keep the subject and object spans exactly
+# as they appear in the articles, so they are article text and stay out.
+# Notebook 05b regenerates them from a rebuilt corpus.
+**/svo_triples.jsonl
+
+.venv*/
+__pycache__/
+*.pyc
+.DS_Store
+.ipynb_checkpoints/

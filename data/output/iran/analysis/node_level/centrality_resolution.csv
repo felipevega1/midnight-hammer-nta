@@ -1,0 +1,9 @@
+window,degree_centrality,betweenness_centrality,closeness_centrality,eigenvector_katz,weighted_degree,occupied_concept_subsets
+buildup_mar,6,8,10,27,22,10
+buildup_apr,6,8,8,23,21,10
+buildup_may,6,9,11,23,17,13
+buildup_jun1,6,9,8,22,18,11
+climax_w1,6,9,10,22,17,11
+climax_w2,6,11,9,21,16,14
+aftermath_jun-jul,6,11,9,32,28,13
+aftermath_aug,6,9,11,27,20,13

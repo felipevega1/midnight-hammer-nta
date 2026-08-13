@@ -1,0 +1,67 @@
+{"actor": "IRAN", "concept": "military_action", "window": "climax_w2", "weight": 193, "weight_normalized": 3.5091, "sources": {"Tasnim News Agency (English)": 189, "Islamic Republic News Agency (English)": 4}}
+{"actor": "QATAR", "concept": "military_action", "window": "climax_w2", "weight": 10, "weight_normalized": 0.1818, "sources": {"Tasnim News Agency (English)": 8, "Islamic Republic News Agency (English)": 2}}
+{"actor": "IRAN", "concept": "strike_claims", "window": "climax_w2", "weight": 33, "weight_normalized": 0.6, "sources": {"Tasnim News Agency (English)": 33}}
+{"actor": "USA", "concept": "strike_claims", "window": "climax_w2", "weight": 16, "weight_normalized": 0.2909, "sources": {"Tasnim News Agency (English)": 16}}
+{"actor": "QATAR", "concept": "strike_claims", "window": "climax_w2", "weight": 1, "weight_normalized": 0.0182, "sources": {"Tasnim News Agency (English)": 1}}
+{"actor": "USA", "concept": "military_action", "window": "climax_w2", "weight": 56, "weight_normalized": 1.0182, "sources": {"Tasnim News Agency (English)": 53, "Islamic Republic News Agency (English)": 3}}
+{"actor": "IRAN", "concept": "deterrence", "window": "climax_w2", "weight": 14, "weight_normalized": 0.2545, "sources": {"Tasnim News Agency (English)": 14}}
+{"actor": "QATAR", "concept": "deterrence", "window": "climax_w2", "weight": 2, "weight_normalized": 0.0364, "sources": {"Tasnim News Agency (English)": 2}}
+{"actor": "IRAN", "concept": "nuclear_program", "window": "climax_w2", "weight": 52, "weight_normalized": 0.9455, "sources": {"Tasnim News Agency (English)": 51, "Islamic Republic News Agency (English)": 1}}
+{"actor": "USA", "concept": "nuclear_program", "window": "climax_w2", "weight": 30, "weight_normalized": 0.5455, "sources": {"Tasnim News Agency (English)": 30}}
+{"actor": "ISRAEL", "concept": "nuclear_program", "window": "climax_w2", "weight": 25, "weight_normalized": 0.4545, "sources": {"Tasnim News Agency (English)": 25}}
+{"actor": "ISRAEL", "concept": "military_action", "window": "climax_w2", "weight": 150, "weight_normalized": 2.7273, "sources": {"Tasnim News Agency (English)": 149, "Islamic Republic News Agency (English)": 1}}
+{"actor": "USA", "concept": "deterrence", "window": "climax_w2", "weight": 5, "weight_normalized": 0.0909, "sources": {"Tasnim News Agency (English)": 5}}
+{"actor": "IRAN", "concept": "diplomacy", "window": "climax_w2", "weight": 24, "weight_normalized": 0.4364, "sources": {"Tasnim News Agency (English)": 24}}
+{"actor": "ARAGHCHI", "concept": "diplomacy", "window": "climax_w2", "weight": 6, "weight_normalized": 0.1091, "sources": {"Tasnim News Agency (English)": 6}}
+{"actor": "RUSSIA", "concept": "military_action", "window": "climax_w2", "weight": 5, "weight_normalized": 0.0909, "sources": {"Tasnim News Agency (English)": 5}}
+{"actor": "RUSSIA", "concept": "strike_claims", "window": "climax_w2", "weight": 3, "weight_normalized": 0.0545, "sources": {"Tasnim News Agency (English)": 3}}
+{"actor": "CHINA", "concept": "military_action", "window": "climax_w2", "weight": 2, "weight_normalized": 0.0364, "sources": {"Tasnim News Agency (English)": 2}}
+{"actor": "CHINA", "concept": "strike_claims", "window": "climax_w2", "weight": 1, "weight_normalized": 0.0182, "sources": {"Tasnim News Agency (English)": 1}}
+{"actor": "CHINA", "concept": "nuclear_program", "window": "climax_w2", "weight": 1, "weight_normalized": 0.0182, "sources": {"Tasnim News Agency (English)": 1}}
+{"actor": "RUSSIA", "concept": "diplomacy", "window": "climax_w2", "weight": 2, "weight_normalized": 0.0364, "sources": {"Tasnim News Agency (English)": 2}}
+{"actor": "ISRAEL", "concept": "diplomacy", "window": "climax_w2", "weight": 17, "weight_normalized": 0.3091, "sources": {"Tasnim News Agency (English)": 17}}
+{"actor": "CHINA", "concept": "diplomacy", "window": "climax_w2", "weight": 1, "weight_normalized": 0.0182, "sources": {"Tasnim News Agency (English)": 1}}
+{"actor": "FRANCE", "concept": "nuclear_program", "window": "climax_w2", "weight": 1, "weight_normalized": 0.0182, "sources": {"Tasnim News Agency (English)": 1}}
+{"actor": "FRANCE", "concept": "military_action", "window": "climax_w2", "weight": 4, "weight_normalized": 0.0727, "sources": {"Tasnim News Agency (English)": 3, "Islamic Republic News Agency (English)": 1}}
+{"actor": "IAEA", "concept": "nuclear_program", "window": "climax_w2", "weight": 16, "weight_normalized": 0.2909, "sources": {"Tasnim News Agency (English)": 16}}
+{"actor": "IAEA", "concept": "military_action", "window": "climax_w2", "weight": 7, "weight_normalized": 0.1273, "sources": {"Tasnim News Agency (English)": 7}}
+{"actor": "EU", "concept": "nuclear_program", "window": "climax_w2", "weight": 3, "weight_normalized": 0.0545, "sources": {"Tasnim News Agency (English)": 3}}
+{"actor": "EU", "concept": "military_action", "window": "climax_w2", "weight": 2, "weight_normalized": 0.0364, "sources": {"Tasnim News Agency (English)": 2}}
+{"actor": "UK", "concept": "nuclear_program", "window": "climax_w2", "weight": 1, "weight_normalized": 0.0182, "sources": {"Tasnim News Agency (English)": 1}}
+{"actor": "UK", "concept": "military_action", "window": "climax_w2", "weight": 1, "weight_normalized": 0.0182, "sources": {"Tasnim News Agency (English)": 1}}
+{"actor": "FRANCE", "concept": "deterrence", "window": "climax_w2", "weight": 1, "weight_normalized": 0.0182, "sources": {"Tasnim News Agency (English)": 1}}
+{"actor": "ARAGHCHI", "concept": "military_action", "window": "climax_w2", "weight": 6, "weight_normalized": 0.1091, "sources": {"Tasnim News Agency (English)": 6}}
+{"actor": "USA", "concept": "diplomacy", "window": "climax_w2", "weight": 7, "weight_normalized": 0.1273, "sources": {"Tasnim News Agency (English)": 7}}
+{"actor": "NETANYAHU", "concept": "diplomacy", "window": "climax_w2", "weight": 1, "weight_normalized": 0.0182, "sources": {"Tasnim News Agency (English)": 1}}
+{"actor": "TRUMP", "concept": "diplomacy", "window": "climax_w2", "weight": 1, "weight_normalized": 0.0182, "sources": {"Tasnim News Agency (English)": 1}}
+{"actor": "TRUMP", "concept": "military_action", "window": "climax_w2", "weight": 6, "weight_normalized": 0.1091, "sources": {"Tasnim News Agency (English)": 6}}
+{"actor": "ISRAEL", "concept": "deterrence", "window": "climax_w2", "weight": 12, "weight_normalized": 0.2182, "sources": {"Tasnim News Agency (English)": 12}}
+{"actor": "ISRAEL", "concept": "strike_claims", "window": "climax_w2", "weight": 23, "weight_normalized": 0.4182, "sources": {"Tasnim News Agency (English)": 23}}
+{"actor": "LEBANON", "concept": "diplomacy", "window": "climax_w2", "weight": 1, "weight_normalized": 0.0182, "sources": {"Tasnim News Agency (English)": 1}}
+{"actor": "GAZA", "concept": "diplomacy", "window": "climax_w2", "weight": 2, "weight_normalized": 0.0364, "sources": {"Tasnim News Agency (English)": 2}}
+{"actor": "ARAGHCHI", "concept": "strike_claims", "window": "climax_w2", "weight": 5, "weight_normalized": 0.0909, "sources": {"Tasnim News Agency (English)": 5}}
+{"actor": "PUTIN", "concept": "military_action", "window": "climax_w2", "weight": 1, "weight_normalized": 0.0182, "sources": {"Tasnim News Agency (English)": 1}}
+{"actor": "IAEA", "concept": "strike_claims", "window": "climax_w2", "weight": 2, "weight_normalized": 0.0364, "sources": {"Tasnim News Agency (English)": 2}}
+{"actor": "TRUMP", "concept": "nuclear_program", "window": "climax_w2", "weight": 3, "weight_normalized": 0.0545, "sources": {"Tasnim News Agency (English)": 3}}
+{"actor": "TRUMP", "concept": "strike_claims", "window": "climax_w2", "weight": 1, "weight_normalized": 0.0182, "sources": {"Tasnim News Agency (English)": 1}}
+{"actor": "TRUMP", "concept": "deterrence", "window": "climax_w2", "weight": 1, "weight_normalized": 0.0182, "sources": {"Tasnim News Agency (English)": 1}}
+{"actor": "UN_SECURITY_COUNCIL", "concept": "strike_claims", "window": "climax_w2", "weight": 1, "weight_normalized": 0.0182, "sources": {"Tasnim News Agency (English)": 1}}
+{"actor": "QATAR", "concept": "nuclear_program", "window": "climax_w2", "weight": 1, "weight_normalized": 0.0182, "sources": {"Tasnim News Agency (English)": 1}}
+{"actor": "ARAGHCHI", "concept": "nuclear_program", "window": "climax_w2", "weight": 4, "weight_normalized": 0.0727, "sources": {"Tasnim News Agency (English)": 4}}
+{"actor": "EU", "concept": "diplomacy", "window": "climax_w2", "weight": 2, "weight_normalized": 0.0364, "sources": {"Tasnim News Agency (English)": 2}}
+{"actor": "OMAN", "concept": "military_action", "window": "climax_w2", "weight": 1, "weight_normalized": 0.0182, "sources": {"Tasnim News Agency (English)": 1}}
+{"actor": "OMAN", "concept": "diplomacy", "window": "climax_w2", "weight": 1, "weight_normalized": 0.0182, "sources": {"Tasnim News Agency (English)": 1}}
+{"actor": "ARAGHCHI", "concept": "deterrence", "window": "climax_w2", "weight": 1, "weight_normalized": 0.0182, "sources": {"Tasnim News Agency (English)": 1}}
+{"actor": "NETANYAHU", "concept": "military_action", "window": "climax_w2", "weight": 1, "weight_normalized": 0.0182, "sources": {"Tasnim News Agency (English)": 1}}
+{"actor": "IAEA", "concept": "diplomacy", "window": "climax_w2", "weight": 1, "weight_normalized": 0.0182, "sources": {"Tasnim News Agency (English)": 1}}
+{"actor": "GAZA", "concept": "nuclear_program", "window": "climax_w2", "weight": 2, "weight_normalized": 0.0364, "sources": {"Tasnim News Agency (English)": 2}}
+{"actor": "GAZA", "concept": "military_action", "window": "climax_w2", "weight": 1, "weight_normalized": 0.0182, "sources": {"Tasnim News Agency (English)": 1}}
+{"actor": "GAZA", "concept": "strike_claims", "window": "climax_w2", "weight": 1, "weight_normalized": 0.0182, "sources": {"Tasnim News Agency (English)": 1}}
+{"actor": "PEZESHKIAN", "concept": "diplomacy", "window": "climax_w2", "weight": 1, "weight_normalized": 0.0182, "sources": {"Tasnim News Agency (English)": 1}}
+{"actor": "PEZESHKIAN", "concept": "deterrence", "window": "climax_w2", "weight": 1, "weight_normalized": 0.0182, "sources": {"Tasnim News Agency (English)": 1}}
+{"actor": "PEZESHKIAN", "concept": "strike_claims", "window": "climax_w2", "weight": 2, "weight_normalized": 0.0364, "sources": {"Tasnim News Agency (English)": 2}}
+{"actor": "IAEA", "concept": "deterrence", "window": "climax_w2", "weight": 2, "weight_normalized": 0.0364, "sources": {"Tasnim News Agency (English)": 2}}
+{"actor": "UN_SECURITY_COUNCIL", "concept": "nuclear_program", "window": "climax_w2", "weight": 1, "weight_normalized": 0.0182, "sources": {"Tasnim News Agency (English)": 1}}
+{"actor": "GAZA", "concept": "deterrence", "window": "climax_w2", "weight": 1, "weight_normalized": 0.0182, "sources": {"Tasnim News Agency (English)": 1}}
+{"actor": "NETANYAHU", "concept": "strike_claims", "window": "climax_w2", "weight": 1, "weight_normalized": 0.0182, "sources": {"Tasnim News Agency (English)": 1}}
+{"actor": "GERMANY", "concept": "nuclear_program", "window": "climax_w2", "weight": 1, "weight_normalized": 0.0182, "sources": {"Tasnim News Agency (English)": 1}}

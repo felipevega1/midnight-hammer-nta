@@ -1,0 +1,1328 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d12" for="edge" attr.name="polarity" attr.type="string" />
+  <key id="d11" for="edge" attr.name="top_source" attr.type="string" />
+  <key id="d10" for="edge" attr.name="n_sources" attr.type="long" />
+  <key id="d9" for="edge" attr.name="weight_normalized" attr.type="double" />
+  <key id="d8" for="edge" attr.name="weight" attr.type="long" />
+  <key id="d7" for="node" attr.name="total_weight_norm" attr.type="long" />
+  <key id="d6" for="node" attr.name="total_weight_norm" attr.type="double" />
+  <key id="d5" for="node" attr.name="total_weight" attr.type="long" />
+  <key id="d4" for="node" attr.name="degree" attr.type="long" />
+  <key id="d3" for="node" attr.name="entity_type" attr.type="string" />
+  <key id="d2" for="node" attr.name="node_type" attr.type="string" />
+  <key id="d1" for="node" attr.name="bipartite" attr.type="long" />
+  <key id="d0" for="graph" attr.name="window" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="ARAGHCHI">
+      <data key="d1">0</data>
+      <data key="d2">actor</data>
+      <data key="d3">PERSON</data>
+      <data key="d4">3</data>
+      <data key="d5">8</data>
+      <data key="d6">0.1013</data>
+    </node>
+    <node id="BAHRAIN">
+      <data key="d1">0</data>
+      <data key="d2">actor</data>
+      <data key="d3">GPE</data>
+      <data key="d4">1</data>
+      <data key="d5">1</data>
+      <data key="d6">0.0127</data>
+    </node>
+    <node id="BIDEN">
+      <data key="d1">0</data>
+      <data key="d2">actor</data>
+      <data key="d3">PERSON</data>
+      <data key="d4">3</data>
+      <data key="d5">8</data>
+      <data key="d6">0.1013</data>
+    </node>
+    <node id="CHINA">
+      <data key="d1">0</data>
+      <data key="d2">actor</data>
+      <data key="d3">GPE</data>
+      <data key="d4">4</data>
+      <data key="d5">12</data>
+      <data key="d6">0.1519</data>
+    </node>
+    <node id="DEMOCRATS">
+      <data key="d1">0</data>
+      <data key="d2">actor</data>
+      <data key="d3">ORG</data>
+      <data key="d4">2</data>
+      <data key="d5">3</data>
+      <data key="d6">0.038</data>
+    </node>
+    <node id="EU">
+      <data key="d1">0</data>
+      <data key="d2">actor</data>
+      <data key="d3">ORG</data>
+      <data key="d4">5</data>
+      <data key="d5">24</data>
+      <data key="d6">0.3038</data>
+    </node>
+    <node id="FRANCE">
+      <data key="d1">0</data>
+      <data key="d2">actor</data>
+      <data key="d3">GPE</data>
+      <data key="d4">3</data>
+      <data key="d5">6</data>
+      <data key="d6">0.076</data>
+    </node>
+    <node id="GAZA">
+      <data key="d1">0</data>
+      <data key="d2">actor</data>
+      <data key="d3">GPE</data>
+      <data key="d4">3</data>
+      <data key="d5">32</data>
+      <data key="d6">0.405</data>
+    </node>
+    <node id="GERMANY">
+      <data key="d1">0</data>
+      <data key="d2">actor</data>
+      <data key="d3">GPE</data>
+      <data key="d4">3</data>
+      <data key="d5">8</data>
+      <data key="d6">0.1013</data>
+    </node>
+    <node id="GROSSI">
+      <data key="d1">0</data>
+      <data key="d2">actor</data>
+      <data key="d3">PERSON</data>
+      <data key="d4">3</data>
+      <data key="d5">16</data>
+      <data key="d6">0.2026</data>
+    </node>
+    <node id="GULF_STATES">
+      <data key="d1">0</data>
+      <data key="d2">actor</data>
+      <data key="d3">GPE</data>
+      <data key="d4">0</data>
+      <data key="d5">0</data>
+      <data key="d7">0</data>
+    </node>
+    <node id="HAMAS">
+      <data key="d1">0</data>
+      <data key="d2">actor</data>
+      <data key="d3">ORG</data>
+      <data key="d4">4</data>
+      <data key="d5">14</data>
+      <data key="d6">0.1773</data>
+    </node>
+    <node id="HEGSETH">
+      <data key="d1">0</data>
+      <data key="d2">actor</data>
+      <data key="d3">PERSON</data>
+      <data key="d4">3</data>
+      <data key="d5">4</data>
+      <data key="d6">0.0507</data>
+    </node>
+    <node id="HEZBOLLAH">
+      <data key="d1">0</data>
+      <data key="d2">actor</data>
+      <data key="d3">ORG</data>
+      <data key="d4">4</data>
+      <data key="d5">12</data>
+      <data key="d6">0.152</data>
+    </node>
+    <node id="HOUTHIS">
+      <data key="d1">0</data>
+      <data key="d2">actor</data>
+      <data key="d3">ORG</data>
+      <data key="d4">3</data>
+      <data key="d5">10</data>
+      <data key="d6">0.1266</data>
+    </node>
+    <node id="IAEA">
+      <data key="d1">0</data>
+      <data key="d2">actor</data>
+      <data key="d3">ORG</data>
+      <data key="d4">3</data>
+      <data key="d5">52</data>
+      <data key="d6">0.6582</data>
+    </node>
+    <node id="IRAN">
+      <data key="d1">0</data>
+      <data key="d2">actor</data>
+      <data key="d3">GPE</data>
+      <data key="d4">5</data>
+      <data key="d5">869</data>
+      <data key="d6">11.0</data>
+    </node>
+    <node id="IRAQ">
+      <data key="d1">0</data>
+      <data key="d2">actor</data>
+      <data key="d3">GPE</data>
+      <data key="d4">3</data>
+      <data key="d5">15</data>
+      <data key="d6">0.1899</data>
+    </node>
+    <node id="ISRAEL">
+      <data key="d1">0</data>
+      <data key="d2">actor</data>
+      <data key="d3">GPE</data>
+      <data key="d4">5</data>
+      <data key="d5">319</data>
+      <data key="d6">4.038</data>
+    </node>
+    <node id="KHAMENEI">
+      <data key="d1">0</data>
+      <data key="d2">actor</data>
+      <data key="d3">PERSON</data>
+      <data key="d4">4</data>
+      <data key="d5">36</data>
+      <data key="d6">0.4557</data>
+    </node>
+    <node id="LEBANON">
+      <data key="d1">0</data>
+      <data key="d2">actor</data>
+      <data key="d3">GPE</data>
+      <data key="d4">2</data>
+      <data key="d5">2</data>
+      <data key="d6">0.0254</data>
+    </node>
+    <node id="NATO">
+      <data key="d1">0</data>
+      <data key="d2">actor</data>
+      <data key="d3">ORG</data>
+      <data key="d4">0</data>
+      <data key="d5">0</data>
+      <data key="d7">0</data>
+    </node>
+    <node id="NETANYAHU">
+      <data key="d1">0</data>
+      <data key="d2">actor</data>
+      <data key="d3">PERSON</data>
+      <data key="d4">4</data>
+      <data key="d5">89</data>
+      <data key="d6">1.1266</data>
+    </node>
+    <node id="OBAMA">
+      <data key="d1">0</data>
+      <data key="d2">actor</data>
+      <data key="d3">PERSON</data>
+      <data key="d4">4</data>
+      <data key="d5">44</data>
+      <data key="d6">0.5569</data>
+    </node>
+    <node id="OMAN">
+      <data key="d1">0</data>
+      <data key="d2">actor</data>
+      <data key="d3">GPE</data>
+      <data key="d4">3</data>
+      <data key="d5">10</data>
+      <data key="d6">0.1266</data>
+    </node>
+    <node id="PEZESHKIAN">
+      <data key="d1">0</data>
+      <data key="d2">actor</data>
+      <data key="d3">PERSON</data>
+      <data key="d4">1</data>
+      <data key="d5">1</data>
+      <data key="d6">0.0127</data>
+    </node>
+    <node id="PUTIN">
+      <data key="d1">0</data>
+      <data key="d2">actor</data>
+      <data key="d3">PERSON</data>
+      <data key="d4">5</data>
+      <data key="d5">92</data>
+      <data key="d6">1.1646</data>
+    </node>
+    <node id="QATAR">
+      <data key="d1">0</data>
+      <data key="d2">actor</data>
+      <data key="d3">GPE</data>
+      <data key="d4">2</data>
+      <data key="d5">2</data>
+      <data key="d6">0.0254</data>
+    </node>
+    <node id="REPUBLICANS">
+      <data key="d1">0</data>
+      <data key="d2">actor</data>
+      <data key="d3">ORG</data>
+      <data key="d4">1</data>
+      <data key="d5">2</data>
+      <data key="d6">0.0253</data>
+    </node>
+    <node id="RUBIO">
+      <data key="d1">0</data>
+      <data key="d2">actor</data>
+      <data key="d3">PERSON</data>
+      <data key="d4">4</data>
+      <data key="d5">10</data>
+      <data key="d6">0.1265</data>
+    </node>
+    <node id="RUSSIA">
+      <data key="d1">0</data>
+      <data key="d2">actor</data>
+      <data key="d3">GPE</data>
+      <data key="d4">5</data>
+      <data key="d5">129</data>
+      <data key="d6">1.6329</data>
+    </node>
+    <node id="SAUDI_ARABIA">
+      <data key="d1">0</data>
+      <data key="d2">actor</data>
+      <data key="d3">GPE</data>
+      <data key="d4">3</data>
+      <data key="d5">7</data>
+      <data key="d6">0.0886</data>
+    </node>
+    <node id="SYRIA">
+      <data key="d1">0</data>
+      <data key="d2">actor</data>
+      <data key="d3">GPE</data>
+      <data key="d4">3</data>
+      <data key="d5">8</data>
+      <data key="d6">0.1013</data>
+    </node>
+    <node id="TRUMP">
+      <data key="d1">0</data>
+      <data key="d2">actor</data>
+      <data key="d3">PERSON</data>
+      <data key="d4">5</data>
+      <data key="d5">397</data>
+      <data key="d6">5.0253</data>
+    </node>
+    <node id="UAE">
+      <data key="d1">0</data>
+      <data key="d2">actor</data>
+      <data key="d3">GPE</data>
+      <data key="d4">1</data>
+      <data key="d5">2</data>
+      <data key="d6">0.0253</data>
+    </node>
+    <node id="UK">
+      <data key="d1">0</data>
+      <data key="d2">actor</data>
+      <data key="d3">GPE</data>
+      <data key="d4">4</data>
+      <data key="d5">18</data>
+      <data key="d6">0.2279</data>
+    </node>
+    <node id="UKRAINE">
+      <data key="d1">0</data>
+      <data key="d2">actor</data>
+      <data key="d3">GPE</data>
+      <data key="d4">5</data>
+      <data key="d5">128</data>
+      <data key="d6">1.6202</data>
+    </node>
+    <node id="UN_SECURITY_COUNCIL">
+      <data key="d1">0</data>
+      <data key="d2">actor</data>
+      <data key="d3">ORG</data>
+      <data key="d4">0</data>
+      <data key="d5">0</data>
+      <data key="d7">0</data>
+    </node>
+    <node id="USA">
+      <data key="d1">0</data>
+      <data key="d2">actor</data>
+      <data key="d3">GPE</data>
+      <data key="d4">5</data>
+      <data key="d5">354</data>
+      <data key="d6">4.481</data>
+    </node>
+    <node id="US_CONGRESS">
+      <data key="d1">0</data>
+      <data key="d2">actor</data>
+      <data key="d3">ORG</data>
+      <data key="d4">3</data>
+      <data key="d5">11</data>
+      <data key="d6">0.1392</data>
+    </node>
+    <node id="US_SENATE">
+      <data key="d1">0</data>
+      <data key="d2">actor</data>
+      <data key="d3">ORG</data>
+      <data key="d4">1</data>
+      <data key="d5">1</data>
+      <data key="d6">0.0127</data>
+    </node>
+    <node id="VANCE">
+      <data key="d1">0</data>
+      <data key="d2">actor</data>
+      <data key="d3">PERSON</data>
+      <data key="d4">0</data>
+      <data key="d5">0</data>
+      <data key="d7">0</data>
+    </node>
+    <node id="WITKOFF">
+      <data key="d1">0</data>
+      <data key="d2">actor</data>
+      <data key="d3">PERSON</data>
+      <data key="d4">4</data>
+      <data key="d5">46</data>
+      <data key="d6">0.5822</data>
+    </node>
+    <node id="YEMEN">
+      <data key="d1">0</data>
+      <data key="d2">actor</data>
+      <data key="d3">GPE</data>
+      <data key="d4">2</data>
+      <data key="d5">8</data>
+      <data key="d6">0.1013</data>
+    </node>
+    <node id="military_action">
+      <data key="d1">1</data>
+      <data key="d2">concept</data>
+      <data key="d3">CONCEPT</data>
+      <data key="d4">34</data>
+      <data key="d5">998</data>
+      <data key="d6">12.633</data>
+    </node>
+    <node id="nuclear_program">
+      <data key="d1">1</data>
+      <data key="d2">concept</data>
+      <data key="d3">CONCEPT</data>
+      <data key="d4">26</data>
+      <data key="d5">808</data>
+      <data key="d6">10.2278</data>
+    </node>
+    <node id="deterrence">
+      <data key="d1">1</data>
+      <data key="d2">concept</data>
+      <data key="d3">CONCEPT</data>
+      <data key="d4">24</data>
+      <data key="d5">185</data>
+      <data key="d6">2.3421</data>
+    </node>
+    <node id="diplomacy">
+      <data key="d1">1</data>
+      <data key="d2">concept</data>
+      <data key="d3">CONCEPT</data>
+      <data key="d4">34</data>
+      <data key="d5">733</data>
+      <data key="d6">9.2786</data>
+    </node>
+    <node id="strike_claims">
+      <data key="d1">1</data>
+      <data key="d2">concept</data>
+      <data key="d3">CONCEPT</data>
+      <data key="d4">13</data>
+      <data key="d5">86</data>
+      <data key="d6">1.0887</data>
+    </node>
+    <edge source="ARAGHCHI" target="diplomacy">
+      <data key="d8">3</data>
+      <data key="d9">0.038</data>
+      <data key="d10">1</data>
+      <data key="d11">The New York Times</data>
+      <data key="d12">positive</data>
+    </edge>
+    <edge source="ARAGHCHI" target="military_action">
+      <data key="d8">1</data>
+      <data key="d9">0.0127</data>
+      <data key="d10">1</data>
+      <data key="d11">The New York Times</data>
+      <data key="d12">negative</data>
+    </edge>
+    <edge source="ARAGHCHI" target="nuclear_program">
+      <data key="d8">4</data>
+      <data key="d9">0.0506</data>
+      <data key="d10">1</data>
+      <data key="d11">The New York Times</data>
+      <data key="d12">neutral</data>
+    </edge>
+    <edge source="BAHRAIN" target="deterrence">
+      <data key="d8">1</data>
+      <data key="d9">0.0127</data>
+      <data key="d10">1</data>
+      <data key="d11">USA Today Online</data>
+      <data key="d12">negative</data>
+    </edge>
+    <edge source="BIDEN" target="diplomacy">
+      <data key="d8">3</data>
+      <data key="d9">0.038</data>
+      <data key="d10">3</data>
+      <data key="d11">The Christian Science Monitor</data>
+      <data key="d12">positive</data>
+    </edge>
+    <edge source="BIDEN" target="military_action">
+      <data key="d8">3</data>
+      <data key="d9">0.038</data>
+      <data key="d10">2</data>
+      <data key="d11">TheHill.com</data>
+      <data key="d12">negative</data>
+    </edge>
+    <edge source="BIDEN" target="deterrence">
+      <data key="d8">2</data>
+      <data key="d9">0.0253</data>
+      <data key="d10">1</data>
+      <data key="d11">TheHill.com</data>
+      <data key="d12">negative</data>
+    </edge>
+    <edge source="CHINA" target="nuclear_program">
+      <data key="d8">2</data>
+      <data key="d9">0.0253</data>
+      <data key="d10">1</data>
+      <data key="d11">The New York Times</data>
+      <data key="d12">neutral</data>
+    </edge>
+    <edge source="CHINA" target="diplomacy">
+      <data key="d8">3</data>
+      <data key="d9">0.038</data>
+      <data key="d10">1</data>
+      <data key="d11">The New York Times</data>
+      <data key="d12">positive</data>
+    </edge>
+    <edge source="CHINA" target="military_action">
+      <data key="d8">5</data>
+      <data key="d9">0.0633</data>
+      <data key="d10">2</data>
+      <data key="d11">The New York Times</data>
+      <data key="d12">negative</data>
+    </edge>
+    <edge source="CHINA" target="deterrence">
+      <data key="d8">2</data>
+      <data key="d9">0.0253</data>
+      <data key="d10">2</data>
+      <data key="d11">The New York Times</data>
+      <data key="d12">negative</data>
+    </edge>
+    <edge source="DEMOCRATS" target="deterrence">
+      <data key="d8">1</data>
+      <data key="d9">0.0127</data>
+      <data key="d10">1</data>
+      <data key="d11">TheHill.com</data>
+      <data key="d12">negative</data>
+    </edge>
+    <edge source="DEMOCRATS" target="diplomacy">
+      <data key="d8">2</data>
+      <data key="d9">0.0253</data>
+      <data key="d10">2</data>
+      <data key="d11">TheHill.com</data>
+      <data key="d12">positive</data>
+    </edge>
+    <edge source="EU" target="nuclear_program">
+      <data key="d8">3</data>
+      <data key="d9">0.038</data>
+      <data key="d10">1</data>
+      <data key="d11">The New York Times</data>
+      <data key="d12">neutral</data>
+    </edge>
+    <edge source="EU" target="diplomacy">
+      <data key="d8">11</data>
+      <data key="d9">0.1392</data>
+      <data key="d10">4</data>
+      <data key="d11">The New York Times</data>
+      <data key="d12">positive</data>
+    </edge>
+    <edge source="EU" target="military_action">
+      <data key="d8">5</data>
+      <data key="d9">0.0633</data>
+      <data key="d10">2</data>
+      <data key="d11">The New York Times</data>
+      <data key="d12">negative</data>
+    </edge>
+    <edge source="EU" target="deterrence">
+      <data key="d8">4</data>
+      <data key="d9">0.0506</data>
+      <data key="d10">3</data>
+      <data key="d11">TheHill.com</data>
+      <data key="d12">negative</data>
+    </edge>
+    <edge source="EU" target="strike_claims">
+      <data key="d8">1</data>
+      <data key="d9">0.0127</data>
+      <data key="d10">1</data>
+      <data key="d11">The New York Times</data>
+      <data key="d12">neutral</data>
+    </edge>
+    <edge source="FRANCE" target="military_action">
+      <data key="d8">1</data>
+      <data key="d9">0.0127</data>
+      <data key="d10">1</data>
+      <data key="d11">The New York Times</data>
+      <data key="d12">negative</data>
+    </edge>
+    <edge source="FRANCE" target="nuclear_program">
+      <data key="d8">3</data>
+      <data key="d9">0.038</data>
+      <data key="d10">2</data>
+      <data key="d11">The New York Times</data>
+      <data key="d12">neutral</data>
+    </edge>
+    <edge source="FRANCE" target="diplomacy">
+      <data key="d8">2</data>
+      <data key="d9">0.0253</data>
+      <data key="d10">1</data>
+      <data key="d11">The New York Times</data>
+      <data key="d12">positive</data>
+    </edge>
+    <edge source="GAZA" target="military_action">
+      <data key="d8">18</data>
+      <data key="d9">0.2278</data>
+      <data key="d10">9</data>
+      <data key="d11">The New York Times</data>
+      <data key="d12">negative</data>
+    </edge>
+    <edge source="GAZA" target="nuclear_program">
+      <data key="d8">7</data>
+      <data key="d9">0.0886</data>
+      <data key="d10">6</data>
+      <data key="d11">St. Louis Post-Dispatch (Missouri)</data>
+      <data key="d12">neutral</data>
+    </edge>
+    <edge source="GAZA" target="diplomacy">
+      <data key="d8">7</data>
+      <data key="d9">0.0886</data>
+      <data key="d10">3</data>
+      <data key="d11">The New York Times</data>
+      <data key="d12">positive</data>
+    </edge>
+    <edge source="GERMANY" target="nuclear_program">
+      <data key="d8">4</data>
+      <data key="d9">0.0506</data>
+      <data key="d10">2</data>
+      <data key="d11">The New York Times</data>
+      <data key="d12">neutral</data>
+    </edge>
+    <edge source="GERMANY" target="diplomacy">
+      <data key="d8">3</data>
+      <data key="d9">0.038</data>
+      <data key="d10">1</data>
+      <data key="d11">The New York Times</data>
+      <data key="d12">positive</data>
+    </edge>
+    <edge source="GERMANY" target="military_action">
+      <data key="d8">1</data>
+      <data key="d9">0.0127</data>
+      <data key="d10">1</data>
+      <data key="d11">The New York Times</data>
+      <data key="d12">negative</data>
+    </edge>
+    <edge source="GROSSI" target="nuclear_program">
+      <data key="d8">10</data>
+      <data key="d9">0.1266</data>
+      <data key="d10">4</data>
+      <data key="d11">The New York Times</data>
+      <data key="d12">neutral</data>
+    </edge>
+    <edge source="GROSSI" target="military_action">
+      <data key="d8">5</data>
+      <data key="d9">0.0633</data>
+      <data key="d10">4</data>
+      <data key="d11">The New York Times</data>
+      <data key="d12">negative</data>
+    </edge>
+    <edge source="GROSSI" target="strike_claims">
+      <data key="d8">1</data>
+      <data key="d9">0.0127</data>
+      <data key="d10">1</data>
+      <data key="d11">The New York Times</data>
+      <data key="d12">neutral</data>
+    </edge>
+    <edge source="HAMAS" target="military_action">
+      <data key="d8">8</data>
+      <data key="d9">0.1013</data>
+      <data key="d10">2</data>
+      <data key="d11">The New York Times</data>
+      <data key="d12">negative</data>
+    </edge>
+    <edge source="HAMAS" target="deterrence">
+      <data key="d8">1</data>
+      <data key="d9">0.0127</data>
+      <data key="d10">1</data>
+      <data key="d11">The New York Times</data>
+      <data key="d12">negative</data>
+    </edge>
+    <edge source="HAMAS" target="diplomacy">
+      <data key="d8">4</data>
+      <data key="d9">0.0506</data>
+      <data key="d10">3</data>
+      <data key="d11">The Daily Kent Stater: Kent State University</data>
+      <data key="d12">positive</data>
+    </edge>
+    <edge source="HAMAS" target="nuclear_program">
+      <data key="d8">1</data>
+      <data key="d9">0.0127</data>
+      <data key="d10">1</data>
+      <data key="d11">The New York Times</data>
+      <data key="d12">neutral</data>
+    </edge>
+    <edge source="HEGSETH" target="military_action">
+      <data key="d8">2</data>
+      <data key="d9">0.0253</data>
+      <data key="d10">1</data>
+      <data key="d11">The New York Times</data>
+      <data key="d12">negative</data>
+    </edge>
+    <edge source="HEGSETH" target="deterrence">
+      <data key="d8">1</data>
+      <data key="d9">0.0127</data>
+      <data key="d10">1</data>
+      <data key="d11">TheHill.com</data>
+      <data key="d12">negative</data>
+    </edge>
+    <edge source="HEGSETH" target="diplomacy">
+      <data key="d8">1</data>
+      <data key="d9">0.0127</data>
+      <data key="d10">1</data>
+      <data key="d11">TheHill.com</data>
+      <data key="d12">positive</data>
+    </edge>
+    <edge source="HEZBOLLAH" target="deterrence">
+      <data key="d8">2</data>
+      <data key="d9">0.0253</data>
+      <data key="d10">1</data>
+      <data key="d11">The New York Times</data>
+      <data key="d12">negative</data>
+    </edge>
+    <edge source="HEZBOLLAH" target="military_action">
+      <data key="d8">8</data>
+      <data key="d9">0.1013</data>
+      <data key="d10">2</data>
+      <data key="d11">The New York Times</data>
+      <data key="d12">negative</data>
+    </edge>
+    <edge source="HEZBOLLAH" target="strike_claims">
+      <data key="d8">1</data>
+      <data key="d9">0.0127</data>
+      <data key="d10">1</data>
+      <data key="d11">TheHill.com</data>
+      <data key="d12">neutral</data>
+    </edge>
+    <edge source="HEZBOLLAH" target="nuclear_program">
+      <data key="d8">1</data>
+      <data key="d9">0.0127</data>
+      <data key="d10">1</data>
+      <data key="d11">The New York Times</data>
+      <data key="d12">neutral</data>
+    </edge>
+    <edge source="HOUTHIS" target="military_action">
+      <data key="d8">7</data>
+      <data key="d9">0.0886</data>
+      <data key="d10">4</data>
+      <data key="d11">Hawke's Bay Today</data>
+      <data key="d12">negative</data>
+    </edge>
+    <edge source="HOUTHIS" target="strike_claims">
+      <data key="d8">1</data>
+      <data key="d9">0.0127</data>
+      <data key="d10">1</data>
+      <data key="d11">TheHill.com</data>
+      <data key="d12">neutral</data>
+    </edge>
+    <edge source="HOUTHIS" target="diplomacy">
+      <data key="d8">2</data>
+      <data key="d9">0.0253</data>
+      <data key="d10">2</data>
+      <data key="d11">The Daily Kent Stater: Kent State University</data>
+      <data key="d12">positive</data>
+    </edge>
+    <edge source="IAEA" target="nuclear_program">
+      <data key="d8">41</data>
+      <data key="d9">0.519</data>
+      <data key="d10">6</data>
+      <data key="d11">Telegraph Herald (Dubuque, IA)</data>
+      <data key="d12">neutral</data>
+    </edge>
+    <edge source="IAEA" target="diplomacy">
+      <data key="d8">4</data>
+      <data key="d9">0.0506</data>
+      <data key="d10">3</data>
+      <data key="d11">The New York Times</data>
+      <data key="d12">positive</data>
+    </edge>
+    <edge source="IAEA" target="military_action">
+      <data key="d8">7</data>
+      <data key="d9">0.0886</data>
+      <data key="d10">5</data>
+      <data key="d11">The New York Times</data>
+      <data key="d12">negative</data>
+    </edge>
+    <edge source="IRAN" target="military_action">
+      <data key="d8">255</data>
+      <data key="d9">3.2278</data>
+      <data key="d10">15</data>
+      <data key="d11">The New York Times</data>
+      <data key="d12">negative</data>
+    </edge>
+    <edge source="IRAN" target="diplomacy">
+      <data key="d8">190</data>
+      <data key="d9">2.4051</data>
+      <data key="d10">15</data>
+      <data key="d11">The New York Times</data>
+      <data key="d12">positive</data>
+    </edge>
+    <edge source="IRAN" target="nuclear_program">
+      <data key="d8">355</data>
+      <data key="d9">4.4937</data>
+      <data key="d10">13</data>
+      <data key="d11">The New York Times</data>
+      <data key="d12">neutral</data>
+    </edge>
+    <edge source="IRAN" target="deterrence">
+      <data key="d8">46</data>
+      <data key="d9">0.5823</data>
+      <data key="d10">10</data>
+      <data key="d11">The New York Times</data>
+      <data key="d12">negative</data>
+    </edge>
+    <edge source="IRAN" target="strike_claims">
+      <data key="d8">23</data>
+      <data key="d9">0.2911</data>
+      <data key="d10">7</data>
+      <data key="d11">The New York Times</data>
+      <data key="d12">neutral</data>
+    </edge>
+    <edge source="IRAQ" target="military_action">
+      <data key="d8">9</data>
+      <data key="d9">0.1139</data>
+      <data key="d10">3</data>
+      <data key="d11">The New York Times</data>
+      <data key="d12">negative</data>
+    </edge>
+    <edge source="IRAQ" target="diplomacy">
+      <data key="d8">1</data>
+      <data key="d9">0.0127</data>
+      <data key="d10">1</data>
+      <data key="d11">The Christian Science Monitor</data>
+      <data key="d12">positive</data>
+    </edge>
+    <edge source="IRAQ" target="deterrence">
+      <data key="d8">5</data>
+      <data key="d9">0.0633</data>
+      <data key="d10">1</data>
+      <data key="d11">The New York Times</data>
+      <data key="d12">negative</data>
+    </edge>
+    <edge source="ISRAEL" target="military_action">
+      <data key="d8">172</data>
+      <data key="d9">2.1772</data>
+      <data key="d10">12</data>
+      <data key="d11">The New York Times</data>
+      <data key="d12">negative</data>
+    </edge>
+    <edge source="ISRAEL" target="diplomacy">
+      <data key="d8">44</data>
+      <data key="d9">0.557</data>
+      <data key="d10">9</data>
+      <data key="d11">The New York Times</data>
+      <data key="d12">positive</data>
+    </edge>
+    <edge source="ISRAEL" target="deterrence">
+      <data key="d8">20</data>
+      <data key="d9">0.2532</data>
+      <data key="d10">3</data>
+      <data key="d11">The New York Times</data>
+      <data key="d12">negative</data>
+    </edge>
+    <edge source="ISRAEL" target="nuclear_program">
+      <data key="d8">71</data>
+      <data key="d9">0.8987</data>
+      <data key="d10">10</data>
+      <data key="d11">The New York Times</data>
+      <data key="d12">neutral</data>
+    </edge>
+    <edge source="ISRAEL" target="strike_claims">
+      <data key="d8">12</data>
+      <data key="d9">0.1519</data>
+      <data key="d10">4</data>
+      <data key="d11">The New York Times</data>
+      <data key="d12">neutral</data>
+    </edge>
+    <edge source="KHAMENEI" target="nuclear_program">
+      <data key="d8">17</data>
+      <data key="d9">0.2152</data>
+      <data key="d10">7</data>
+      <data key="d11">The New York Times</data>
+      <data key="d12">neutral</data>
+    </edge>
+    <edge source="KHAMENEI" target="diplomacy">
+      <data key="d8">14</data>
+      <data key="d9">0.1772</data>
+      <data key="d10">4</data>
+      <data key="d11">The New York Times</data>
+      <data key="d12">positive</data>
+    </edge>
+    <edge source="KHAMENEI" target="military_action">
+      <data key="d8">3</data>
+      <data key="d9">0.038</data>
+      <data key="d10">3</data>
+      <data key="d11">The New York Times</data>
+      <data key="d12">negative</data>
+    </edge>
+    <edge source="KHAMENEI" target="deterrence">
+      <data key="d8">2</data>
+      <data key="d9">0.0253</data>
+      <data key="d10">1</data>
+      <data key="d11">The Columbian (Vancouver, Washington)</data>
+      <data key="d12">negative</data>
+    </edge>
+    <edge source="LEBANON" target="deterrence">
+      <data key="d8">1</data>
+      <data key="d9">0.0127</data>
+      <data key="d10">1</data>
+      <data key="d11">The New York Times</data>
+      <data key="d12">negative</data>
+    </edge>
+    <edge source="LEBANON" target="military_action">
+      <data key="d8">1</data>
+      <data key="d9">0.0127</data>
+      <data key="d10">1</data>
+      <data key="d11">The New York Times</data>
+      <data key="d12">negative</data>
+    </edge>
+    <edge source="NETANYAHU" target="military_action">
+      <data key="d8">44</data>
+      <data key="d9">0.557</data>
+      <data key="d10">7</data>
+      <data key="d11">The New York Times</data>
+      <data key="d12">negative</data>
+    </edge>
+    <edge source="NETANYAHU" target="deterrence">
+      <data key="d8">8</data>
+      <data key="d9">0.1013</data>
+      <data key="d10">4</data>
+      <data key="d11">The New York Times</data>
+      <data key="d12">negative</data>
+    </edge>
+    <edge source="NETANYAHU" target="diplomacy">
+      <data key="d8">19</data>
+      <data key="d9">0.2405</data>
+      <data key="d10">5</data>
+      <data key="d11">The New York Times</data>
+      <data key="d12">positive</data>
+    </edge>
+    <edge source="NETANYAHU" target="nuclear_program">
+      <data key="d8">18</data>
+      <data key="d9">0.2278</data>
+      <data key="d10">6</data>
+      <data key="d11">The New York Times</data>
+      <data key="d12">neutral</data>
+    </edge>
+    <edge source="OBAMA" target="nuclear_program">
+      <data key="d8">11</data>
+      <data key="d9">0.1392</data>
+      <data key="d10">2</data>
+      <data key="d11">The New York Times</data>
+      <data key="d12">neutral</data>
+    </edge>
+    <edge source="OBAMA" target="diplomacy">
+      <data key="d8">23</data>
+      <data key="d9">0.2911</data>
+      <data key="d10">3</data>
+      <data key="d11">The New York Times</data>
+      <data key="d12">positive</data>
+    </edge>
+    <edge source="OBAMA" target="military_action">
+      <data key="d8">9</data>
+      <data key="d9">0.1139</data>
+      <data key="d10">3</data>
+      <data key="d11">The New York Times</data>
+      <data key="d12">negative</data>
+    </edge>
+    <edge source="OBAMA" target="deterrence">
+      <data key="d8">1</data>
+      <data key="d9">0.0127</data>
+      <data key="d10">1</data>
+      <data key="d11">TheHill.com</data>
+      <data key="d12">negative</data>
+    </edge>
+    <edge source="OMAN" target="diplomacy">
+      <data key="d8">5</data>
+      <data key="d9">0.0633</data>
+      <data key="d10">2</data>
+      <data key="d11">The New York Times</data>
+      <data key="d12">positive</data>
+    </edge>
+    <edge source="OMAN" target="deterrence">
+      <data key="d8">1</data>
+      <data key="d9">0.0127</data>
+      <data key="d10">1</data>
+      <data key="d11">The Christian Science Monitor</data>
+      <data key="d12">negative</data>
+    </edge>
+    <edge source="OMAN" target="nuclear_program">
+      <data key="d8">4</data>
+      <data key="d9">0.0506</data>
+      <data key="d10">2</data>
+      <data key="d11">The New York Times</data>
+      <data key="d12">neutral</data>
+    </edge>
+    <edge source="PEZESHKIAN" target="diplomacy">
+      <data key="d8">1</data>
+      <data key="d9">0.0127</data>
+      <data key="d10">1</data>
+      <data key="d11">The Christian Science Monitor</data>
+      <data key="d12">positive</data>
+    </edge>
+    <edge source="PUTIN" target="military_action">
+      <data key="d8">44</data>
+      <data key="d9">0.557</data>
+      <data key="d10">5</data>
+      <data key="d11">The New York Times</data>
+      <data key="d12">negative</data>
+    </edge>
+    <edge source="PUTIN" target="strike_claims">
+      <data key="d8">5</data>
+      <data key="d9">0.0633</data>
+      <data key="d10">3</data>
+      <data key="d11">The New York Times</data>
+      <data key="d12">neutral</data>
+    </edge>
+    <edge source="PUTIN" target="diplomacy">
+      <data key="d8">31</data>
+      <data key="d9">0.3924</data>
+      <data key="d10">5</data>
+      <data key="d11">The New York Times</data>
+      <data key="d12">positive</data>
+    </edge>
+    <edge source="PUTIN" target="nuclear_program">
+      <data key="d8">7</data>
+      <data key="d9">0.0886</data>
+      <data key="d10">2</data>
+      <data key="d11">The New York Times</data>
+      <data key="d12">neutral</data>
+    </edge>
+    <edge source="PUTIN" target="deterrence">
+      <data key="d8">5</data>
+      <data key="d9">0.0633</data>
+      <data key="d10">3</data>
+      <data key="d11">The New York Times</data>
+      <data key="d12">negative</data>
+    </edge>
+    <edge source="QATAR" target="strike_claims">
+      <data key="d8">1</data>
+      <data key="d9">0.0127</data>
+      <data key="d10">1</data>
+      <data key="d11">The New York Times</data>
+      <data key="d12">neutral</data>
+    </edge>
+    <edge source="QATAR" target="military_action">
+      <data key="d8">1</data>
+      <data key="d9">0.0127</data>
+      <data key="d10">1</data>
+      <data key="d11">The New York Times</data>
+      <data key="d12">negative</data>
+    </edge>
+    <edge source="REPUBLICANS" target="diplomacy">
+      <data key="d8">2</data>
+      <data key="d9">0.0253</data>
+      <data key="d10">2</data>
+      <data key="d11">TheHill.com</data>
+      <data key="d12">positive</data>
+    </edge>
+    <edge source="RUBIO" target="deterrence">
+      <data key="d8">2</data>
+      <data key="d9">0.0253</data>
+      <data key="d10">1</data>
+      <data key="d11">The New York Times</data>
+      <data key="d12">negative</data>
+    </edge>
+    <edge source="RUBIO" target="nuclear_program">
+      <data key="d8">2</data>
+      <data key="d9">0.0253</data>
+      <data key="d10">2</data>
+      <data key="d11">The New York Times</data>
+      <data key="d12">neutral</data>
+    </edge>
+    <edge source="RUBIO" target="military_action">
+      <data key="d8">4</data>
+      <data key="d9">0.0506</data>
+      <data key="d10">2</data>
+      <data key="d11">The New York Times</data>
+      <data key="d12">negative</data>
+    </edge>
+    <edge source="RUBIO" target="diplomacy">
+      <data key="d8">2</data>
+      <data key="d9">0.0253</data>
+      <data key="d10">2</data>
+      <data key="d11">TheHill.com</data>
+      <data key="d12">positive</data>
+    </edge>
+    <edge source="RUSSIA" target="nuclear_program">
+      <data key="d8">11</data>
+      <data key="d9">0.1392</data>
+      <data key="d10">4</data>
+      <data key="d11">The New York Times</data>
+      <data key="d12">neutral</data>
+    </edge>
+    <edge source="RUSSIA" target="military_action">
+      <data key="d8">58</data>
+      <data key="d9">0.7342</data>
+      <data key="d10">5</data>
+      <data key="d11">The New York Times</data>
+      <data key="d12">negative</data>
+    </edge>
+    <edge source="RUSSIA" target="diplomacy">
+      <data key="d8">39</data>
+      <data key="d9">0.4937</data>
+      <data key="d10">6</data>
+      <data key="d11">The New York Times</data>
+      <data key="d12">positive</data>
+    </edge>
+    <edge source="RUSSIA" target="strike_claims">
+      <data key="d8">11</data>
+      <data key="d9">0.1392</data>
+      <data key="d10">5</data>
+      <data key="d11">The New York Times</data>
+      <data key="d12">neutral</data>
+    </edge>
+    <edge source="RUSSIA" target="deterrence">
+      <data key="d8">10</data>
+      <data key="d9">0.1266</data>
+      <data key="d10">3</data>
+      <data key="d11">The New York Times</data>
+      <data key="d12">negative</data>
+    </edge>
+    <edge source="SAUDI_ARABIA" target="nuclear_program">
+      <data key="d8">3</data>
+      <data key="d9">0.038</data>
+      <data key="d10">1</data>
+      <data key="d11">The New York Times</data>
+      <data key="d12">neutral</data>
+    </edge>
+    <edge source="SAUDI_ARABIA" target="military_action">
+      <data key="d8">2</data>
+      <data key="d9">0.0253</data>
+      <data key="d10">1</data>
+      <data key="d11">The New York Times</data>
+      <data key="d12">negative</data>
+    </edge>
+    <edge source="SAUDI_ARABIA" target="diplomacy">
+      <data key="d8">2</data>
+      <data key="d9">0.0253</data>
+      <data key="d10">2</data>
+      <data key="d11">TheHill.com</data>
+      <data key="d12">positive</data>
+    </edge>
+    <edge source="SYRIA" target="military_action">
+      <data key="d8">4</data>
+      <data key="d9">0.0506</data>
+      <data key="d10">3</data>
+      <data key="d11">The New York Times</data>
+      <data key="d12">negative</data>
+    </edge>
+    <edge source="SYRIA" target="diplomacy">
+      <data key="d8">3</data>
+      <data key="d9">0.038</data>
+      <data key="d10">3</data>
+      <data key="d11">TheHill.com</data>
+      <data key="d12">positive</data>
+    </edge>
+    <edge source="SYRIA" target="strike_claims">
+      <data key="d8">1</data>
+      <data key="d9">0.0127</data>
+      <data key="d10">1</data>
+      <data key="d11">TheHill.com</data>
+      <data key="d12">neutral</data>
+    </edge>
+    <edge source="TRUMP" target="military_action">
+      <data key="d8">131</data>
+      <data key="d9">1.6582</data>
+      <data key="d10">10</data>
+      <data key="d11">The New York Times</data>
+      <data key="d12">negative</data>
+    </edge>
+    <edge source="TRUMP" target="diplomacy">
+      <data key="d8">142</data>
+      <data key="d9">1.7975</data>
+      <data key="d10">12</data>
+      <data key="d11">The New York Times</data>
+      <data key="d12">positive</data>
+    </edge>
+    <edge source="TRUMP" target="deterrence">
+      <data key="d8">27</data>
+      <data key="d9">0.3418</data>
+      <data key="d10">7</data>
+      <data key="d11">TheHill.com</data>
+      <data key="d12">negative</data>
+    </edge>
+    <edge source="TRUMP" target="nuclear_program">
+      <data key="d8">88</data>
+      <data key="d9">1.1139</data>
+      <data key="d10">9</data>
+      <data key="d11">The New York Times</data>
+      <data key="d12">neutral</data>
+    </edge>
+    <edge source="TRUMP" target="strike_claims">
+      <data key="d8">9</data>
+      <data key="d9">0.1139</data>
+      <data key="d10">5</data>
+      <data key="d11">The New York Times</data>
+      <data key="d12">neutral</data>
+    </edge>
+    <edge source="UAE" target="military_action">
+      <data key="d8">2</data>
+      <data key="d9">0.0253</data>
+      <data key="d10">1</data>
+      <data key="d11">The New York Times</data>
+      <data key="d12">negative</data>
+    </edge>
+    <edge source="UK" target="nuclear_program">
+      <data key="d8">5</data>
+      <data key="d9">0.0633</data>
+      <data key="d10">2</data>
+      <data key="d11">The New York Times</data>
+      <data key="d12">neutral</data>
+    </edge>
+    <edge source="UK" target="deterrence">
+      <data key="d8">8</data>
+      <data key="d9">0.1013</data>
+      <data key="d10">4</data>
+      <data key="d11">The New York Times</data>
+      <data key="d12">negative</data>
+    </edge>
+    <edge source="UK" target="diplomacy">
+      <data key="d8">3</data>
+      <data key="d9">0.038</data>
+      <data key="d10">2</data>
+      <data key="d11">The New York Times</data>
+      <data key="d12">positive</data>
+    </edge>
+    <edge source="UK" target="military_action">
+      <data key="d8">2</data>
+      <data key="d9">0.0253</data>
+      <data key="d10">2</data>
+      <data key="d11">USA Today Online</data>
+      <data key="d12">negative</data>
+    </edge>
+    <edge source="UKRAINE" target="diplomacy">
+      <data key="d8">30</data>
+      <data key="d9">0.3797</data>
+      <data key="d10">6</data>
+      <data key="d11">The New York Times</data>
+      <data key="d12">positive</data>
+    </edge>
+    <edge source="UKRAINE" target="nuclear_program">
+      <data key="d8">3</data>
+      <data key="d9">0.038</data>
+      <data key="d10">2</data>
+      <data key="d11">The New York Times</data>
+      <data key="d12">neutral</data>
+    </edge>
+    <edge source="UKRAINE" target="military_action">
+      <data key="d8">78</data>
+      <data key="d9">0.9873</data>
+      <data key="d10">5</data>
+      <data key="d11">The New York Times</data>
+      <data key="d12">negative</data>
+    </edge>
+    <edge source="UKRAINE" target="strike_claims">
+      <data key="d8">9</data>
+      <data key="d9">0.1139</data>
+      <data key="d10">5</data>
+      <data key="d11">TheHill.com</data>
+      <data key="d12">neutral</data>
+    </edge>
+    <edge source="UKRAINE" target="deterrence">
+      <data key="d8">8</data>
+      <data key="d9">0.1013</data>
+      <data key="d10">4</data>
+      <data key="d11">The New York Times</data>
+      <data key="d12">negative</data>
+    </edge>
+    <edge source="USA" target="military_action">
+      <data key="d8">92</data>
+      <data key="d9">1.1646</data>
+      <data key="d10">10</data>
+      <data key="d11">The New York Times</data>
+      <data key="d12">negative</data>
+    </edge>
+    <edge source="USA" target="diplomacy">
+      <data key="d8">108</data>
+      <data key="d9">1.3671</data>
+      <data key="d10">11</data>
+      <data key="d11">The New York Times</data>
+      <data key="d12">positive</data>
+    </edge>
+    <edge source="USA" target="nuclear_program">
+      <data key="d8">122</data>
+      <data key="d9">1.5443</data>
+      <data key="d10">10</data>
+      <data key="d11">The New York Times</data>
+      <data key="d12">neutral</data>
+    </edge>
+    <edge source="USA" target="strike_claims">
+      <data key="d8">11</data>
+      <data key="d9">0.1392</data>
+      <data key="d10">4</data>
+      <data key="d11">The New York Times</data>
+      <data key="d12">neutral</data>
+    </edge>
+    <edge source="USA" target="deterrence">
+      <data key="d8">21</data>
+      <data key="d9">0.2658</data>
+      <data key="d10">6</data>
+      <data key="d11">The New York Times</data>
+      <data key="d12">negative</data>
+    </edge>
+    <edge source="US_CONGRESS" target="diplomacy">
+      <data key="d8">6</data>
+      <data key="d9">0.0759</data>
+      <data key="d10">3</data>
+      <data key="d11">The New York Times</data>
+      <data key="d12">positive</data>
+    </edge>
+    <edge source="US_CONGRESS" target="nuclear_program">
+      <data key="d8">2</data>
+      <data key="d9">0.0253</data>
+      <data key="d10">1</data>
+      <data key="d11">The New York Times</data>
+      <data key="d12">neutral</data>
+    </edge>
+    <edge source="US_CONGRESS" target="military_action">
+      <data key="d8">3</data>
+      <data key="d9">0.038</data>
+      <data key="d10">1</data>
+      <data key="d11">The Libertarian Institute</data>
+      <data key="d12">negative</data>
+    </edge>
+    <edge source="US_SENATE" target="diplomacy">
+      <data key="d8">1</data>
+      <data key="d9">0.0127</data>
+      <data key="d10">1</data>
+      <data key="d11">TheHill.com</data>
+      <data key="d12">positive</data>
+    </edge>
+    <edge source="WITKOFF" target="nuclear_program">
+      <data key="d8">13</data>
+      <data key="d9">0.1646</data>
+      <data key="d10">5</data>
+      <data key="d11">The New York Times</data>
+      <data key="d12">neutral</data>
+    </edge>
+    <edge source="WITKOFF" target="deterrence">
+      <data key="d8">6</data>
+      <data key="d9">0.0759</data>
+      <data key="d10">2</data>
+      <data key="d11">The New York Times</data>
+      <data key="d12">negative</data>
+    </edge>
+    <edge source="WITKOFF" target="diplomacy">
+      <data key="d8">21</data>
+      <data key="d9">0.2658</data>
+      <data key="d10">4</data>
+      <data key="d11">The New York Times</data>
+      <data key="d12">positive</data>
+    </edge>
+    <edge source="WITKOFF" target="military_action">
+      <data key="d8">6</data>
+      <data key="d9">0.0759</data>
+      <data key="d10">2</data>
+      <data key="d11">The New York Times</data>
+      <data key="d12">negative</data>
+    </edge>
+    <edge source="YEMEN" target="military_action">
+      <data key="d8">7</data>
+      <data key="d9">0.0886</data>
+      <data key="d10">4</data>
+      <data key="d11">Hawke's Bay Today</data>
+      <data key="d12">negative</data>
+    </edge>
+    <edge source="YEMEN" target="diplomacy">
+      <data key="d8">1</data>
+      <data key="d9">0.0127</data>
+      <data key="d10">1</data>
+      <data key="d11">The Daily Kent Stater: Kent State University</data>
+      <data key="d12">positive</data>
+    </edge>
+    <data key="d0">buildup_jun1</data>
+  </graph>
+</graphml>

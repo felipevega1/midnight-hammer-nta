@@ -1,0 +1,1948 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d14" for="edge" attr.name="dominant_polarity" attr.type="string" />
+  <key id="d13" for="edge" attr.name="polarity_negative" attr.type="long" />
+  <key id="d12" for="edge" attr.name="polarity_neutral" attr.type="long" />
+  <key id="d11" for="edge" attr.name="polarity_positive" attr.type="long" />
+  <key id="d10" for="edge" attr.name="n_shared_concepts" attr.type="long" />
+  <key id="d9" for="edge" attr.name="shared_concepts" attr.type="string" />
+  <key id="d8" for="edge" attr.name="weight" attr.type="long" />
+  <key id="d7" for="node" attr.name="total_weight_norm" attr.type="long" />
+  <key id="d6" for="node" attr.name="total_weight_norm" attr.type="double" />
+  <key id="d5" for="node" attr.name="total_weight" attr.type="long" />
+  <key id="d4" for="node" attr.name="degree" attr.type="long" />
+  <key id="d3" for="node" attr.name="entity_type" attr.type="string" />
+  <key id="d2" for="node" attr.name="node_type" attr.type="string" />
+  <key id="d1" for="node" attr.name="bipartite" attr.type="long" />
+  <key id="d0" for="graph" attr.name="window" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="FRANCE">
+      <data key="d1">0</data>
+      <data key="d2">actor</data>
+      <data key="d3">GPE</data>
+      <data key="d4">3</data>
+      <data key="d5">6</data>
+      <data key="d6">0.1091</data>
+    </node>
+    <node id="HEZBOLLAH">
+      <data key="d1">0</data>
+      <data key="d2">actor</data>
+      <data key="d3">ORG</data>
+      <data key="d4">0</data>
+      <data key="d5">0</data>
+      <data key="d7">0</data>
+    </node>
+    <node id="ARAGHCHI">
+      <data key="d1">0</data>
+      <data key="d2">actor</data>
+      <data key="d3">PERSON</data>
+      <data key="d4">5</data>
+      <data key="d5">22</data>
+      <data key="d6">0.4</data>
+    </node>
+    <node id="HOUTHIS">
+      <data key="d1">0</data>
+      <data key="d2">actor</data>
+      <data key="d3">ORG</data>
+      <data key="d4">0</data>
+      <data key="d5">0</data>
+      <data key="d7">0</data>
+    </node>
+    <node id="UKRAINE">
+      <data key="d1">0</data>
+      <data key="d2">actor</data>
+      <data key="d3">GPE</data>
+      <data key="d4">0</data>
+      <data key="d5">0</data>
+      <data key="d7">0</data>
+    </node>
+    <node id="BAHRAIN">
+      <data key="d1">0</data>
+      <data key="d2">actor</data>
+      <data key="d3">GPE</data>
+      <data key="d4">0</data>
+      <data key="d5">0</data>
+      <data key="d7">0</data>
+    </node>
+    <node id="OBAMA">
+      <data key="d1">0</data>
+      <data key="d2">actor</data>
+      <data key="d3">PERSON</data>
+      <data key="d4">0</data>
+      <data key="d5">0</data>
+      <data key="d7">0</data>
+    </node>
+    <node id="US_CONGRESS">
+      <data key="d1">0</data>
+      <data key="d2">actor</data>
+      <data key="d3">ORG</data>
+      <data key="d4">0</data>
+      <data key="d5">0</data>
+      <data key="d7">0</data>
+    </node>
+    <node id="PEZESHKIAN">
+      <data key="d1">0</data>
+      <data key="d2">actor</data>
+      <data key="d3">PERSON</data>
+      <data key="d4">3</data>
+      <data key="d5">4</data>
+      <data key="d6">0.0728</data>
+    </node>
+    <node id="LEBANON">
+      <data key="d1">0</data>
+      <data key="d2">actor</data>
+      <data key="d3">GPE</data>
+      <data key="d4">1</data>
+      <data key="d5">1</data>
+      <data key="d6">0.0182</data>
+    </node>
+    <node id="HEGSETH">
+      <data key="d1">0</data>
+      <data key="d2">actor</data>
+      <data key="d3">PERSON</data>
+      <data key="d4">0</data>
+      <data key="d5">0</data>
+      <data key="d7">0</data>
+    </node>
+    <node id="GERMANY">
+      <data key="d1">0</data>
+      <data key="d2">actor</data>
+      <data key="d3">GPE</data>
+      <data key="d4">1</data>
+      <data key="d5">1</data>
+      <data key="d6">0.0182</data>
+    </node>
+    <node id="GAZA">
+      <data key="d1">0</data>
+      <data key="d2">actor</data>
+      <data key="d3">GPE</data>
+      <data key="d4">5</data>
+      <data key="d5">7</data>
+      <data key="d6">0.1274</data>
+    </node>
+    <node id="SYRIA">
+      <data key="d1">0</data>
+      <data key="d2">actor</data>
+      <data key="d3">GPE</data>
+      <data key="d4">0</data>
+      <data key="d5">0</data>
+      <data key="d7">0</data>
+    </node>
+    <node id="REPUBLICANS">
+      <data key="d1">0</data>
+      <data key="d2">actor</data>
+      <data key="d3">ORG</data>
+      <data key="d4">0</data>
+      <data key="d5">0</data>
+      <data key="d7">0</data>
+    </node>
+    <node id="YEMEN">
+      <data key="d1">0</data>
+      <data key="d2">actor</data>
+      <data key="d3">GPE</data>
+      <data key="d4">0</data>
+      <data key="d5">0</data>
+      <data key="d7">0</data>
+    </node>
+    <node id="OMAN">
+      <data key="d1">0</data>
+      <data key="d2">actor</data>
+      <data key="d3">GPE</data>
+      <data key="d4">2</data>
+      <data key="d5">2</data>
+      <data key="d6">0.0364</data>
+    </node>
+    <node id="USA">
+      <data key="d1">0</data>
+      <data key="d2">actor</data>
+      <data key="d3">GPE</data>
+      <data key="d4">5</data>
+      <data key="d5">114</data>
+      <data key="d6">2.0728</data>
+    </node>
+    <node id="QATAR">
+      <data key="d1">0</data>
+      <data key="d2">actor</data>
+      <data key="d3">GPE</data>
+      <data key="d4">4</data>
+      <data key="d5">14</data>
+      <data key="d6">0.2546</data>
+    </node>
+    <node id="IAEA">
+      <data key="d1">0</data>
+      <data key="d2">actor</data>
+      <data key="d3">ORG</data>
+      <data key="d4">5</data>
+      <data key="d5">28</data>
+      <data key="d6">0.5092</data>
+    </node>
+    <node id="ISRAEL">
+      <data key="d1">0</data>
+      <data key="d2">actor</data>
+      <data key="d3">GPE</data>
+      <data key="d4">5</data>
+      <data key="d5">227</data>
+      <data key="d6">4.1273</data>
+    </node>
+    <node id="PUTIN">
+      <data key="d1">0</data>
+      <data key="d2">actor</data>
+      <data key="d3">PERSON</data>
+      <data key="d4">1</data>
+      <data key="d5">1</data>
+      <data key="d6">0.0182</data>
+    </node>
+    <node id="CHINA">
+      <data key="d1">0</data>
+      <data key="d2">actor</data>
+      <data key="d3">GPE</data>
+      <data key="d4">4</data>
+      <data key="d5">5</data>
+      <data key="d6">0.091</data>
+    </node>
+    <node id="HAMAS">
+      <data key="d1">0</data>
+      <data key="d2">actor</data>
+      <data key="d3">ORG</data>
+      <data key="d4">0</data>
+      <data key="d5">0</data>
+      <data key="d7">0</data>
+    </node>
+    <node id="RUBIO">
+      <data key="d1">0</data>
+      <data key="d2">actor</data>
+      <data key="d3">PERSON</data>
+      <data key="d4">0</data>
+      <data key="d5">0</data>
+      <data key="d7">0</data>
+    </node>
+    <node id="GULF_STATES">
+      <data key="d1">0</data>
+      <data key="d2">actor</data>
+      <data key="d3">GPE</data>
+      <data key="d4">0</data>
+      <data key="d5">0</data>
+      <data key="d7">0</data>
+    </node>
+    <node id="TRUMP">
+      <data key="d1">0</data>
+      <data key="d2">actor</data>
+      <data key="d3">PERSON</data>
+      <data key="d4">5</data>
+      <data key="d5">12</data>
+      <data key="d6">0.2182</data>
+    </node>
+    <node id="VANCE">
+      <data key="d1">0</data>
+      <data key="d2">actor</data>
+      <data key="d3">PERSON</data>
+      <data key="d4">0</data>
+      <data key="d5">0</data>
+      <data key="d7">0</data>
+    </node>
+    <node id="UAE">
+      <data key="d1">0</data>
+      <data key="d2">actor</data>
+      <data key="d3">GPE</data>
+      <data key="d4">0</data>
+      <data key="d5">0</data>
+      <data key="d7">0</data>
+    </node>
+    <node id="IRAQ">
+      <data key="d1">0</data>
+      <data key="d2">actor</data>
+      <data key="d3">GPE</data>
+      <data key="d4">0</data>
+      <data key="d5">0</data>
+      <data key="d7">0</data>
+    </node>
+    <node id="UK">
+      <data key="d1">0</data>
+      <data key="d2">actor</data>
+      <data key="d3">GPE</data>
+      <data key="d4">2</data>
+      <data key="d5">2</data>
+      <data key="d6">0.0364</data>
+    </node>
+    <node id="UN_SECURITY_COUNCIL">
+      <data key="d1">0</data>
+      <data key="d2">actor</data>
+      <data key="d3">ORG</data>
+      <data key="d4">2</data>
+      <data key="d5">2</data>
+      <data key="d6">0.0364</data>
+    </node>
+    <node id="WITKOFF">
+      <data key="d1">0</data>
+      <data key="d2">actor</data>
+      <data key="d3">PERSON</data>
+      <data key="d4">0</data>
+      <data key="d5">0</data>
+      <data key="d7">0</data>
+    </node>
+    <node id="EU">
+      <data key="d1">0</data>
+      <data key="d2">actor</data>
+      <data key="d3">ORG</data>
+      <data key="d4">3</data>
+      <data key="d5">7</data>
+      <data key="d6">0.1273</data>
+    </node>
+    <node id="US_SENATE">
+      <data key="d1">0</data>
+      <data key="d2">actor</data>
+      <data key="d3">ORG</data>
+      <data key="d4">0</data>
+      <data key="d5">0</data>
+      <data key="d7">0</data>
+    </node>
+    <node id="NATO">
+      <data key="d1">0</data>
+      <data key="d2">actor</data>
+      <data key="d3">ORG</data>
+      <data key="d4">0</data>
+      <data key="d5">0</data>
+      <data key="d7">0</data>
+    </node>
+    <node id="IRAN">
+      <data key="d1">0</data>
+      <data key="d2">actor</data>
+      <data key="d3">GPE</data>
+      <data key="d4">5</data>
+      <data key="d5">316</data>
+      <data key="d6">5.7455</data>
+    </node>
+    <node id="NETANYAHU">
+      <data key="d1">0</data>
+      <data key="d2">actor</data>
+      <data key="d3">PERSON</data>
+      <data key="d4">3</data>
+      <data key="d5">3</data>
+      <data key="d6">0.0546</data>
+    </node>
+    <node id="KHAMENEI">
+      <data key="d1">0</data>
+      <data key="d2">actor</data>
+      <data key="d3">PERSON</data>
+      <data key="d4">0</data>
+      <data key="d5">0</data>
+      <data key="d7">0</data>
+    </node>
+    <node id="BIDEN">
+      <data key="d1">0</data>
+      <data key="d2">actor</data>
+      <data key="d3">PERSON</data>
+      <data key="d4">0</data>
+      <data key="d5">0</data>
+      <data key="d7">0</data>
+    </node>
+    <node id="GROSSI">
+      <data key="d1">0</data>
+      <data key="d2">actor</data>
+      <data key="d3">PERSON</data>
+      <data key="d4">0</data>
+      <data key="d5">0</data>
+      <data key="d7">0</data>
+    </node>
+    <node id="DEMOCRATS">
+      <data key="d1">0</data>
+      <data key="d2">actor</data>
+      <data key="d3">ORG</data>
+      <data key="d4">0</data>
+      <data key="d5">0</data>
+      <data key="d7">0</data>
+    </node>
+    <node id="SAUDI_ARABIA">
+      <data key="d1">0</data>
+      <data key="d2">actor</data>
+      <data key="d3">GPE</data>
+      <data key="d4">0</data>
+      <data key="d5">0</data>
+      <data key="d7">0</data>
+    </node>
+    <node id="RUSSIA">
+      <data key="d1">0</data>
+      <data key="d2">actor</data>
+      <data key="d3">GPE</data>
+      <data key="d4">3</data>
+      <data key="d5">10</data>
+      <data key="d6">0.1818</data>
+    </node>
+    <edge source="FRANCE" target="ARAGHCHI">
+      <data key="d8">3</data>
+      <data key="d9">deterrence,military_action,nuclear_program</data>
+      <data key="d10">3</data>
+      <data key="d11">0</data>
+      <data key="d12">1</data>
+      <data key="d13">2</data>
+      <data key="d14">negative</data>
+    </edge>
+    <edge source="FRANCE" target="TRUMP">
+      <data key="d8">3</data>
+      <data key="d9">deterrence,military_action,nuclear_program</data>
+      <data key="d10">3</data>
+      <data key="d11">0</data>
+      <data key="d12">1</data>
+      <data key="d13">2</data>
+      <data key="d14">negative</data>
+    </edge>
+    <edge source="FRANCE" target="PEZESHKIAN">
+      <data key="d8">1</data>
+      <data key="d9">deterrence</data>
+      <data key="d10">1</data>
+      <data key="d11">0</data>
+      <data key="d12">0</data>
+      <data key="d13">1</data>
+      <data key="d14">negative</data>
+    </edge>
+    <edge source="FRANCE" target="UK">
+      <data key="d8">2</data>
+      <data key="d9">military_action,nuclear_program</data>
+      <data key="d10">2</data>
+      <data key="d11">0</data>
+      <data key="d12">1</data>
+      <data key="d13">1</data>
+      <data key="d14">mixed</data>
+    </edge>
+    <edge source="FRANCE" target="GERMANY">
+      <data key="d8">1</data>
+      <data key="d9">nuclear_program</data>
+      <data key="d10">1</data>
+      <data key="d11">0</data>
+      <data key="d12">1</data>
+      <data key="d13">0</data>
+      <data key="d14">neutral</data>
+    </edge>
+    <edge source="FRANCE" target="UN_SECURITY_COUNCIL">
+      <data key="d8">1</data>
+      <data key="d9">nuclear_program</data>
+      <data key="d10">1</data>
+      <data key="d11">0</data>
+      <data key="d12">1</data>
+      <data key="d13">0</data>
+      <data key="d14">neutral</data>
+    </edge>
+    <edge source="FRANCE" target="GAZA">
+      <data key="d8">3</data>
+      <data key="d9">deterrence,military_action,nuclear_program</data>
+      <data key="d10">3</data>
+      <data key="d11">0</data>
+      <data key="d12">1</data>
+      <data key="d13">2</data>
+      <data key="d14">negative</data>
+    </edge>
+    <edge source="FRANCE" target="EU">
+      <data key="d8">2</data>
+      <data key="d9">military_action,nuclear_program</data>
+      <data key="d10">2</data>
+      <data key="d11">0</data>
+      <data key="d12">1</data>
+      <data key="d13">1</data>
+      <data key="d14">mixed</data>
+    </edge>
+    <edge source="FRANCE" target="OMAN">
+      <data key="d8">1</data>
+      <data key="d9">military_action</data>
+      <data key="d10">1</data>
+      <data key="d11">0</data>
+      <data key="d12">0</data>
+      <data key="d13">1</data>
+      <data key="d14">negative</data>
+    </edge>
+    <edge source="FRANCE" target="IRAN">
+      <data key="d8">3</data>
+      <data key="d9">deterrence,military_action,nuclear_program</data>
+      <data key="d10">3</data>
+      <data key="d11">0</data>
+      <data key="d12">1</data>
+      <data key="d13">2</data>
+      <data key="d14">negative</data>
+    </edge>
+    <edge source="FRANCE" target="NETANYAHU">
+      <data key="d8">1</data>
+      <data key="d9">military_action</data>
+      <data key="d10">1</data>
+      <data key="d11">0</data>
+      <data key="d12">0</data>
+      <data key="d13">1</data>
+      <data key="d14">negative</data>
+    </edge>
+    <edge source="FRANCE" target="USA">
+      <data key="d8">3</data>
+      <data key="d9">deterrence,military_action,nuclear_program</data>
+      <data key="d10">3</data>
+      <data key="d11">0</data>
+      <data key="d12">1</data>
+      <data key="d13">2</data>
+      <data key="d14">negative</data>
+    </edge>
+    <edge source="FRANCE" target="QATAR">
+      <data key="d8">3</data>
+      <data key="d9">deterrence,military_action,nuclear_program</data>
+      <data key="d10">3</data>
+      <data key="d11">0</data>
+      <data key="d12">1</data>
+      <data key="d13">2</data>
+      <data key="d14">negative</data>
+    </edge>
+    <edge source="FRANCE" target="IAEA">
+      <data key="d8">3</data>
+      <data key="d9">deterrence,military_action,nuclear_program</data>
+      <data key="d10">3</data>
+      <data key="d11">0</data>
+      <data key="d12">1</data>
+      <data key="d13">2</data>
+      <data key="d14">negative</data>
+    </edge>
+    <edge source="FRANCE" target="ISRAEL">
+      <data key="d8">3</data>
+      <data key="d9">deterrence,military_action,nuclear_program</data>
+      <data key="d10">3</data>
+      <data key="d11">0</data>
+      <data key="d12">1</data>
+      <data key="d13">2</data>
+      <data key="d14">negative</data>
+    </edge>
+    <edge source="FRANCE" target="PUTIN">
+      <data key="d8">1</data>
+      <data key="d9">military_action</data>
+      <data key="d10">1</data>
+      <data key="d11">0</data>
+      <data key="d12">0</data>
+      <data key="d13">1</data>
+      <data key="d14">negative</data>
+    </edge>
+    <edge source="FRANCE" target="RUSSIA">
+      <data key="d8">1</data>
+      <data key="d9">military_action</data>
+      <data key="d10">1</data>
+      <data key="d11">0</data>
+      <data key="d12">0</data>
+      <data key="d13">1</data>
+      <data key="d14">negative</data>
+    </edge>
+    <edge source="FRANCE" target="CHINA">
+      <data key="d8">2</data>
+      <data key="d9">military_action,nuclear_program</data>
+      <data key="d10">2</data>
+      <data key="d11">0</data>
+      <data key="d12">1</data>
+      <data key="d13">1</data>
+      <data key="d14">mixed</data>
+    </edge>
+    <edge source="ARAGHCHI" target="TRUMP">
+      <data key="d8">5</data>
+      <data key="d9">deterrence,diplomacy,military_action,nuclear_program,strike_claims</data>
+      <data key="d10">5</data>
+      <data key="d11">1</data>
+      <data key="d12">2</data>
+      <data key="d13">2</data>
+      <data key="d14">mixed</data>
+    </edge>
+    <edge source="ARAGHCHI" target="PEZESHKIAN">
+      <data key="d8">3</data>
+      <data key="d9">deterrence,diplomacy,strike_claims</data>
+      <data key="d10">3</data>
+      <data key="d11">1</data>
+      <data key="d12">1</data>
+      <data key="d13">1</data>
+      <data key="d14">mixed</data>
+    </edge>
+    <edge source="ARAGHCHI" target="LEBANON">
+      <data key="d8">1</data>
+      <data key="d9">diplomacy</data>
+      <data key="d10">1</data>
+      <data key="d11">1</data>
+      <data key="d12">0</data>
+      <data key="d13">0</data>
+      <data key="d14">positive</data>
+    </edge>
+    <edge source="ARAGHCHI" target="UK">
+      <data key="d8">2</data>
+      <data key="d9">military_action,nuclear_program</data>
+      <data key="d10">2</data>
+      <data key="d11">0</data>
+      <data key="d12">1</data>
+      <data key="d13">1</data>
+      <data key="d14">mixed</data>
+    </edge>
+    <edge source="ARAGHCHI" target="GERMANY">
+      <data key="d8">1</data>
+      <data key="d9">nuclear_program</data>
+      <data key="d10">1</data>
+      <data key="d11">0</data>
+      <data key="d12">1</data>
+      <data key="d13">0</data>
+      <data key="d14">neutral</data>
+    </edge>
+    <edge source="ARAGHCHI" target="UN_SECURITY_COUNCIL">
+      <data key="d8">2</data>
+      <data key="d9">nuclear_program,strike_claims</data>
+      <data key="d10">2</data>
+      <data key="d11">0</data>
+      <data key="d12">2</data>
+      <data key="d13">0</data>
+      <data key="d14">neutral</data>
+    </edge>
+    <edge source="ARAGHCHI" target="GAZA">
+      <data key="d8">5</data>
+      <data key="d9">deterrence,diplomacy,military_action,nuclear_program,strike_claims</data>
+      <data key="d10">5</data>
+      <data key="d11">1</data>
+      <data key="d12">2</data>
+      <data key="d13">2</data>
+      <data key="d14">mixed</data>
+    </edge>
+    <edge source="ARAGHCHI" target="EU">
+      <data key="d8">3</data>
+      <data key="d9">diplomacy,military_action,nuclear_program</data>
+      <data key="d10">3</data>
+      <data key="d11">1</data>
+      <data key="d12">1</data>
+      <data key="d13">1</data>
+      <data key="d14">mixed</data>
+    </edge>
+    <edge source="ARAGHCHI" target="OMAN">
+      <data key="d8">2</data>
+      <data key="d9">diplomacy,military_action</data>
+      <data key="d10">2</data>
+      <data key="d11">1</data>
+      <data key="d12">0</data>
+      <data key="d13">1</data>
+      <data key="d14">mixed</data>
+    </edge>
+    <edge source="ARAGHCHI" target="IRAN">
+      <data key="d8">5</data>
+      <data key="d9">deterrence,diplomacy,military_action,nuclear_program,strike_claims</data>
+      <data key="d10">5</data>
+      <data key="d11">1</data>
+      <data key="d12">2</data>
+      <data key="d13">2</data>
+      <data key="d14">mixed</data>
+    </edge>
+    <edge source="ARAGHCHI" target="NETANYAHU">
+      <data key="d8">3</data>
+      <data key="d9">diplomacy,military_action,strike_claims</data>
+      <data key="d10">3</data>
+      <data key="d11">1</data>
+      <data key="d12">1</data>
+      <data key="d13">1</data>
+      <data key="d14">mixed</data>
+    </edge>
+    <edge source="ARAGHCHI" target="USA">
+      <data key="d8">5</data>
+      <data key="d9">deterrence,diplomacy,military_action,nuclear_program,strike_claims</data>
+      <data key="d10">5</data>
+      <data key="d11">1</data>
+      <data key="d12">2</data>
+      <data key="d13">2</data>
+      <data key="d14">mixed</data>
+    </edge>
+    <edge source="ARAGHCHI" target="QATAR">
+      <data key="d8">4</data>
+      <data key="d9">deterrence,military_action,nuclear_program,strike_claims</data>
+      <data key="d10">4</data>
+      <data key="d11">0</data>
+      <data key="d12">2</data>
+      <data key="d13">2</data>
+      <data key="d14">mixed</data>
+    </edge>
+    <edge source="ARAGHCHI" target="IAEA">
+      <data key="d8">5</data>
+      <data key="d9">deterrence,diplomacy,military_action,nuclear_program,strike_claims</data>
+      <data key="d10">5</data>
+      <data key="d11">1</data>
+      <data key="d12">2</data>
+      <data key="d13">2</data>
+      <data key="d14">mixed</data>
+    </edge>
+    <edge source="ARAGHCHI" target="ISRAEL">
+      <data key="d8">5</data>
+      <data key="d9">deterrence,diplomacy,military_action,nuclear_program,strike_claims</data>
+      <data key="d10">5</data>
+      <data key="d11">1</data>
+      <data key="d12">2</data>
+      <data key="d13">2</data>
+      <data key="d14">mixed</data>
+    </edge>
+    <edge source="ARAGHCHI" target="PUTIN">
+      <data key="d8">1</data>
+      <data key="d9">military_action</data>
+      <data key="d10">1</data>
+      <data key="d11">0</data>
+      <data key="d12">0</data>
+      <data key="d13">1</data>
+      <data key="d14">negative</data>
+    </edge>
+    <edge source="ARAGHCHI" target="RUSSIA">
+      <data key="d8">3</data>
+      <data key="d9">diplomacy,military_action,strike_claims</data>
+      <data key="d10">3</data>
+      <data key="d11">1</data>
+      <data key="d12">1</data>
+      <data key="d13">1</data>
+      <data key="d14">mixed</data>
+    </edge>
+    <edge source="ARAGHCHI" target="CHINA">
+      <data key="d8">4</data>
+      <data key="d9">diplomacy,military_action,nuclear_program,strike_claims</data>
+      <data key="d10">4</data>
+      <data key="d11">1</data>
+      <data key="d12">2</data>
+      <data key="d13">1</data>
+      <data key="d14">neutral</data>
+    </edge>
+    <edge source="PEZESHKIAN" target="TRUMP">
+      <data key="d8">3</data>
+      <data key="d9">deterrence,diplomacy,strike_claims</data>
+      <data key="d10">3</data>
+      <data key="d11">1</data>
+      <data key="d12">1</data>
+      <data key="d13">1</data>
+      <data key="d14">mixed</data>
+    </edge>
+    <edge source="PEZESHKIAN" target="LEBANON">
+      <data key="d8">1</data>
+      <data key="d9">diplomacy</data>
+      <data key="d10">1</data>
+      <data key="d11">1</data>
+      <data key="d12">0</data>
+      <data key="d13">0</data>
+      <data key="d14">positive</data>
+    </edge>
+    <edge source="PEZESHKIAN" target="UN_SECURITY_COUNCIL">
+      <data key="d8">1</data>
+      <data key="d9">strike_claims</data>
+      <data key="d10">1</data>
+      <data key="d11">0</data>
+      <data key="d12">1</data>
+      <data key="d13">0</data>
+      <data key="d14">neutral</data>
+    </edge>
+    <edge source="PEZESHKIAN" target="GAZA">
+      <data key="d8">3</data>
+      <data key="d9">deterrence,diplomacy,strike_claims</data>
+      <data key="d10">3</data>
+      <data key="d11">1</data>
+      <data key="d12">1</data>
+      <data key="d13">1</data>
+      <data key="d14">mixed</data>
+    </edge>
+    <edge source="PEZESHKIAN" target="EU">
+      <data key="d8">1</data>
+      <data key="d9">diplomacy</data>
+      <data key="d10">1</data>
+      <data key="d11">1</data>
+      <data key="d12">0</data>
+      <data key="d13">0</data>
+      <data key="d14">positive</data>
+    </edge>
+    <edge source="PEZESHKIAN" target="OMAN">
+      <data key="d8">1</data>
+      <data key="d9">diplomacy</data>
+      <data key="d10">1</data>
+      <data key="d11">1</data>
+      <data key="d12">0</data>
+      <data key="d13">0</data>
+      <data key="d14">positive</data>
+    </edge>
+    <edge source="PEZESHKIAN" target="IRAN">
+      <data key="d8">3</data>
+      <data key="d9">deterrence,diplomacy,strike_claims</data>
+      <data key="d10">3</data>
+      <data key="d11">1</data>
+      <data key="d12">1</data>
+      <data key="d13">1</data>
+      <data key="d14">mixed</data>
+    </edge>
+    <edge source="PEZESHKIAN" target="NETANYAHU">
+      <data key="d8">2</data>
+      <data key="d9">diplomacy,strike_claims</data>
+      <data key="d10">2</data>
+      <data key="d11">1</data>
+      <data key="d12">1</data>
+      <data key="d13">0</data>
+      <data key="d14">mixed</data>
+    </edge>
+    <edge source="PEZESHKIAN" target="USA">
+      <data key="d8">3</data>
+      <data key="d9">deterrence,diplomacy,strike_claims</data>
+      <data key="d10">3</data>
+      <data key="d11">1</data>
+      <data key="d12">1</data>
+      <data key="d13">1</data>
+      <data key="d14">mixed</data>
+    </edge>
+    <edge source="PEZESHKIAN" target="QATAR">
+      <data key="d8">2</data>
+      <data key="d9">deterrence,strike_claims</data>
+      <data key="d10">2</data>
+      <data key="d11">0</data>
+      <data key="d12">1</data>
+      <data key="d13">1</data>
+      <data key="d14">mixed</data>
+    </edge>
+    <edge source="PEZESHKIAN" target="IAEA">
+      <data key="d8">3</data>
+      <data key="d9">deterrence,diplomacy,strike_claims</data>
+      <data key="d10">3</data>
+      <data key="d11">1</data>
+      <data key="d12">1</data>
+      <data key="d13">1</data>
+      <data key="d14">mixed</data>
+    </edge>
+    <edge source="PEZESHKIAN" target="ISRAEL">
+      <data key="d8">3</data>
+      <data key="d9">deterrence,diplomacy,strike_claims</data>
+      <data key="d10">3</data>
+      <data key="d11">1</data>
+      <data key="d12">1</data>
+      <data key="d13">1</data>
+      <data key="d14">mixed</data>
+    </edge>
+    <edge source="PEZESHKIAN" target="RUSSIA">
+      <data key="d8">2</data>
+      <data key="d9">diplomacy,strike_claims</data>
+      <data key="d10">2</data>
+      <data key="d11">1</data>
+      <data key="d12">1</data>
+      <data key="d13">0</data>
+      <data key="d14">mixed</data>
+    </edge>
+    <edge source="PEZESHKIAN" target="CHINA">
+      <data key="d8">2</data>
+      <data key="d9">diplomacy,strike_claims</data>
+      <data key="d10">2</data>
+      <data key="d11">1</data>
+      <data key="d12">1</data>
+      <data key="d13">0</data>
+      <data key="d14">mixed</data>
+    </edge>
+    <edge source="LEBANON" target="OMAN">
+      <data key="d8">1</data>
+      <data key="d9">diplomacy</data>
+      <data key="d10">1</data>
+      <data key="d11">1</data>
+      <data key="d12">0</data>
+      <data key="d13">0</data>
+      <data key="d14">positive</data>
+    </edge>
+    <edge source="LEBANON" target="IRAN">
+      <data key="d8">1</data>
+      <data key="d9">diplomacy</data>
+      <data key="d10">1</data>
+      <data key="d11">1</data>
+      <data key="d12">0</data>
+      <data key="d13">0</data>
+      <data key="d14">positive</data>
+    </edge>
+    <edge source="LEBANON" target="NETANYAHU">
+      <data key="d8">1</data>
+      <data key="d9">diplomacy</data>
+      <data key="d10">1</data>
+      <data key="d11">1</data>
+      <data key="d12">0</data>
+      <data key="d13">0</data>
+      <data key="d14">positive</data>
+    </edge>
+    <edge source="LEBANON" target="USA">
+      <data key="d8">1</data>
+      <data key="d9">diplomacy</data>
+      <data key="d10">1</data>
+      <data key="d11">1</data>
+      <data key="d12">0</data>
+      <data key="d13">0</data>
+      <data key="d14">positive</data>
+    </edge>
+    <edge source="LEBANON" target="TRUMP">
+      <data key="d8">1</data>
+      <data key="d9">diplomacy</data>
+      <data key="d10">1</data>
+      <data key="d11">1</data>
+      <data key="d12">0</data>
+      <data key="d13">0</data>
+      <data key="d14">positive</data>
+    </edge>
+    <edge source="LEBANON" target="EU">
+      <data key="d8">1</data>
+      <data key="d9">diplomacy</data>
+      <data key="d10">1</data>
+      <data key="d11">1</data>
+      <data key="d12">0</data>
+      <data key="d13">0</data>
+      <data key="d14">positive</data>
+    </edge>
+    <edge source="LEBANON" target="IAEA">
+      <data key="d8">1</data>
+      <data key="d9">diplomacy</data>
+      <data key="d10">1</data>
+      <data key="d11">1</data>
+      <data key="d12">0</data>
+      <data key="d13">0</data>
+      <data key="d14">positive</data>
+    </edge>
+    <edge source="LEBANON" target="ISRAEL">
+      <data key="d8">1</data>
+      <data key="d9">diplomacy</data>
+      <data key="d10">1</data>
+      <data key="d11">1</data>
+      <data key="d12">0</data>
+      <data key="d13">0</data>
+      <data key="d14">positive</data>
+    </edge>
+    <edge source="LEBANON" target="GAZA">
+      <data key="d8">1</data>
+      <data key="d9">diplomacy</data>
+      <data key="d10">1</data>
+      <data key="d11">1</data>
+      <data key="d12">0</data>
+      <data key="d13">0</data>
+      <data key="d14">positive</data>
+    </edge>
+    <edge source="LEBANON" target="RUSSIA">
+      <data key="d8">1</data>
+      <data key="d9">diplomacy</data>
+      <data key="d10">1</data>
+      <data key="d11">1</data>
+      <data key="d12">0</data>
+      <data key="d13">0</data>
+      <data key="d14">positive</data>
+    </edge>
+    <edge source="LEBANON" target="CHINA">
+      <data key="d8">1</data>
+      <data key="d9">diplomacy</data>
+      <data key="d10">1</data>
+      <data key="d11">1</data>
+      <data key="d12">0</data>
+      <data key="d13">0</data>
+      <data key="d14">positive</data>
+    </edge>
+    <edge source="GERMANY" target="IRAN">
+      <data key="d8">1</data>
+      <data key="d9">nuclear_program</data>
+      <data key="d10">1</data>
+      <data key="d11">0</data>
+      <data key="d12">1</data>
+      <data key="d13">0</data>
+      <data key="d14">neutral</data>
+    </edge>
+    <edge source="GERMANY" target="USA">
+      <data key="d8">1</data>
+      <data key="d9">nuclear_program</data>
+      <data key="d10">1</data>
+      <data key="d11">0</data>
+      <data key="d12">1</data>
+      <data key="d13">0</data>
+      <data key="d14">neutral</data>
+    </edge>
+    <edge source="GERMANY" target="TRUMP">
+      <data key="d8">1</data>
+      <data key="d9">nuclear_program</data>
+      <data key="d10">1</data>
+      <data key="d11">0</data>
+      <data key="d12">1</data>
+      <data key="d13">0</data>
+      <data key="d14">neutral</data>
+    </edge>
+    <edge source="GERMANY" target="QATAR">
+      <data key="d8">1</data>
+      <data key="d9">nuclear_program</data>
+      <data key="d10">1</data>
+      <data key="d11">0</data>
+      <data key="d12">1</data>
+      <data key="d13">0</data>
+      <data key="d14">neutral</data>
+    </edge>
+    <edge source="GERMANY" target="IAEA">
+      <data key="d8">1</data>
+      <data key="d9">nuclear_program</data>
+      <data key="d10">1</data>
+      <data key="d11">0</data>
+      <data key="d12">1</data>
+      <data key="d13">0</data>
+      <data key="d14">neutral</data>
+    </edge>
+    <edge source="GERMANY" target="EU">
+      <data key="d8">1</data>
+      <data key="d9">nuclear_program</data>
+      <data key="d10">1</data>
+      <data key="d11">0</data>
+      <data key="d12">1</data>
+      <data key="d13">0</data>
+      <data key="d14">neutral</data>
+    </edge>
+    <edge source="GERMANY" target="ISRAEL">
+      <data key="d8">1</data>
+      <data key="d9">nuclear_program</data>
+      <data key="d10">1</data>
+      <data key="d11">0</data>
+      <data key="d12">1</data>
+      <data key="d13">0</data>
+      <data key="d14">neutral</data>
+    </edge>
+    <edge source="GERMANY" target="UK">
+      <data key="d8">1</data>
+      <data key="d9">nuclear_program</data>
+      <data key="d10">1</data>
+      <data key="d11">0</data>
+      <data key="d12">1</data>
+      <data key="d13">0</data>
+      <data key="d14">neutral</data>
+    </edge>
+    <edge source="GERMANY" target="UN_SECURITY_COUNCIL">
+      <data key="d8">1</data>
+      <data key="d9">nuclear_program</data>
+      <data key="d10">1</data>
+      <data key="d11">0</data>
+      <data key="d12">1</data>
+      <data key="d13">0</data>
+      <data key="d14">neutral</data>
+    </edge>
+    <edge source="GERMANY" target="GAZA">
+      <data key="d8">1</data>
+      <data key="d9">nuclear_program</data>
+      <data key="d10">1</data>
+      <data key="d11">0</data>
+      <data key="d12">1</data>
+      <data key="d13">0</data>
+      <data key="d14">neutral</data>
+    </edge>
+    <edge source="GERMANY" target="CHINA">
+      <data key="d8">1</data>
+      <data key="d9">nuclear_program</data>
+      <data key="d10">1</data>
+      <data key="d11">0</data>
+      <data key="d12">1</data>
+      <data key="d13">0</data>
+      <data key="d14">neutral</data>
+    </edge>
+    <edge source="GAZA" target="TRUMP">
+      <data key="d8">5</data>
+      <data key="d9">deterrence,diplomacy,military_action,nuclear_program,strike_claims</data>
+      <data key="d10">5</data>
+      <data key="d11">1</data>
+      <data key="d12">2</data>
+      <data key="d13">2</data>
+      <data key="d14">mixed</data>
+    </edge>
+    <edge source="GAZA" target="UK">
+      <data key="d8">2</data>
+      <data key="d9">military_action,nuclear_program</data>
+      <data key="d10">2</data>
+      <data key="d11">0</data>
+      <data key="d12">1</data>
+      <data key="d13">1</data>
+      <data key="d14">mixed</data>
+    </edge>
+    <edge source="GAZA" target="UN_SECURITY_COUNCIL">
+      <data key="d8">2</data>
+      <data key="d9">nuclear_program,strike_claims</data>
+      <data key="d10">2</data>
+      <data key="d11">0</data>
+      <data key="d12">2</data>
+      <data key="d13">0</data>
+      <data key="d14">neutral</data>
+    </edge>
+    <edge source="GAZA" target="EU">
+      <data key="d8">3</data>
+      <data key="d9">diplomacy,military_action,nuclear_program</data>
+      <data key="d10">3</data>
+      <data key="d11">1</data>
+      <data key="d12">1</data>
+      <data key="d13">1</data>
+      <data key="d14">mixed</data>
+    </edge>
+    <edge source="GAZA" target="OMAN">
+      <data key="d8">2</data>
+      <data key="d9">diplomacy,military_action</data>
+      <data key="d10">2</data>
+      <data key="d11">1</data>
+      <data key="d12">0</data>
+      <data key="d13">1</data>
+      <data key="d14">mixed</data>
+    </edge>
+    <edge source="GAZA" target="IRAN">
+      <data key="d8">5</data>
+      <data key="d9">deterrence,diplomacy,military_action,nuclear_program,strike_claims</data>
+      <data key="d10">5</data>
+      <data key="d11">1</data>
+      <data key="d12">2</data>
+      <data key="d13">2</data>
+      <data key="d14">mixed</data>
+    </edge>
+    <edge source="GAZA" target="NETANYAHU">
+      <data key="d8">3</data>
+      <data key="d9">diplomacy,military_action,strike_claims</data>
+      <data key="d10">3</data>
+      <data key="d11">1</data>
+      <data key="d12">1</data>
+      <data key="d13">1</data>
+      <data key="d14">mixed</data>
+    </edge>
+    <edge source="GAZA" target="USA">
+      <data key="d8">5</data>
+      <data key="d9">deterrence,diplomacy,military_action,nuclear_program,strike_claims</data>
+      <data key="d10">5</data>
+      <data key="d11">1</data>
+      <data key="d12">2</data>
+      <data key="d13">2</data>
+      <data key="d14">mixed</data>
+    </edge>
+    <edge source="GAZA" target="QATAR">
+      <data key="d8">4</data>
+      <data key="d9">deterrence,military_action,nuclear_program,strike_claims</data>
+      <data key="d10">4</data>
+      <data key="d11">0</data>
+      <data key="d12">2</data>
+      <data key="d13">2</data>
+      <data key="d14">mixed</data>
+    </edge>
+    <edge source="GAZA" target="IAEA">
+      <data key="d8">5</data>
+      <data key="d9">deterrence,diplomacy,military_action,nuclear_program,strike_claims</data>
+      <data key="d10">5</data>
+      <data key="d11">1</data>
+      <data key="d12">2</data>
+      <data key="d13">2</data>
+      <data key="d14">mixed</data>
+    </edge>
+    <edge source="GAZA" target="ISRAEL">
+      <data key="d8">5</data>
+      <data key="d9">deterrence,diplomacy,military_action,nuclear_program,strike_claims</data>
+      <data key="d10">5</data>
+      <data key="d11">1</data>
+      <data key="d12">2</data>
+      <data key="d13">2</data>
+      <data key="d14">mixed</data>
+    </edge>
+    <edge source="GAZA" target="PUTIN">
+      <data key="d8">1</data>
+      <data key="d9">military_action</data>
+      <data key="d10">1</data>
+      <data key="d11">0</data>
+      <data key="d12">0</data>
+      <data key="d13">1</data>
+      <data key="d14">negative</data>
+    </edge>
+    <edge source="GAZA" target="RUSSIA">
+      <data key="d8">3</data>
+      <data key="d9">diplomacy,military_action,strike_claims</data>
+      <data key="d10">3</data>
+      <data key="d11">1</data>
+      <data key="d12">1</data>
+      <data key="d13">1</data>
+      <data key="d14">mixed</data>
+    </edge>
+    <edge source="GAZA" target="CHINA">
+      <data key="d8">4</data>
+      <data key="d9">diplomacy,military_action,nuclear_program,strike_claims</data>
+      <data key="d10">4</data>
+      <data key="d11">1</data>
+      <data key="d12">2</data>
+      <data key="d13">1</data>
+      <data key="d14">neutral</data>
+    </edge>
+    <edge source="OMAN" target="TRUMP">
+      <data key="d8">2</data>
+      <data key="d9">diplomacy,military_action</data>
+      <data key="d10">2</data>
+      <data key="d11">1</data>
+      <data key="d12">0</data>
+      <data key="d13">1</data>
+      <data key="d14">mixed</data>
+    </edge>
+    <edge source="OMAN" target="UK">
+      <data key="d8">1</data>
+      <data key="d9">military_action</data>
+      <data key="d10">1</data>
+      <data key="d11">0</data>
+      <data key="d12">0</data>
+      <data key="d13">1</data>
+      <data key="d14">negative</data>
+    </edge>
+    <edge source="OMAN" target="EU">
+      <data key="d8">2</data>
+      <data key="d9">diplomacy,military_action</data>
+      <data key="d10">2</data>
+      <data key="d11">1</data>
+      <data key="d12">0</data>
+      <data key="d13">1</data>
+      <data key="d14">mixed</data>
+    </edge>
+    <edge source="OMAN" target="IRAN">
+      <data key="d8">2</data>
+      <data key="d9">diplomacy,military_action</data>
+      <data key="d10">2</data>
+      <data key="d11">1</data>
+      <data key="d12">0</data>
+      <data key="d13">1</data>
+      <data key="d14">mixed</data>
+    </edge>
+    <edge source="OMAN" target="NETANYAHU">
+      <data key="d8">2</data>
+      <data key="d9">diplomacy,military_action</data>
+      <data key="d10">2</data>
+      <data key="d11">1</data>
+      <data key="d12">0</data>
+      <data key="d13">1</data>
+      <data key="d14">mixed</data>
+    </edge>
+    <edge source="OMAN" target="USA">
+      <data key="d8">2</data>
+      <data key="d9">diplomacy,military_action</data>
+      <data key="d10">2</data>
+      <data key="d11">1</data>
+      <data key="d12">0</data>
+      <data key="d13">1</data>
+      <data key="d14">mixed</data>
+    </edge>
+    <edge source="OMAN" target="QATAR">
+      <data key="d8">1</data>
+      <data key="d9">military_action</data>
+      <data key="d10">1</data>
+      <data key="d11">0</data>
+      <data key="d12">0</data>
+      <data key="d13">1</data>
+      <data key="d14">negative</data>
+    </edge>
+    <edge source="OMAN" target="IAEA">
+      <data key="d8">2</data>
+      <data key="d9">diplomacy,military_action</data>
+      <data key="d10">2</data>
+      <data key="d11">1</data>
+      <data key="d12">0</data>
+      <data key="d13">1</data>
+      <data key="d14">mixed</data>
+    </edge>
+    <edge source="OMAN" target="ISRAEL">
+      <data key="d8">2</data>
+      <data key="d9">diplomacy,military_action</data>
+      <data key="d10">2</data>
+      <data key="d11">1</data>
+      <data key="d12">0</data>
+      <data key="d13">1</data>
+      <data key="d14">mixed</data>
+    </edge>
+    <edge source="OMAN" target="PUTIN">
+      <data key="d8">1</data>
+      <data key="d9">military_action</data>
+      <data key="d10">1</data>
+      <data key="d11">0</data>
+      <data key="d12">0</data>
+      <data key="d13">1</data>
+      <data key="d14">negative</data>
+    </edge>
+    <edge source="OMAN" target="RUSSIA">
+      <data key="d8">2</data>
+      <data key="d9">diplomacy,military_action</data>
+      <data key="d10">2</data>
+      <data key="d11">1</data>
+      <data key="d12">0</data>
+      <data key="d13">1</data>
+      <data key="d14">mixed</data>
+    </edge>
+    <edge source="OMAN" target="CHINA">
+      <data key="d8">2</data>
+      <data key="d9">diplomacy,military_action</data>
+      <data key="d10">2</data>
+      <data key="d11">1</data>
+      <data key="d12">0</data>
+      <data key="d13">1</data>
+      <data key="d14">mixed</data>
+    </edge>
+    <edge source="USA" target="TRUMP">
+      <data key="d8">5</data>
+      <data key="d9">deterrence,diplomacy,military_action,nuclear_program,strike_claims</data>
+      <data key="d10">5</data>
+      <data key="d11">1</data>
+      <data key="d12">2</data>
+      <data key="d13">2</data>
+      <data key="d14">mixed</data>
+    </edge>
+    <edge source="USA" target="UK">
+      <data key="d8">2</data>
+      <data key="d9">military_action,nuclear_program</data>
+      <data key="d10">2</data>
+      <data key="d11">0</data>
+      <data key="d12">1</data>
+      <data key="d13">1</data>
+      <data key="d14">mixed</data>
+    </edge>
+    <edge source="USA" target="UN_SECURITY_COUNCIL">
+      <data key="d8">2</data>
+      <data key="d9">nuclear_program,strike_claims</data>
+      <data key="d10">2</data>
+      <data key="d11">0</data>
+      <data key="d12">2</data>
+      <data key="d13">0</data>
+      <data key="d14">neutral</data>
+    </edge>
+    <edge source="USA" target="EU">
+      <data key="d8">3</data>
+      <data key="d9">diplomacy,military_action,nuclear_program</data>
+      <data key="d10">3</data>
+      <data key="d11">1</data>
+      <data key="d12">1</data>
+      <data key="d13">1</data>
+      <data key="d14">mixed</data>
+    </edge>
+    <edge source="USA" target="IRAN">
+      <data key="d8">5</data>
+      <data key="d9">deterrence,diplomacy,military_action,nuclear_program,strike_claims</data>
+      <data key="d10">5</data>
+      <data key="d11">1</data>
+      <data key="d12">2</data>
+      <data key="d13">2</data>
+      <data key="d14">mixed</data>
+    </edge>
+    <edge source="USA" target="NETANYAHU">
+      <data key="d8">3</data>
+      <data key="d9">diplomacy,military_action,strike_claims</data>
+      <data key="d10">3</data>
+      <data key="d11">1</data>
+      <data key="d12">1</data>
+      <data key="d13">1</data>
+      <data key="d14">mixed</data>
+    </edge>
+    <edge source="USA" target="QATAR">
+      <data key="d8">4</data>
+      <data key="d9">deterrence,military_action,nuclear_program,strike_claims</data>
+      <data key="d10">4</data>
+      <data key="d11">0</data>
+      <data key="d12">2</data>
+      <data key="d13">2</data>
+      <data key="d14">mixed</data>
+    </edge>
+    <edge source="USA" target="IAEA">
+      <data key="d8">5</data>
+      <data key="d9">deterrence,diplomacy,military_action,nuclear_program,strike_claims</data>
+      <data key="d10">5</data>
+      <data key="d11">1</data>
+      <data key="d12">2</data>
+      <data key="d13">2</data>
+      <data key="d14">mixed</data>
+    </edge>
+    <edge source="USA" target="ISRAEL">
+      <data key="d8">5</data>
+      <data key="d9">deterrence,diplomacy,military_action,nuclear_program,strike_claims</data>
+      <data key="d10">5</data>
+      <data key="d11">1</data>
+      <data key="d12">2</data>
+      <data key="d13">2</data>
+      <data key="d14">mixed</data>
+    </edge>
+    <edge source="USA" target="PUTIN">
+      <data key="d8">1</data>
+      <data key="d9">military_action</data>
+      <data key="d10">1</data>
+      <data key="d11">0</data>
+      <data key="d12">0</data>
+      <data key="d13">1</data>
+      <data key="d14">negative</data>
+    </edge>
+    <edge source="USA" target="RUSSIA">
+      <data key="d8">3</data>
+      <data key="d9">diplomacy,military_action,strike_claims</data>
+      <data key="d10">3</data>
+      <data key="d11">1</data>
+      <data key="d12">1</data>
+      <data key="d13">1</data>
+      <data key="d14">mixed</data>
+    </edge>
+    <edge source="USA" target="CHINA">
+      <data key="d8">4</data>
+      <data key="d9">diplomacy,military_action,nuclear_program,strike_claims</data>
+      <data key="d10">4</data>
+      <data key="d11">1</data>
+      <data key="d12">2</data>
+      <data key="d13">1</data>
+      <data key="d14">neutral</data>
+    </edge>
+    <edge source="QATAR" target="TRUMP">
+      <data key="d8">4</data>
+      <data key="d9">deterrence,military_action,nuclear_program,strike_claims</data>
+      <data key="d10">4</data>
+      <data key="d11">0</data>
+      <data key="d12">2</data>
+      <data key="d13">2</data>
+      <data key="d14">mixed</data>
+    </edge>
+    <edge source="QATAR" target="UK">
+      <data key="d8">2</data>
+      <data key="d9">military_action,nuclear_program</data>
+      <data key="d10">2</data>
+      <data key="d11">0</data>
+      <data key="d12">1</data>
+      <data key="d13">1</data>
+      <data key="d14">mixed</data>
+    </edge>
+    <edge source="QATAR" target="UN_SECURITY_COUNCIL">
+      <data key="d8">2</data>
+      <data key="d9">nuclear_program,strike_claims</data>
+      <data key="d10">2</data>
+      <data key="d11">0</data>
+      <data key="d12">2</data>
+      <data key="d13">0</data>
+      <data key="d14">neutral</data>
+    </edge>
+    <edge source="QATAR" target="EU">
+      <data key="d8">2</data>
+      <data key="d9">military_action,nuclear_program</data>
+      <data key="d10">2</data>
+      <data key="d11">0</data>
+      <data key="d12">1</data>
+      <data key="d13">1</data>
+      <data key="d14">mixed</data>
+    </edge>
+    <edge source="QATAR" target="IRAN">
+      <data key="d8">4</data>
+      <data key="d9">deterrence,military_action,nuclear_program,strike_claims</data>
+      <data key="d10">4</data>
+      <data key="d11">0</data>
+      <data key="d12">2</data>
+      <data key="d13">2</data>
+      <data key="d14">mixed</data>
+    </edge>
+    <edge source="QATAR" target="NETANYAHU">
+      <data key="d8">2</data>
+      <data key="d9">military_action,strike_claims</data>
+      <data key="d10">2</data>
+      <data key="d11">0</data>
+      <data key="d12">1</data>
+      <data key="d13">1</data>
+      <data key="d14">mixed</data>
+    </edge>
+    <edge source="QATAR" target="IAEA">
+      <data key="d8">4</data>
+      <data key="d9">deterrence,military_action,nuclear_program,strike_claims</data>
+      <data key="d10">4</data>
+      <data key="d11">0</data>
+      <data key="d12">2</data>
+      <data key="d13">2</data>
+      <data key="d14">mixed</data>
+    </edge>
+    <edge source="QATAR" target="ISRAEL">
+      <data key="d8">4</data>
+      <data key="d9">deterrence,military_action,nuclear_program,strike_claims</data>
+      <data key="d10">4</data>
+      <data key="d11">0</data>
+      <data key="d12">2</data>
+      <data key="d13">2</data>
+      <data key="d14">mixed</data>
+    </edge>
+    <edge source="QATAR" target="PUTIN">
+      <data key="d8">1</data>
+      <data key="d9">military_action</data>
+      <data key="d10">1</data>
+      <data key="d11">0</data>
+      <data key="d12">0</data>
+      <data key="d13">1</data>
+      <data key="d14">negative</data>
+    </edge>
+    <edge source="QATAR" target="RUSSIA">
+      <data key="d8">2</data>
+      <data key="d9">military_action,strike_claims</data>
+      <data key="d10">2</data>
+      <data key="d11">0</data>
+      <data key="d12">1</data>
+      <data key="d13">1</data>
+      <data key="d14">mixed</data>
+    </edge>
+    <edge source="QATAR" target="CHINA">
+      <data key="d8">3</data>
+      <data key="d9">military_action,nuclear_program,strike_claims</data>
+      <data key="d10">3</data>
+      <data key="d11">0</data>
+      <data key="d12">2</data>
+      <data key="d13">1</data>
+      <data key="d14">neutral</data>
+    </edge>
+    <edge source="IAEA" target="TRUMP">
+      <data key="d8">5</data>
+      <data key="d9">deterrence,diplomacy,military_action,nuclear_program,strike_claims</data>
+      <data key="d10">5</data>
+      <data key="d11">1</data>
+      <data key="d12">2</data>
+      <data key="d13">2</data>
+      <data key="d14">mixed</data>
+    </edge>
+    <edge source="IAEA" target="UK">
+      <data key="d8">2</data>
+      <data key="d9">military_action,nuclear_program</data>
+      <data key="d10">2</data>
+      <data key="d11">0</data>
+      <data key="d12">1</data>
+      <data key="d13">1</data>
+      <data key="d14">mixed</data>
+    </edge>
+    <edge source="IAEA" target="UN_SECURITY_COUNCIL">
+      <data key="d8">2</data>
+      <data key="d9">nuclear_program,strike_claims</data>
+      <data key="d10">2</data>
+      <data key="d11">0</data>
+      <data key="d12">2</data>
+      <data key="d13">0</data>
+      <data key="d14">neutral</data>
+    </edge>
+    <edge source="IAEA" target="EU">
+      <data key="d8">3</data>
+      <data key="d9">diplomacy,military_action,nuclear_program</data>
+      <data key="d10">3</data>
+      <data key="d11">1</data>
+      <data key="d12">1</data>
+      <data key="d13">1</data>
+      <data key="d14">mixed</data>
+    </edge>
+    <edge source="IAEA" target="IRAN">
+      <data key="d8">5</data>
+      <data key="d9">deterrence,diplomacy,military_action,nuclear_program,strike_claims</data>
+      <data key="d10">5</data>
+      <data key="d11">1</data>
+      <data key="d12">2</data>
+      <data key="d13">2</data>
+      <data key="d14">mixed</data>
+    </edge>
+    <edge source="IAEA" target="NETANYAHU">
+      <data key="d8">3</data>
+      <data key="d9">diplomacy,military_action,strike_claims</data>
+      <data key="d10">3</data>
+      <data key="d11">1</data>
+      <data key="d12">1</data>
+      <data key="d13">1</data>
+      <data key="d14">mixed</data>
+    </edge>
+    <edge source="IAEA" target="ISRAEL">
+      <data key="d8">5</data>
+      <data key="d9">deterrence,diplomacy,military_action,nuclear_program,strike_claims</data>
+      <data key="d10">5</data>
+      <data key="d11">1</data>
+      <data key="d12">2</data>
+      <data key="d13">2</data>
+      <data key="d14">mixed</data>
+    </edge>
+    <edge source="IAEA" target="PUTIN">
+      <data key="d8">1</data>
+      <data key="d9">military_action</data>
+      <data key="d10">1</data>
+      <data key="d11">0</data>
+      <data key="d12">0</data>
+      <data key="d13">1</data>
+      <data key="d14">negative</data>
+    </edge>
+    <edge source="IAEA" target="RUSSIA">
+      <data key="d8">3</data>
+      <data key="d9">diplomacy,military_action,strike_claims</data>
+      <data key="d10">3</data>
+      <data key="d11">1</data>
+      <data key="d12">1</data>
+      <data key="d13">1</data>
+      <data key="d14">mixed</data>
+    </edge>
+    <edge source="IAEA" target="CHINA">
+      <data key="d8">4</data>
+      <data key="d9">diplomacy,military_action,nuclear_program,strike_claims</data>
+      <data key="d10">4</data>
+      <data key="d11">1</data>
+      <data key="d12">2</data>
+      <data key="d13">1</data>
+      <data key="d14">neutral</data>
+    </edge>
+    <edge source="ISRAEL" target="TRUMP">
+      <data key="d8">5</data>
+      <data key="d9">deterrence,diplomacy,military_action,nuclear_program,strike_claims</data>
+      <data key="d10">5</data>
+      <data key="d11">1</data>
+      <data key="d12">2</data>
+      <data key="d13">2</data>
+      <data key="d14">mixed</data>
+    </edge>
+    <edge source="ISRAEL" target="UK">
+      <data key="d8">2</data>
+      <data key="d9">military_action,nuclear_program</data>
+      <data key="d10">2</data>
+      <data key="d11">0</data>
+      <data key="d12">1</data>
+      <data key="d13">1</data>
+      <data key="d14">mixed</data>
+    </edge>
+    <edge source="ISRAEL" target="UN_SECURITY_COUNCIL">
+      <data key="d8">2</data>
+      <data key="d9">nuclear_program,strike_claims</data>
+      <data key="d10">2</data>
+      <data key="d11">0</data>
+      <data key="d12">2</data>
+      <data key="d13">0</data>
+      <data key="d14">neutral</data>
+    </edge>
+    <edge source="ISRAEL" target="EU">
+      <data key="d8">3</data>
+      <data key="d9">diplomacy,military_action,nuclear_program</data>
+      <data key="d10">3</data>
+      <data key="d11">1</data>
+      <data key="d12">1</data>
+      <data key="d13">1</data>
+      <data key="d14">mixed</data>
+    </edge>
+    <edge source="ISRAEL" target="IRAN">
+      <data key="d8">5</data>
+      <data key="d9">deterrence,diplomacy,military_action,nuclear_program,strike_claims</data>
+      <data key="d10">5</data>
+      <data key="d11">1</data>
+      <data key="d12">2</data>
+      <data key="d13">2</data>
+      <data key="d14">mixed</data>
+    </edge>
+    <edge source="ISRAEL" target="NETANYAHU">
+      <data key="d8">3</data>
+      <data key="d9">diplomacy,military_action,strike_claims</data>
+      <data key="d10">3</data>
+      <data key="d11">1</data>
+      <data key="d12">1</data>
+      <data key="d13">1</data>
+      <data key="d14">mixed</data>
+    </edge>
+    <edge source="ISRAEL" target="PUTIN">
+      <data key="d8">1</data>
+      <data key="d9">military_action</data>
+      <data key="d10">1</data>
+      <data key="d11">0</data>
+      <data key="d12">0</data>
+      <data key="d13">1</data>
+      <data key="d14">negative</data>
+    </edge>
+    <edge source="ISRAEL" target="RUSSIA">
+      <data key="d8">3</data>
+      <data key="d9">diplomacy,military_action,strike_claims</data>
+      <data key="d10">3</data>
+      <data key="d11">1</data>
+      <data key="d12">1</data>
+      <data key="d13">1</data>
+      <data key="d14">mixed</data>
+    </edge>
+    <edge source="ISRAEL" target="CHINA">
+      <data key="d8">4</data>
+      <data key="d9">diplomacy,military_action,nuclear_program,strike_claims</data>
+      <data key="d10">4</data>
+      <data key="d11">1</data>
+      <data key="d12">2</data>
+      <data key="d13">1</data>
+      <data key="d14">neutral</data>
+    </edge>
+    <edge source="PUTIN" target="TRUMP">
+      <data key="d8">1</data>
+      <data key="d9">military_action</data>
+      <data key="d10">1</data>
+      <data key="d11">0</data>
+      <data key="d12">0</data>
+      <data key="d13">1</data>
+      <data key="d14">negative</data>
+    </edge>
+    <edge source="PUTIN" target="UK">
+      <data key="d8">1</data>
+      <data key="d9">military_action</data>
+      <data key="d10">1</data>
+      <data key="d11">0</data>
+      <data key="d12">0</data>
+      <data key="d13">1</data>
+      <data key="d14">negative</data>
+    </edge>
+    <edge source="PUTIN" target="EU">
+      <data key="d8">1</data>
+      <data key="d9">military_action</data>
+      <data key="d10">1</data>
+      <data key="d11">0</data>
+      <data key="d12">0</data>
+      <data key="d13">1</data>
+      <data key="d14">negative</data>
+    </edge>
+    <edge source="PUTIN" target="IRAN">
+      <data key="d8">1</data>
+      <data key="d9">military_action</data>
+      <data key="d10">1</data>
+      <data key="d11">0</data>
+      <data key="d12">0</data>
+      <data key="d13">1</data>
+      <data key="d14">negative</data>
+    </edge>
+    <edge source="PUTIN" target="NETANYAHU">
+      <data key="d8">1</data>
+      <data key="d9">military_action</data>
+      <data key="d10">1</data>
+      <data key="d11">0</data>
+      <data key="d12">0</data>
+      <data key="d13">1</data>
+      <data key="d14">negative</data>
+    </edge>
+    <edge source="PUTIN" target="RUSSIA">
+      <data key="d8">1</data>
+      <data key="d9">military_action</data>
+      <data key="d10">1</data>
+      <data key="d11">0</data>
+      <data key="d12">0</data>
+      <data key="d13">1</data>
+      <data key="d14">negative</data>
+    </edge>
+    <edge source="PUTIN" target="CHINA">
+      <data key="d8">1</data>
+      <data key="d9">military_action</data>
+      <data key="d10">1</data>
+      <data key="d11">0</data>
+      <data key="d12">0</data>
+      <data key="d13">1</data>
+      <data key="d14">negative</data>
+    </edge>
+    <edge source="CHINA" target="TRUMP">
+      <data key="d8">4</data>
+      <data key="d9">diplomacy,military_action,nuclear_program,strike_claims</data>
+      <data key="d10">4</data>
+      <data key="d11">1</data>
+      <data key="d12">2</data>
+      <data key="d13">1</data>
+      <data key="d14">neutral</data>
+    </edge>
+    <edge source="CHINA" target="UK">
+      <data key="d8">2</data>
+      <data key="d9">military_action,nuclear_program</data>
+      <data key="d10">2</data>
+      <data key="d11">0</data>
+      <data key="d12">1</data>
+      <data key="d13">1</data>
+      <data key="d14">mixed</data>
+    </edge>
+    <edge source="CHINA" target="UN_SECURITY_COUNCIL">
+      <data key="d8">2</data>
+      <data key="d9">nuclear_program,strike_claims</data>
+      <data key="d10">2</data>
+      <data key="d11">0</data>
+      <data key="d12">2</data>
+      <data key="d13">0</data>
+      <data key="d14">neutral</data>
+    </edge>
+    <edge source="CHINA" target="EU">
+      <data key="d8">3</data>
+      <data key="d9">diplomacy,military_action,nuclear_program</data>
+      <data key="d10">3</data>
+      <data key="d11">1</data>
+      <data key="d12">1</data>
+      <data key="d13">1</data>
+      <data key="d14">mixed</data>
+    </edge>
+    <edge source="CHINA" target="IRAN">
+      <data key="d8">4</data>
+      <data key="d9">diplomacy,military_action,nuclear_program,strike_claims</data>
+      <data key="d10">4</data>
+      <data key="d11">1</data>
+      <data key="d12">2</data>
+      <data key="d13">1</data>
+      <data key="d14">neutral</data>
+    </edge>
+    <edge source="CHINA" target="NETANYAHU">
+      <data key="d8">3</data>
+      <data key="d9">diplomacy,military_action,strike_claims</data>
+      <data key="d10">3</data>
+      <data key="d11">1</data>
+      <data key="d12">1</data>
+      <data key="d13">1</data>
+      <data key="d14">mixed</data>
+    </edge>
+    <edge source="CHINA" target="RUSSIA">
+      <data key="d8">3</data>
+      <data key="d9">diplomacy,military_action,strike_claims</data>
+      <data key="d10">3</data>
+      <data key="d11">1</data>
+      <data key="d12">1</data>
+      <data key="d13">1</data>
+      <data key="d14">mixed</data>
+    </edge>
+    <edge source="TRUMP" target="UK">
+      <data key="d8">2</data>
+      <data key="d9">military_action,nuclear_program</data>
+      <data key="d10">2</data>
+      <data key="d11">0</data>
+      <data key="d12">1</data>
+      <data key="d13">1</data>
+      <data key="d14">mixed</data>
+    </edge>
+    <edge source="TRUMP" target="UN_SECURITY_COUNCIL">
+      <data key="d8">2</data>
+      <data key="d9">nuclear_program,strike_claims</data>
+      <data key="d10">2</data>
+      <data key="d11">0</data>
+      <data key="d12">2</data>
+      <data key="d13">0</data>
+      <data key="d14">neutral</data>
+    </edge>
+    <edge source="TRUMP" target="EU">
+      <data key="d8">3</data>
+      <data key="d9">diplomacy,military_action,nuclear_program</data>
+      <data key="d10">3</data>
+      <data key="d11">1</data>
+      <data key="d12">1</data>
+      <data key="d13">1</data>
+      <data key="d14">mixed</data>
+    </edge>
+    <edge source="TRUMP" target="IRAN">
+      <data key="d8">5</data>
+      <data key="d9">deterrence,diplomacy,military_action,nuclear_program,strike_claims</data>
+      <data key="d10">5</data>
+      <data key="d11">1</data>
+      <data key="d12">2</data>
+      <data key="d13">2</data>
+      <data key="d14">mixed</data>
+    </edge>
+    <edge source="TRUMP" target="NETANYAHU">
+      <data key="d8">3</data>
+      <data key="d9">diplomacy,military_action,strike_claims</data>
+      <data key="d10">3</data>
+      <data key="d11">1</data>
+      <data key="d12">1</data>
+      <data key="d13">1</data>
+      <data key="d14">mixed</data>
+    </edge>
+    <edge source="TRUMP" target="RUSSIA">
+      <data key="d8">3</data>
+      <data key="d9">diplomacy,military_action,strike_claims</data>
+      <data key="d10">3</data>
+      <data key="d11">1</data>
+      <data key="d12">1</data>
+      <data key="d13">1</data>
+      <data key="d14">mixed</data>
+    </edge>
+    <edge source="UK" target="UN_SECURITY_COUNCIL">
+      <data key="d8">1</data>
+      <data key="d9">nuclear_program</data>
+      <data key="d10">1</data>
+      <data key="d11">0</data>
+      <data key="d12">1</data>
+      <data key="d13">0</data>
+      <data key="d14">neutral</data>
+    </edge>
+    <edge source="UK" target="EU">
+      <data key="d8">2</data>
+      <data key="d9">military_action,nuclear_program</data>
+      <data key="d10">2</data>
+      <data key="d11">0</data>
+      <data key="d12">1</data>
+      <data key="d13">1</data>
+      <data key="d14">mixed</data>
+    </edge>
+    <edge source="UK" target="IRAN">
+      <data key="d8">2</data>
+      <data key="d9">military_action,nuclear_program</data>
+      <data key="d10">2</data>
+      <data key="d11">0</data>
+      <data key="d12">1</data>
+      <data key="d13">1</data>
+      <data key="d14">mixed</data>
+    </edge>
+    <edge source="UK" target="NETANYAHU">
+      <data key="d8">1</data>
+      <data key="d9">military_action</data>
+      <data key="d10">1</data>
+      <data key="d11">0</data>
+      <data key="d12">0</data>
+      <data key="d13">1</data>
+      <data key="d14">negative</data>
+    </edge>
+    <edge source="UK" target="RUSSIA">
+      <data key="d8">1</data>
+      <data key="d9">military_action</data>
+      <data key="d10">1</data>
+      <data key="d11">0</data>
+      <data key="d12">0</data>
+      <data key="d13">1</data>
+      <data key="d14">negative</data>
+    </edge>
+    <edge source="UN_SECURITY_COUNCIL" target="EU">
+      <data key="d8">1</data>
+      <data key="d9">nuclear_program</data>
+      <data key="d10">1</data>
+      <data key="d11">0</data>
+      <data key="d12">1</data>
+      <data key="d13">0</data>
+      <data key="d14">neutral</data>
+    </edge>
+    <edge source="UN_SECURITY_COUNCIL" target="IRAN">
+      <data key="d8">2</data>
+      <data key="d9">nuclear_program,strike_claims</data>
+      <data key="d10">2</data>
+      <data key="d11">0</data>
+      <data key="d12">2</data>
+      <data key="d13">0</data>
+      <data key="d14">neutral</data>
+    </edge>
+    <edge source="UN_SECURITY_COUNCIL" target="NETANYAHU">
+      <data key="d8">1</data>
+      <data key="d9">strike_claims</data>
+      <data key="d10">1</data>
+      <data key="d11">0</data>
+      <data key="d12">1</data>
+      <data key="d13">0</data>
+      <data key="d14">neutral</data>
+    </edge>
+    <edge source="UN_SECURITY_COUNCIL" target="RUSSIA">
+      <data key="d8">1</data>
+      <data key="d9">strike_claims</data>
+      <data key="d10">1</data>
+      <data key="d11">0</data>
+      <data key="d12">1</data>
+      <data key="d13">0</data>
+      <data key="d14">neutral</data>
+    </edge>
+    <edge source="EU" target="IRAN">
+      <data key="d8">3</data>
+      <data key="d9">diplomacy,military_action,nuclear_program</data>
+      <data key="d10">3</data>
+      <data key="d11">1</data>
+      <data key="d12">1</data>
+      <data key="d13">1</data>
+      <data key="d14">mixed</data>
+    </edge>
+    <edge source="EU" target="NETANYAHU">
+      <data key="d8">2</data>
+      <data key="d9">diplomacy,military_action</data>
+      <data key="d10">2</data>
+      <data key="d11">1</data>
+      <data key="d12">0</data>
+      <data key="d13">1</data>
+      <data key="d14">mixed</data>
+    </edge>
+    <edge source="EU" target="RUSSIA">
+      <data key="d8">2</data>
+      <data key="d9">diplomacy,military_action</data>
+      <data key="d10">2</data>
+      <data key="d11">1</data>
+      <data key="d12">0</data>
+      <data key="d13">1</data>
+      <data key="d14">mixed</data>
+    </edge>
+    <edge source="IRAN" target="NETANYAHU">
+      <data key="d8">3</data>
+      <data key="d9">diplomacy,military_action,strike_claims</data>
+      <data key="d10">3</data>
+      <data key="d11">1</data>
+      <data key="d12">1</data>
+      <data key="d13">1</data>
+      <data key="d14">mixed</data>
+    </edge>
+    <edge source="IRAN" target="RUSSIA">
+      <data key="d8">3</data>
+      <data key="d9">diplomacy,military_action,strike_claims</data>
+      <data key="d10">3</data>
+      <data key="d11">1</data>
+      <data key="d12">1</data>
+      <data key="d13">1</data>
+      <data key="d14">mixed</data>
+    </edge>
+    <edge source="NETANYAHU" target="RUSSIA">
+      <data key="d8">3</data>
+      <data key="d9">diplomacy,military_action,strike_claims</data>
+      <data key="d10">3</data>
+      <data key="d11">1</data>
+      <data key="d12">1</data>
+      <data key="d13">1</data>
+      <data key="d14">mixed</data>
+    </edge>
+    <data key="d0">climax_w2</data>
+  </graph>
+</graphml>

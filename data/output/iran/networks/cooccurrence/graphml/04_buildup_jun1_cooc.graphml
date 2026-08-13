@@ -1,0 +1,922 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d12" for="edge" attr.name="polarity" attr.type="string" />
+  <key id="d11" for="edge" attr.name="top_source" attr.type="string" />
+  <key id="d10" for="edge" attr.name="n_sources" attr.type="long" />
+  <key id="d9" for="edge" attr.name="weight_normalized" attr.type="double" />
+  <key id="d8" for="edge" attr.name="weight" attr.type="long" />
+  <key id="d7" for="node" attr.name="total_weight_norm" attr.type="long" />
+  <key id="d6" for="node" attr.name="total_weight_norm" attr.type="double" />
+  <key id="d5" for="node" attr.name="total_weight" attr.type="long" />
+  <key id="d4" for="node" attr.name="degree" attr.type="long" />
+  <key id="d3" for="node" attr.name="entity_type" attr.type="string" />
+  <key id="d2" for="node" attr.name="node_type" attr.type="string" />
+  <key id="d1" for="node" attr.name="bipartite" attr.type="long" />
+  <key id="d0" for="graph" attr.name="window" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="ARAGHCHI">
+      <data key="d1">0</data>
+      <data key="d2">actor</data>
+      <data key="d3">PERSON</data>
+      <data key="d4">5</data>
+      <data key="d5">43</data>
+      <data key="d6">0.86</data>
+    </node>
+    <node id="BAHRAIN">
+      <data key="d1">0</data>
+      <data key="d2">actor</data>
+      <data key="d3">GPE</data>
+      <data key="d4">0</data>
+      <data key="d5">0</data>
+      <data key="d7">0</data>
+    </node>
+    <node id="BIDEN">
+      <data key="d1">0</data>
+      <data key="d2">actor</data>
+      <data key="d3">PERSON</data>
+      <data key="d4">0</data>
+      <data key="d5">0</data>
+      <data key="d7">0</data>
+    </node>
+    <node id="CHINA">
+      <data key="d1">0</data>
+      <data key="d2">actor</data>
+      <data key="d3">GPE</data>
+      <data key="d4">2</data>
+      <data key="d5">2</data>
+      <data key="d6">0.04</data>
+    </node>
+    <node id="DEMOCRATS">
+      <data key="d1">0</data>
+      <data key="d2">actor</data>
+      <data key="d3">ORG</data>
+      <data key="d4">0</data>
+      <data key="d5">0</data>
+      <data key="d7">0</data>
+    </node>
+    <node id="EU">
+      <data key="d1">0</data>
+      <data key="d2">actor</data>
+      <data key="d3">ORG</data>
+      <data key="d4">4</data>
+      <data key="d5">35</data>
+      <data key="d6">0.7</data>
+    </node>
+    <node id="FRANCE">
+      <data key="d1">0</data>
+      <data key="d2">actor</data>
+      <data key="d3">GPE</data>
+      <data key="d4">3</data>
+      <data key="d5">15</data>
+      <data key="d6">0.3</data>
+    </node>
+    <node id="GAZA">
+      <data key="d1">0</data>
+      <data key="d2">actor</data>
+      <data key="d3">GPE</data>
+      <data key="d4">2</data>
+      <data key="d5">3</data>
+      <data key="d6">0.06</data>
+    </node>
+    <node id="GERMANY">
+      <data key="d1">0</data>
+      <data key="d2">actor</data>
+      <data key="d3">GPE</data>
+      <data key="d4">3</data>
+      <data key="d5">17</data>
+      <data key="d6">0.34</data>
+    </node>
+    <node id="GROSSI">
+      <data key="d1">0</data>
+      <data key="d2">actor</data>
+      <data key="d3">PERSON</data>
+      <data key="d4">3</data>
+      <data key="d5">13</data>
+      <data key="d6">0.26</data>
+    </node>
+    <node id="GULF_STATES">
+      <data key="d1">0</data>
+      <data key="d2">actor</data>
+      <data key="d3">GPE</data>
+      <data key="d4">0</data>
+      <data key="d5">0</data>
+      <data key="d7">0</data>
+    </node>
+    <node id="HAMAS">
+      <data key="d1">0</data>
+      <data key="d2">actor</data>
+      <data key="d3">ORG</data>
+      <data key="d4">0</data>
+      <data key="d5">0</data>
+      <data key="d7">0</data>
+    </node>
+    <node id="HEGSETH">
+      <data key="d1">0</data>
+      <data key="d2">actor</data>
+      <data key="d3">PERSON</data>
+      <data key="d4">0</data>
+      <data key="d5">0</data>
+      <data key="d7">0</data>
+    </node>
+    <node id="HEZBOLLAH">
+      <data key="d1">0</data>
+      <data key="d2">actor</data>
+      <data key="d3">ORG</data>
+      <data key="d4">0</data>
+      <data key="d5">0</data>
+      <data key="d7">0</data>
+    </node>
+    <node id="HOUTHIS">
+      <data key="d1">0</data>
+      <data key="d2">actor</data>
+      <data key="d3">ORG</data>
+      <data key="d4">0</data>
+      <data key="d5">0</data>
+      <data key="d7">0</data>
+    </node>
+    <node id="IAEA">
+      <data key="d1">0</data>
+      <data key="d2">actor</data>
+      <data key="d3">ORG</data>
+      <data key="d4">4</data>
+      <data key="d5">84</data>
+      <data key="d6">1.68</data>
+    </node>
+    <node id="IRAN">
+      <data key="d1">0</data>
+      <data key="d2">actor</data>
+      <data key="d3">GPE</data>
+      <data key="d4">5</data>
+      <data key="d5">385</data>
+      <data key="d6">7.7</data>
+    </node>
+    <node id="IRAQ">
+      <data key="d1">0</data>
+      <data key="d2">actor</data>
+      <data key="d3">GPE</data>
+      <data key="d4">0</data>
+      <data key="d5">0</data>
+      <data key="d7">0</data>
+    </node>
+    <node id="ISRAEL">
+      <data key="d1">0</data>
+      <data key="d2">actor</data>
+      <data key="d3">GPE</data>
+      <data key="d4">5</data>
+      <data key="d5">40</data>
+      <data key="d6">0.8</data>
+    </node>
+    <node id="KHAMENEI">
+      <data key="d1">0</data>
+      <data key="d2">actor</data>
+      <data key="d3">PERSON</data>
+      <data key="d4">3</data>
+      <data key="d5">10</data>
+      <data key="d6">0.2</data>
+    </node>
+    <node id="LEBANON">
+      <data key="d1">0</data>
+      <data key="d2">actor</data>
+      <data key="d3">GPE</data>
+      <data key="d4">3</data>
+      <data key="d5">3</data>
+      <data key="d6">0.06</data>
+    </node>
+    <node id="NATO">
+      <data key="d1">0</data>
+      <data key="d2">actor</data>
+      <data key="d3">ORG</data>
+      <data key="d4">0</data>
+      <data key="d5">0</data>
+      <data key="d7">0</data>
+    </node>
+    <node id="NETANYAHU">
+      <data key="d1">0</data>
+      <data key="d2">actor</data>
+      <data key="d3">PERSON</data>
+      <data key="d4">1</data>
+      <data key="d5">1</data>
+      <data key="d6">0.02</data>
+    </node>
+    <node id="OBAMA">
+      <data key="d1">0</data>
+      <data key="d2">actor</data>
+      <data key="d3">PERSON</data>
+      <data key="d4">0</data>
+      <data key="d5">0</data>
+      <data key="d7">0</data>
+    </node>
+    <node id="OMAN">
+      <data key="d1">0</data>
+      <data key="d2">actor</data>
+      <data key="d3">GPE</data>
+      <data key="d4">2</data>
+      <data key="d5">29</data>
+      <data key="d6">0.58</data>
+    </node>
+    <node id="PEZESHKIAN">
+      <data key="d1">0</data>
+      <data key="d2">actor</data>
+      <data key="d3">PERSON</data>
+      <data key="d4">5</data>
+      <data key="d5">16</data>
+      <data key="d6">0.32</data>
+    </node>
+    <node id="PUTIN">
+      <data key="d1">0</data>
+      <data key="d2">actor</data>
+      <data key="d3">PERSON</data>
+      <data key="d4">1</data>
+      <data key="d5">1</data>
+      <data key="d6">0.02</data>
+    </node>
+    <node id="QATAR">
+      <data key="d1">0</data>
+      <data key="d2">actor</data>
+      <data key="d3">GPE</data>
+      <data key="d4">0</data>
+      <data key="d5">0</data>
+      <data key="d7">0</data>
+    </node>
+    <node id="REPUBLICANS">
+      <data key="d1">0</data>
+      <data key="d2">actor</data>
+      <data key="d3">ORG</data>
+      <data key="d4">0</data>
+      <data key="d5">0</data>
+      <data key="d7">0</data>
+    </node>
+    <node id="RUBIO">
+      <data key="d1">0</data>
+      <data key="d2">actor</data>
+      <data key="d3">PERSON</data>
+      <data key="d4">0</data>
+      <data key="d5">0</data>
+      <data key="d7">0</data>
+    </node>
+    <node id="RUSSIA">
+      <data key="d1">0</data>
+      <data key="d2">actor</data>
+      <data key="d3">GPE</data>
+      <data key="d4">3</data>
+      <data key="d5">8</data>
+      <data key="d6">0.16</data>
+    </node>
+    <node id="SAUDI_ARABIA">
+      <data key="d1">0</data>
+      <data key="d2">actor</data>
+      <data key="d3">GPE</data>
+      <data key="d4">0</data>
+      <data key="d5">0</data>
+      <data key="d7">0</data>
+    </node>
+    <node id="SYRIA">
+      <data key="d1">0</data>
+      <data key="d2">actor</data>
+      <data key="d3">GPE</data>
+      <data key="d4">1</data>
+      <data key="d5">1</data>
+      <data key="d6">0.02</data>
+    </node>
+    <node id="TRUMP">
+      <data key="d1">0</data>
+      <data key="d2">actor</data>
+      <data key="d3">PERSON</data>
+      <data key="d4">5</data>
+      <data key="d5">16</data>
+      <data key="d6">0.32</data>
+    </node>
+    <node id="UAE">
+      <data key="d1">0</data>
+      <data key="d2">actor</data>
+      <data key="d3">GPE</data>
+      <data key="d4">0</data>
+      <data key="d5">0</data>
+      <data key="d7">0</data>
+    </node>
+    <node id="UK">
+      <data key="d1">0</data>
+      <data key="d2">actor</data>
+      <data key="d3">GPE</data>
+      <data key="d4">3</data>
+      <data key="d5">17</data>
+      <data key="d6">0.34</data>
+    </node>
+    <node id="UKRAINE">
+      <data key="d1">0</data>
+      <data key="d2">actor</data>
+      <data key="d3">GPE</data>
+      <data key="d4">0</data>
+      <data key="d5">0</data>
+      <data key="d7">0</data>
+    </node>
+    <node id="UN_SECURITY_COUNCIL">
+      <data key="d1">0</data>
+      <data key="d2">actor</data>
+      <data key="d3">ORG</data>
+      <data key="d4">2</data>
+      <data key="d5">3</data>
+      <data key="d6">0.06</data>
+    </node>
+    <node id="USA">
+      <data key="d1">0</data>
+      <data key="d2">actor</data>
+      <data key="d3">GPE</data>
+      <data key="d4">5</data>
+      <data key="d5">183</data>
+      <data key="d6">3.66</data>
+    </node>
+    <node id="US_CONGRESS">
+      <data key="d1">0</data>
+      <data key="d2">actor</data>
+      <data key="d3">ORG</data>
+      <data key="d4">1</data>
+      <data key="d5">1</data>
+      <data key="d6">0.02</data>
+    </node>
+    <node id="US_SENATE">
+      <data key="d1">0</data>
+      <data key="d2">actor</data>
+      <data key="d3">ORG</data>
+      <data key="d4">0</data>
+      <data key="d5">0</data>
+      <data key="d7">0</data>
+    </node>
+    <node id="VANCE">
+      <data key="d1">0</data>
+      <data key="d2">actor</data>
+      <data key="d3">PERSON</data>
+      <data key="d4">0</data>
+      <data key="d5">0</data>
+      <data key="d7">0</data>
+    </node>
+    <node id="WITKOFF">
+      <data key="d1">0</data>
+      <data key="d2">actor</data>
+      <data key="d3">PERSON</data>
+      <data key="d4">2</data>
+      <data key="d5">5</data>
+      <data key="d6">0.1</data>
+    </node>
+    <node id="YEMEN">
+      <data key="d1">0</data>
+      <data key="d2">actor</data>
+      <data key="d3">GPE</data>
+      <data key="d4">0</data>
+      <data key="d5">0</data>
+      <data key="d7">0</data>
+    </node>
+    <node id="military_action">
+      <data key="d1">1</data>
+      <data key="d2">concept</data>
+      <data key="d3">CONCEPT</data>
+      <data key="d4">7</data>
+      <data key="d5">40</data>
+      <data key="d6">0.8</data>
+    </node>
+    <node id="nuclear_program">
+      <data key="d1">1</data>
+      <data key="d2">concept</data>
+      <data key="d3">CONCEPT</data>
+      <data key="d4">19</data>
+      <data key="d5">427</data>
+      <data key="d6">8.54</data>
+    </node>
+    <node id="deterrence">
+      <data key="d1">1</data>
+      <data key="d2">concept</data>
+      <data key="d3">CONCEPT</data>
+      <data key="d4">11</data>
+      <data key="d5">67</data>
+      <data key="d6">1.34</data>
+    </node>
+    <node id="diplomacy">
+      <data key="d1">1</data>
+      <data key="d2">concept</data>
+      <data key="d3">CONCEPT</data>
+      <data key="d4">23</data>
+      <data key="d5">332</data>
+      <data key="d6">6.64</data>
+    </node>
+    <node id="strike_claims">
+      <data key="d1">1</data>
+      <data key="d2">concept</data>
+      <data key="d3">CONCEPT</data>
+      <data key="d4">13</data>
+      <data key="d5">65</data>
+      <data key="d6">1.3</data>
+    </node>
+    <edge source="ARAGHCHI" target="nuclear_program">
+      <data key="d8">19</data>
+      <data key="d9">0.38</data>
+      <data key="d10">2</data>
+      <data key="d11">Islamic Republic News Agency (English)</data>
+      <data key="d12">neutral</data>
+    </edge>
+    <edge source="ARAGHCHI" target="diplomacy">
+      <data key="d8">17</data>
+      <data key="d9">0.34</data>
+      <data key="d10">2</data>
+      <data key="d11">Islamic Republic News Agency (English)</data>
+      <data key="d12">positive</data>
+    </edge>
+    <edge source="ARAGHCHI" target="strike_claims">
+      <data key="d8">3</data>
+      <data key="d9">0.06</data>
+      <data key="d10">2</data>
+      <data key="d11">Islamic Republic News Agency (English)</data>
+      <data key="d12">neutral</data>
+    </edge>
+    <edge source="ARAGHCHI" target="military_action">
+      <data key="d8">2</data>
+      <data key="d9">0.04</data>
+      <data key="d10">1</data>
+      <data key="d11">Tasnim News Agency (English)</data>
+      <data key="d12">negative</data>
+    </edge>
+    <edge source="ARAGHCHI" target="deterrence">
+      <data key="d8">2</data>
+      <data key="d9">0.04</data>
+      <data key="d10">2</data>
+      <data key="d11">Tasnim News Agency (English)</data>
+      <data key="d12">negative</data>
+    </edge>
+    <edge source="CHINA" target="diplomacy">
+      <data key="d8">1</data>
+      <data key="d9">0.02</data>
+      <data key="d10">1</data>
+      <data key="d11">Tasnim News Agency (English)</data>
+      <data key="d12">positive</data>
+    </edge>
+    <edge source="CHINA" target="nuclear_program">
+      <data key="d8">1</data>
+      <data key="d9">0.02</data>
+      <data key="d10">1</data>
+      <data key="d11">Tasnim News Agency (English)</data>
+      <data key="d12">neutral</data>
+    </edge>
+    <edge source="EU" target="diplomacy">
+      <data key="d8">13</data>
+      <data key="d9">0.26</data>
+      <data key="d10">2</data>
+      <data key="d11">Islamic Republic News Agency (English)</data>
+      <data key="d12">positive</data>
+    </edge>
+    <edge source="EU" target="nuclear_program">
+      <data key="d8">12</data>
+      <data key="d9">0.24</data>
+      <data key="d10">2</data>
+      <data key="d11">Islamic Republic News Agency (English)</data>
+      <data key="d12">neutral</data>
+    </edge>
+    <edge source="EU" target="strike_claims">
+      <data key="d8">6</data>
+      <data key="d9">0.12</data>
+      <data key="d10">2</data>
+      <data key="d11">Islamic Republic News Agency (English)</data>
+      <data key="d12">neutral</data>
+    </edge>
+    <edge source="EU" target="deterrence">
+      <data key="d8">4</data>
+      <data key="d9">0.08</data>
+      <data key="d10">2</data>
+      <data key="d11">Islamic Republic News Agency (English)</data>
+      <data key="d12">negative</data>
+    </edge>
+    <edge source="FRANCE" target="strike_claims">
+      <data key="d8">2</data>
+      <data key="d9">0.04</data>
+      <data key="d10">2</data>
+      <data key="d11">Islamic Republic News Agency (English)</data>
+      <data key="d12">neutral</data>
+    </edge>
+    <edge source="FRANCE" target="diplomacy">
+      <data key="d8">6</data>
+      <data key="d9">0.12</data>
+      <data key="d10">2</data>
+      <data key="d11">Islamic Republic News Agency (English)</data>
+      <data key="d12">positive</data>
+    </edge>
+    <edge source="FRANCE" target="nuclear_program">
+      <data key="d8">7</data>
+      <data key="d9">0.14</data>
+      <data key="d10">2</data>
+      <data key="d11">Tasnim News Agency (English)</data>
+      <data key="d12">neutral</data>
+    </edge>
+    <edge source="GAZA" target="diplomacy">
+      <data key="d8">2</data>
+      <data key="d9">0.04</data>
+      <data key="d10">2</data>
+      <data key="d11">Islamic Republic News Agency (English)</data>
+      <data key="d12">positive</data>
+    </edge>
+    <edge source="GAZA" target="strike_claims">
+      <data key="d8">1</data>
+      <data key="d9">0.02</data>
+      <data key="d10">1</data>
+      <data key="d11">Tasnim News Agency (English)</data>
+      <data key="d12">neutral</data>
+    </edge>
+    <edge source="GERMANY" target="strike_claims">
+      <data key="d8">3</data>
+      <data key="d9">0.06</data>
+      <data key="d10">2</data>
+      <data key="d11">Islamic Republic News Agency (English)</data>
+      <data key="d12">neutral</data>
+    </edge>
+    <edge source="GERMANY" target="diplomacy">
+      <data key="d8">8</data>
+      <data key="d9">0.16</data>
+      <data key="d10">2</data>
+      <data key="d11">Islamic Republic News Agency (English)</data>
+      <data key="d12">positive</data>
+    </edge>
+    <edge source="GERMANY" target="nuclear_program">
+      <data key="d8">6</data>
+      <data key="d9">0.12</data>
+      <data key="d10">2</data>
+      <data key="d11">Tasnim News Agency (English)</data>
+      <data key="d12">neutral</data>
+    </edge>
+    <edge source="GROSSI" target="nuclear_program">
+      <data key="d8">9</data>
+      <data key="d9">0.18</data>
+      <data key="d10">2</data>
+      <data key="d11">Islamic Republic News Agency (English)</data>
+      <data key="d12">neutral</data>
+    </edge>
+    <edge source="GROSSI" target="diplomacy">
+      <data key="d8">3</data>
+      <data key="d9">0.06</data>
+      <data key="d10">2</data>
+      <data key="d11">Tasnim News Agency (English)</data>
+      <data key="d12">positive</data>
+    </edge>
+    <edge source="GROSSI" target="deterrence">
+      <data key="d8">1</data>
+      <data key="d9">0.02</data>
+      <data key="d10">1</data>
+      <data key="d11">Islamic Republic News Agency (English)</data>
+      <data key="d12">negative</data>
+    </edge>
+    <edge source="IAEA" target="nuclear_program">
+      <data key="d8">62</data>
+      <data key="d9">1.24</data>
+      <data key="d10">2</data>
+      <data key="d11">Tasnim News Agency (English)</data>
+      <data key="d12">neutral</data>
+    </edge>
+    <edge source="IAEA" target="diplomacy">
+      <data key="d8">9</data>
+      <data key="d9">0.18</data>
+      <data key="d10">2</data>
+      <data key="d11">Islamic Republic News Agency (English)</data>
+      <data key="d12">positive</data>
+    </edge>
+    <edge source="IAEA" target="strike_claims">
+      <data key="d8">7</data>
+      <data key="d9">0.14</data>
+      <data key="d10">2</data>
+      <data key="d11">Islamic Republic News Agency (English)</data>
+      <data key="d12">neutral</data>
+    </edge>
+    <edge source="IAEA" target="deterrence">
+      <data key="d8">6</data>
+      <data key="d9">0.12</data>
+      <data key="d10">2</data>
+      <data key="d11">Islamic Republic News Agency (English)</data>
+      <data key="d12">negative</data>
+    </edge>
+    <edge source="IRAN" target="nuclear_program">
+      <data key="d8">181</data>
+      <data key="d9">3.62</data>
+      <data key="d10">2</data>
+      <data key="d11">Tasnim News Agency (English)</data>
+      <data key="d12">neutral</data>
+    </edge>
+    <edge source="IRAN" target="diplomacy">
+      <data key="d8">135</data>
+      <data key="d9">2.7</data>
+      <data key="d10">2</data>
+      <data key="d11">Islamic Republic News Agency (English)</data>
+      <data key="d12">positive</data>
+    </edge>
+    <edge source="IRAN" target="military_action">
+      <data key="d8">18</data>
+      <data key="d9">0.36</data>
+      <data key="d10">2</data>
+      <data key="d11">Tasnim News Agency (English)</data>
+      <data key="d12">negative</data>
+    </edge>
+    <edge source="IRAN" target="deterrence">
+      <data key="d8">28</data>
+      <data key="d9">0.56</data>
+      <data key="d10">2</data>
+      <data key="d11">Islamic Republic News Agency (English)</data>
+      <data key="d12">negative</data>
+    </edge>
+    <edge source="IRAN" target="strike_claims">
+      <data key="d8">23</data>
+      <data key="d9">0.46</data>
+      <data key="d10">2</data>
+      <data key="d11">Islamic Republic News Agency (English)</data>
+      <data key="d12">neutral</data>
+    </edge>
+    <edge source="ISRAEL" target="military_action">
+      <data key="d8">10</data>
+      <data key="d9">0.2</data>
+      <data key="d10">2</data>
+      <data key="d11">Tasnim News Agency (English)</data>
+      <data key="d12">negative</data>
+    </edge>
+    <edge source="ISRAEL" target="nuclear_program">
+      <data key="d8">14</data>
+      <data key="d9">0.28</data>
+      <data key="d10">2</data>
+      <data key="d11">Islamic Republic News Agency (English)</data>
+      <data key="d12">neutral</data>
+    </edge>
+    <edge source="ISRAEL" target="diplomacy">
+      <data key="d8">5</data>
+      <data key="d9">0.1</data>
+      <data key="d10">2</data>
+      <data key="d11">Islamic Republic News Agency (English)</data>
+      <data key="d12">positive</data>
+    </edge>
+    <edge source="ISRAEL" target="deterrence">
+      <data key="d8">6</data>
+      <data key="d9">0.12</data>
+      <data key="d10">2</data>
+      <data key="d11">Islamic Republic News Agency (English)</data>
+      <data key="d12">negative</data>
+    </edge>
+    <edge source="ISRAEL" target="strike_claims">
+      <data key="d8">5</data>
+      <data key="d9">0.1</data>
+      <data key="d10">2</data>
+      <data key="d11">Tasnim News Agency (English)</data>
+      <data key="d12">neutral</data>
+    </edge>
+    <edge source="KHAMENEI" target="nuclear_program">
+      <data key="d8">8</data>
+      <data key="d9">0.16</data>
+      <data key="d10">1</data>
+      <data key="d11">Tasnim News Agency (English)</data>
+      <data key="d12">neutral</data>
+    </edge>
+    <edge source="KHAMENEI" target="strike_claims">
+      <data key="d8">1</data>
+      <data key="d9">0.02</data>
+      <data key="d10">1</data>
+      <data key="d11">Tasnim News Agency (English)</data>
+      <data key="d12">neutral</data>
+    </edge>
+    <edge source="KHAMENEI" target="diplomacy">
+      <data key="d8">1</data>
+      <data key="d9">0.02</data>
+      <data key="d10">1</data>
+      <data key="d11">Tasnim News Agency (English)</data>
+      <data key="d12">positive</data>
+    </edge>
+    <edge source="LEBANON" target="nuclear_program">
+      <data key="d8">1</data>
+      <data key="d9">0.02</data>
+      <data key="d10">1</data>
+      <data key="d11">Tasnim News Agency (English)</data>
+      <data key="d12">neutral</data>
+    </edge>
+    <edge source="LEBANON" target="military_action">
+      <data key="d8">1</data>
+      <data key="d9">0.02</data>
+      <data key="d10">1</data>
+      <data key="d11">Tasnim News Agency (English)</data>
+      <data key="d12">negative</data>
+    </edge>
+    <edge source="LEBANON" target="diplomacy">
+      <data key="d8">1</data>
+      <data key="d9">0.02</data>
+      <data key="d10">1</data>
+      <data key="d11">Islamic Republic News Agency (English)</data>
+      <data key="d12">positive</data>
+    </edge>
+    <edge source="NETANYAHU" target="diplomacy">
+      <data key="d8">1</data>
+      <data key="d9">0.02</data>
+      <data key="d10">1</data>
+      <data key="d11">Islamic Republic News Agency (English)</data>
+      <data key="d12">positive</data>
+    </edge>
+    <edge source="OMAN" target="nuclear_program">
+      <data key="d8">11</data>
+      <data key="d9">0.22</data>
+      <data key="d10">1</data>
+      <data key="d11">Tasnim News Agency (English)</data>
+      <data key="d12">neutral</data>
+    </edge>
+    <edge source="OMAN" target="diplomacy">
+      <data key="d8">18</data>
+      <data key="d9">0.36</data>
+      <data key="d10">2</data>
+      <data key="d11">Tasnim News Agency (English)</data>
+      <data key="d12">positive</data>
+    </edge>
+    <edge source="PEZESHKIAN" target="nuclear_program">
+      <data key="d8">7</data>
+      <data key="d9">0.14</data>
+      <data key="d10">2</data>
+      <data key="d11">Islamic Republic News Agency (English)</data>
+      <data key="d12">neutral</data>
+    </edge>
+    <edge source="PEZESHKIAN" target="strike_claims">
+      <data key="d8">2</data>
+      <data key="d9">0.04</data>
+      <data key="d10">2</data>
+      <data key="d11">Islamic Republic News Agency (English)</data>
+      <data key="d12">neutral</data>
+    </edge>
+    <edge source="PEZESHKIAN" target="diplomacy">
+      <data key="d8">4</data>
+      <data key="d9">0.08</data>
+      <data key="d10">2</data>
+      <data key="d11">Islamic Republic News Agency (English)</data>
+      <data key="d12">positive</data>
+    </edge>
+    <edge source="PEZESHKIAN" target="deterrence">
+      <data key="d8">2</data>
+      <data key="d9">0.04</data>
+      <data key="d10">2</data>
+      <data key="d11">Islamic Republic News Agency (English)</data>
+      <data key="d12">negative</data>
+    </edge>
+    <edge source="PEZESHKIAN" target="military_action">
+      <data key="d8">1</data>
+      <data key="d9">0.02</data>
+      <data key="d10">1</data>
+      <data key="d11">Tasnim News Agency (English)</data>
+      <data key="d12">negative</data>
+    </edge>
+    <edge source="PUTIN" target="diplomacy">
+      <data key="d8">1</data>
+      <data key="d9">0.02</data>
+      <data key="d10">1</data>
+      <data key="d11">Tasnim News Agency (English)</data>
+      <data key="d12">positive</data>
+    </edge>
+    <edge source="RUSSIA" target="diplomacy">
+      <data key="d8">4</data>
+      <data key="d9">0.08</data>
+      <data key="d10">2</data>
+      <data key="d11">Tasnim News Agency (English)</data>
+      <data key="d12">positive</data>
+    </edge>
+    <edge source="RUSSIA" target="nuclear_program">
+      <data key="d8">3</data>
+      <data key="d9">0.06</data>
+      <data key="d10">2</data>
+      <data key="d11">Islamic Republic News Agency (English)</data>
+      <data key="d12">neutral</data>
+    </edge>
+    <edge source="RUSSIA" target="deterrence">
+      <data key="d8">1</data>
+      <data key="d9">0.02</data>
+      <data key="d10">1</data>
+      <data key="d11">Islamic Republic News Agency (English)</data>
+      <data key="d12">negative</data>
+    </edge>
+    <edge source="SYRIA" target="nuclear_program">
+      <data key="d8">1</data>
+      <data key="d9">0.02</data>
+      <data key="d10">1</data>
+      <data key="d11">Tasnim News Agency (English)</data>
+      <data key="d12">neutral</data>
+    </edge>
+    <edge source="TRUMP" target="military_action">
+      <data key="d8">3</data>
+      <data key="d9">0.06</data>
+      <data key="d10">1</data>
+      <data key="d11">Tasnim News Agency (English)</data>
+      <data key="d12">negative</data>
+    </edge>
+    <edge source="TRUMP" target="diplomacy">
+      <data key="d8">2</data>
+      <data key="d9">0.04</data>
+      <data key="d10">1</data>
+      <data key="d11">Tasnim News Agency (English)</data>
+      <data key="d12">positive</data>
+    </edge>
+    <edge source="TRUMP" target="nuclear_program">
+      <data key="d8">9</data>
+      <data key="d9">0.18</data>
+      <data key="d10">2</data>
+      <data key="d11">Tasnim News Agency (English)</data>
+      <data key="d12">neutral</data>
+    </edge>
+    <edge source="TRUMP" target="deterrence">
+      <data key="d8">1</data>
+      <data key="d9">0.02</data>
+      <data key="d10">1</data>
+      <data key="d11">Tasnim News Agency (English)</data>
+      <data key="d12">negative</data>
+    </edge>
+    <edge source="TRUMP" target="strike_claims">
+      <data key="d8">1</data>
+      <data key="d9">0.02</data>
+      <data key="d10">1</data>
+      <data key="d11">Tasnim News Agency (English)</data>
+      <data key="d12">neutral</data>
+    </edge>
+    <edge source="UK" target="strike_claims">
+      <data key="d8">3</data>
+      <data key="d9">0.06</data>
+      <data key="d10">2</data>
+      <data key="d11">Islamic Republic News Agency (English)</data>
+      <data key="d12">neutral</data>
+    </edge>
+    <edge source="UK" target="diplomacy">
+      <data key="d8">8</data>
+      <data key="d9">0.16</data>
+      <data key="d10">2</data>
+      <data key="d11">Islamic Republic News Agency (English)</data>
+      <data key="d12">positive</data>
+    </edge>
+    <edge source="UK" target="nuclear_program">
+      <data key="d8">6</data>
+      <data key="d9">0.12</data>
+      <data key="d10">2</data>
+      <data key="d11">Tasnim News Agency (English)</data>
+      <data key="d12">neutral</data>
+    </edge>
+    <edge source="UN_SECURITY_COUNCIL" target="diplomacy">
+      <data key="d8">1</data>
+      <data key="d9">0.02</data>
+      <data key="d10">1</data>
+      <data key="d11">Islamic Republic News Agency (English)</data>
+      <data key="d12">positive</data>
+    </edge>
+    <edge source="UN_SECURITY_COUNCIL" target="deterrence">
+      <data key="d8">2</data>
+      <data key="d9">0.04</data>
+      <data key="d10">2</data>
+      <data key="d11">Islamic Republic News Agency (English)</data>
+      <data key="d12">negative</data>
+    </edge>
+    <edge source="USA" target="nuclear_program">
+      <data key="d8">68</data>
+      <data key="d9">1.36</data>
+      <data key="d10">2</data>
+      <data key="d11">Tasnim News Agency (English)</data>
+      <data key="d12">neutral</data>
+    </edge>
+    <edge source="USA" target="diplomacy">
+      <data key="d8">88</data>
+      <data key="d9">1.76</data>
+      <data key="d10">2</data>
+      <data key="d11">Islamic Republic News Agency (English)</data>
+      <data key="d12">positive</data>
+    </edge>
+    <edge source="USA" target="military_action">
+      <data key="d8">5</data>
+      <data key="d9">0.1</data>
+      <data key="d10">1</data>
+      <data key="d11">Tasnim News Agency (English)</data>
+      <data key="d12">negative</data>
+    </edge>
+    <edge source="USA" target="deterrence">
+      <data key="d8">14</data>
+      <data key="d9">0.28</data>
+      <data key="d10">2</data>
+      <data key="d11">Islamic Republic News Agency (English)</data>
+      <data key="d12">negative</data>
+    </edge>
+    <edge source="USA" target="strike_claims">
+      <data key="d8">8</data>
+      <data key="d9">0.16</data>
+      <data key="d10">2</data>
+      <data key="d11">Tasnim News Agency (English)</data>
+      <data key="d12">neutral</data>
+    </edge>
+    <edge source="US_CONGRESS" target="diplomacy">
+      <data key="d8">1</data>
+      <data key="d9">0.02</data>
+      <data key="d10">1</data>
+      <data key="d11">Islamic Republic News Agency (English)</data>
+      <data key="d12">positive</data>
+    </edge>
+    <edge source="WITKOFF" target="nuclear_program">
+      <data key="d8">2</data>
+      <data key="d9">0.04</data>
+      <data key="d10">2</data>
+      <data key="d11">Tasnim News Agency (English)</data>
+      <data key="d12">neutral</data>
+    </edge>
+    <edge source="WITKOFF" target="diplomacy">
+      <data key="d8">3</data>
+      <data key="d9">0.06</data>
+      <data key="d10">2</data>
+      <data key="d11">Islamic Republic News Agency (English)</data>
+      <data key="d12">positive</data>
+    </edge>
+    <data key="d0">buildup_jun1</data>
+  </graph>
+</graphml>
